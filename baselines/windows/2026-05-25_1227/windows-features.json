@@ -1,0 +1,83 @@
+[
+  {
+    "FeatureName": "Containers"
+  },
+  {
+    "FeatureName": "Containers-HNS"
+  },
+  {
+    "FeatureName": "Containers-SDN"
+  },
+  {
+    "FeatureName": "HypervisorPlatform"
+  },
+  {
+    "FeatureName": "MediaPlayback"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-All"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-Hypervisor"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-Management-Clients"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-Management-PowerShell"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-Services"
+  },
+  {
+    "FeatureName": "Microsoft-Hyper-V-Tools-All"
+  },
+  {
+    "FeatureName": "Microsoft-RemoteDesktopConnection"
+  },
+  {
+    "FeatureName": "Microsoft-Windows-Subsystem-Linux"
+  },
+  {
+    "FeatureName": "MSRDC-Infrastructure"
+  },
+  {
+    "FeatureName": "NetFx3"
+  },
+  {
+    "FeatureName": "NetFx4-AdvSrvs"
+  },
+  {
+    "FeatureName": "Printing-Foundation-Features"
+  },
+  {
+    "FeatureName": "Printing-Foundation-InternetPrinting-Client"
+  },
+  {
+    "FeatureName": "Printing-PrintToPDFServices-Features"
+  },
+  {
+    "FeatureName": "SearchEngine-Client-Package"
+  },
+  {
+    "FeatureName": "SmbDirect"
+  },
+  {
+    "FeatureName": "VirtualMachinePlatform"
+  },
+  {
+    "FeatureName": "WCF-Services45"
+  },
+  {
+    "FeatureName": "WCF-TCP-PortSharing45"
+  },
+  {
+    "FeatureName": "WindowsMediaPlayer"
+  },
+  {
+    "FeatureName": "WorkFolders-Client"
+  }
+]

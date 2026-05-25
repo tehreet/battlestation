@@ -1,0 +1,13 @@
+[
+  {
+    "conversion_status": "1",
+    "device_id": "\\\\?\\Volume{0540f355-5c38-4cfb-b5a9-dfbb0bd8190c}\\",
+    "drive_letter": "C:",
+    "encryption_method": "XTS_AES_128",
+    "lock_status": "0",
+    "percentage_encrypted": "100",
+    "persistent_volume_id": "{48BE3596-8967-44E1-ACFD-E6A64F747356}",
+    "protection_status": "1",
+    "version": "2"
+  }
+]

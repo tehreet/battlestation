@@ -1,0 +1,452 @@
+[
+  {
+    "args": "--autostart",
+    "name": "com.blitz.app",
+    "path": "C:\\Users\\joshf\\AppData\\Local\\Programs\\Blitz\\Blitz.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "desktop.ini",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini",
+    "source": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "desktop.ini",
+    "path": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\desktop.ini",
+    "source": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "--processStart Discord.exe --process-start-args --start-minimized",
+    "name": "Discord",
+    "path": "C:\\Users\\joshf\\AppData\\Local\\Discord\\Update.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "Docker Desktop",
+    "path": "C:\\Program Files\\Docker\\Docker\\Docker Desktop.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "electron.app.TFTAcademy",
+    "path": "C:\\Users\\joshf\\AppData\\Local\\Programs\\TFTAcademy\\TFTAcademy.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "Focusrite Notifier",
+    "path": "C:\\Program Files\\Focusrite\\Drivers\\Focusrite Notifier.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "Gif Your Game",
+    "path": "C:\\Users\\joshf\\AppData\\Local\\Programs\\badpanda-react\\Gif Your Game.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "--no-startup-window /prefetch:5",
+    "name": "GoogleChromeAutoLaunch_72BAC9237C8403A74681074B8F134D05",
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "C:\\Windows\\System32\\LogiLDA.dll,LogiFetch",
+    "name": "Logitech Download Assistant",
+    "path": "C:\\Windows\\system32\\rundll32.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "main_monitor_swap.ahk - Shortcut.lnk",
+    "path": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\main_monitor_swap.ahk - Shortcut.lnk",
+    "source": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "--process-start-args --launch-hidden",
+    "name": "NVIDIA Broadcast ",
+    "path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA Broadcast\\NVIDIA Broadcast.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "/background",
+    "name": "OneDrive",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "/thfirstsetup",
+    "name": "OneDriveSetup",
+    "path": "C:\\Windows\\System32\\OneDriveSetup.exe",
+    "source": "HKEY_USERS\\S-1-5-19\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "LOCAL SERVICE"
+  },
+  {
+    "args": "/thfirstsetup",
+    "name": "OneDriveSetup",
+    "path": "C:\\Windows\\System32\\OneDriveSetup.exe",
+    "source": "HKEY_USERS\\S-1-5-20\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "NETWORK SERVICE"
+  },
+  {
+    "args": "--start-in-tray",
+    "name": "org.whispersystems.signal-desktop",
+    "path": "C:\\Users\\joshf\\AppData\\Local\\Programs\\signal-desktop\\Signal.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "-overwolfsilent",
+    "name": "Overwolf",
+    "path": "C:\\Program Files (x86)\\Overwolf\\OverwolfLauncher.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "--url-params=apps=synapse,chroma-app --launch-force-hidden=synapse,chroma-app",
+    "name": "RazerAppEngine",
+    "path": "C:\\Program Files\\Razer\\RazerAppEngine\\RazerAppEngine.exe",
+    "source": "HKEY_USERS\\.DEFAULT\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "--url-params=apps=synapse,chroma-app --launch-force-hidden=synapse,chroma-app",
+    "name": "RazerAppEngine",
+    "path": "C:\\Program Files\\Razer\\RazerAppEngine\\RazerAppEngine.exe",
+    "source": "HKEY_USERS\\S-1-5-18\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "right_monitor_swap.ahk - Shortcut.lnk",
+    "path": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\right_monitor_swap.ahk - Shortcut.lnk",
+    "source": "C:\\Users\\joshf\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "Riot Vanguard",
+    "path": "C:\\Program Files\\Riot Vanguard\\vgtray.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "--launch-background-mode",
+    "name": "RiotClient",
+    "path": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "-background",
+    "name": "RtkAudUService",
+    "path": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_9404e3c218bc636c\\RtkAudUService64.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "SecurityHealth",
+    "path": "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "StartupTNoticom.blitz.app",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiDiscord",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiDocker Desktop",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotielectron.app.TFTAcademy",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiFocusrite Notifier",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiGif Your Game",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiGoogleChromeAutoLaunch_72BAC9237C8403A74681074B8F134D05",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiLogitech Download Assistant",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotimain_monitor_swap.ahk - Shortcut.lnk",
+    "path": "4",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiNVIDIA Broadcast ",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiOneDrive",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiorg.whispersystems.signal-desktop",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiOverwolf",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiright_monitor_swap.ahk - Shortcut.lnk",
+    "path": "4",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiRiot Vanguard",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiRiotClient",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiRtkAudUService",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiSecurityHealth",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiSteam",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiSteelSeriesGG",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiSynergy 3 Service",
+    "path": "0",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "",
+    "name": "StartupTNotiWarp",
+    "path": "1",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "-silent",
+    "name": "Steam",
+    "path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  },
+  {
+    "args": "-dataPath=C:\\ProgramData\\SteelSeries\\GG -dbEnv=production -auto=true",
+    "name": "SteelSeriesGG",
+    "path": "C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGG.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "disabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "-d",
+    "name": "Synergy 3 Service",
+    "path": "C:\\Program Files\\Synergy\\synergy-service.exe",
+    "source": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "SYSTEM"
+  },
+  {
+    "args": "",
+    "name": "Warp",
+    "path": "C:\\Program Files\\Warp\\warp.exe",
+    "source": "HKEY_USERS\\S-1-5-21-3955821020-1641407556-3806016771-1001\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": "joshf"
+  }
+]

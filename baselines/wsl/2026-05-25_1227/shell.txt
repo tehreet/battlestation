@@ -1,0 +1,3 @@
+Current $SHELL: /bin/bash
+bash: GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+zsh:  n/a

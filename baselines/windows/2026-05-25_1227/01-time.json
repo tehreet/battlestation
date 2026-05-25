@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": "2026-05-25T17:27:33Z",
+    "day": "25",
+    "hour": "17",
+    "iso_8601": "2026-05-25T17:27:33Z",
+    "local_timezone": "Central Standard Time",
+    "minutes": "27",
+    "month": "5",
+    "seconds": "33",
+    "timestamp": "Mon May 25 17:27:33 2026 UTC",
+    "timezone": "UTC",
+    "unix_time": "1779730053",
+    "weekday": "Monday",
+    "win_timestamp": "134242036537346546",
+    "year": "2026"
+  }
+]

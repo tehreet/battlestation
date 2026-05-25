@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Microsoft Defender Antivirus",
+    "remediation_path": "windowsdefender://",
+    "signatures_up_to_date": "1",
+    "state": "On",
+    "state_timestamp": "Mon, 25 May 2026 14:22:58 GMT",
+    "type": "Antivirus"
+  },
+  {
+    "name": "Windows Firewall",
+    "remediation_path": "%windir%\\system32\\firewall.cpl",
+    "signatures_up_to_date": "1",
+    "state": "On",
+    "state_timestamp": "NULL",
+    "type": "Firewall"
+  }
+]

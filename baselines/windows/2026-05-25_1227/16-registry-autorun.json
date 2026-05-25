@@ -1,0 +1,737 @@
+[
+  {
+    "data": "\"C:\\Users\\joshf\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe --process-start-args --start-minimized",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Discord",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Program Files\\Docker\\Docker\\Docker Desktop.exe",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Docker Desktop",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Users\\joshf\\AppData\\Local\\Programs\\badpanda-react\\Gif Your Game.exe\"",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Gif Your Game",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --no-startup-window /prefetch:5",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "GoogleChromeAutoLaunch_72BAC9237C8403A74681074B8F134D05",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA Broadcast\\NVIDIA Broadcast.exe --process-start-args \"--launch-hidden\"",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "NVIDIA Broadcast ",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "OneDrive",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Program Files (x86)\\Overwolf\\OverwolfLauncher.exe -overwolfsilent",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Overwolf",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe --launch-background-mode",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "RiotClient",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Steam",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files\\Warp\\warp.exe\"",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "Warp",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Users\\joshf\\AppData\\Local\\Programs\\Blitz\\Blitz.exe\" --autostart",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "com.blitz.app",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Users\\joshf\\AppData\\Local\\Programs\\TFTAcademy\\TFTAcademy.exe",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "electron.app.TFTAcademy",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Users\\joshf\\AppData\\Local\\Programs\\signal-desktop\\Signal.exe --start-in-tray",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779729667",
+    "name": "org.whispersystems.signal-desktop",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiDiscord",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiDocker Desktop",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiFocusrite Notifier",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiGif Your Game",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiGoogleChromeAutoLaunch_72BAC9237C8403A74681074B8F134D05",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiLogitech Download Assistant",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiNVIDIA Broadcast ",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiOneDrive",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiOverwolf",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiRiot Vanguard",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiRiotClient",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiRtkAudUService",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiSecurityHealth",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiSteam",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiSteelSeriesGG",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "0",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiSynergy 3 Service",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiWarp",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNoticom.blitz.app",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotielectron.app.TFTAcademy",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "4",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotimain_monitor_swap.ahk - Shortcut.lnk",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "1",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiorg.whispersystems.signal-desktop",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "4",
+    "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunNotification",
+    "mtime": "1779729823",
+    "name": "StartupTNotiright_monitor_swap.ahk - Shortcut.lnk",
+    "type": "REG_DWORD"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ExtExport.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753106158",
+    "name": "IslandUpdate.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753043638",
+    "name": "LSASS.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "MRT.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711960306",
+    "name": "MicrosoftEdgeUpdate.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "MsMpEng.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753037130",
+    "name": "MsSense.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "PresentationHost.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "PrintIsolationHost.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "SystemSettings.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753037130",
+    "name": "VBoxHeadless.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753037130",
+    "name": "VBoxNetDHCP.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "VirtualBox.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "VirtualBoxVM.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753041255",
+    "name": "appverif.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1754584391",
+    "name": "bf6event.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "clview.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "cnfnot32.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "excel.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "excelcnv.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "graph.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ie4uinit.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ieUnatt.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ieinstal.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ielowutil.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711958595",
+    "name": "iexplore.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1779032368",
+    "name": "msaccess.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "mscorsvw.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "msfeedssync.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "mshta.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "msoadfsb.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "msoasb.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "msohtmed.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "msosrec.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "msoxmled.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "mspub.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "msqry32.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ngen.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "ngentask.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711958636",
+    "name": "notepad.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1776984130",
+    "name": "onenote.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1776984130",
+    "name": "onenotem.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "orgchart.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "outlook.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "powerpnt.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "runtimebroker.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "scanost.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071590",
+    "name": "scanpst.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "sdxhelper.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "selfcert.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "setlang.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1758409192",
+    "name": "skate.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "splwow64.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "spoolsv.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1770030912",
+    "name": "ssh-agent.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772873045",
+    "name": "sshd.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1711956543",
+    "name": "svchost.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1728087139",
+    "name": "windows10universal.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1772071589",
+    "name": "winword.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1778364614",
+    "name": "wordconv.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753037130",
+    "name": "wpr.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753037130",
+    "name": "wprui.exe",
+    "type": "subkey"
+  },
+  {
+    "data": "",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+    "mtime": "1753041255",
+    "name": "{ApplicationVerifierGlobalSettings}",
+    "type": "subkey"
+  },
+  {
+    "data": "\"C:\\Program Files\\Focusrite\\Drivers\\Focusrite Notifier.exe\"",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "Focusrite Notifier",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Windows\\system32\\rundll32.exe C:\\Windows\\System32\\LogiLDA.dll,LogiFetch",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "Logitech Download Assistant",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files\\Riot Vanguard\\vgtray.exe\"",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "Riot Vanguard",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_9404e3c218bc636c\\RtkAudUService64.exe\" -background",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "RtkAudUService",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "SecurityHealth",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "\"C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGG.exe\" -dataPath=\"C:\\ProgramData\\SteelSeries\\GG\" -dbEnv=production -auto=true",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "SteelSeriesGG",
+    "type": "REG_SZ"
+  },
+  {
+    "data": "C:\\Program Files\\Synergy\\synergy-service.exe -d",
+    "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "mtime": "1779382997",
+    "name": "Synergy 3 Service",
+    "type": "REG_SZ"
+  }
+]

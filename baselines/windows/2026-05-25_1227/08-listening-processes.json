@@ -1,0 +1,1370 @@
+[
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "22",
+    "process_name": "sshd.exe",
+    "process_path": "C:\\Windows\\System32\\OpenSSH\\sshd.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "22",
+    "process_name": "sshd.exe",
+    "process_path": "C:\\Windows\\System32\\OpenSSH\\sshd.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "53",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "53",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "67",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "68",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "135",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "135",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "137",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "137",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "137",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "138",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "138",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "138",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "139",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "139",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "139",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "445",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "445",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "500",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "500",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1236",
+    "process_name": "AsusUpdateCheck.exe",
+    "process_path": "C:\\Windows\\System32\\AsusUpdateCheck.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1536",
+    "process_name": "lsass.exe",
+    "process_path": "C:\\Windows\\System32\\lsass.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1536",
+    "process_name": "lsass.exe",
+    "process_path": "C:\\Windows\\System32\\lsass.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1537",
+    "process_name": "wininit.exe",
+    "process_path": "C:\\Windows\\System32\\wininit.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1537",
+    "process_name": "wininit.exe",
+    "process_path": "C:\\Windows\\System32\\wininit.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1538",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1538",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1539",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1539",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1540",
+    "process_name": "spoolsv.exe",
+    "process_path": "C:\\Windows\\System32\\spoolsv.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1540",
+    "process_name": "spoolsv.exe",
+    "process_path": "C:\\Windows\\System32\\spoolsv.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1541",
+    "process_name": "services.exe",
+    "process_path": "C:\\Windows\\System32\\services.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "1541",
+    "process_name": "services.exe",
+    "process_path": "C:\\Windows\\System32\\services.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "1570",
+    "process_name": "iCloudHome.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudHome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "1571",
+    "process_name": "iCloudHome.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudHome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "1572",
+    "process_name": "iCloudCKKS.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudCKKS.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "1573",
+    "process_name": "iCloudCKKS.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudCKKS.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1900",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1900",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "1900",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::1",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::13de:85c7:de16:241",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::7ea7:2271:d58e:339b",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::c501:a3f9:f6b9:5dac",
+    "local_port": "1900",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "2084",
+    "process_name": "LogiPluginService.exe",
+    "process_path": "C:\\Program Files\\Logi\\LogiPluginService\\LogiPluginService.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::13de:85c7:de16:241",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::7ea7:2271:d58e:339b",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::c501:a3f9:f6b9:5dac",
+    "local_port": "2177",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "2179",
+    "process_name": "vmms.exe",
+    "process_path": "C:\\Windows\\System32\\vmms.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "2179",
+    "process_name": "vmms.exe",
+    "process_path": "C:\\Windows\\System32\\vmms.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "3001",
+    "process_name": "com.docker.backend.exe",
+    "process_path": "C:\\Program Files\\Docker\\Docker\\resources\\com.docker.backend.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "3001",
+    "process_name": "com.docker.backend.exe",
+    "process_path": "C:\\Program Files\\Docker\\Docker\\resources\\com.docker.backend.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::1",
+    "local_port": "3001",
+    "process_name": "wslrelay.exe",
+    "process_path": "C:\\Program Files\\WSL\\wslrelay.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "3456",
+    "process_name": "wslrelay.exe",
+    "process_path": "C:\\Program Files\\WSL\\wslrelay.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "3702",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "3702",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "3702",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "3702",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "4500",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "4500",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5040",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5050",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "chrome.exe",
+    "process_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5353",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5353",
+    "process_name": "synergy-service.exe",
+    "process_path": "C:\\Program Files\\Synergy\\synergy-service.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5355",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5355",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "5357",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "5357",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "6248",
+    "process_name": "iCloudPhotos.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudPhotos.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "6249",
+    "process_name": "iCloudPhotos.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudPhotos.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "6463",
+    "process_name": "Discord.exe",
+    "process_path": "C:\\Users\\joshf\\AppData\\Local\\Discord\\app-1.0.9238\\Discord.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "7680",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "7680",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "7768",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "8769",
+    "process_name": "System",
+    "process_path": "",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "9134",
+    "process_name": "AppleTV.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.AppleTVWin_1.1540.23558.0_x64__nzyj5cx40ttqa\\AppleTV.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "9135",
+    "process_name": "AppleTV.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.AppleTVWin_1.1540.23558.0_x64__nzyj5cx40ttqa\\AppleTV.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "9222",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "9277",
+    "process_name": "warp.exe",
+    "process_path": "C:\\Program Files\\Warp\\warp.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "9514",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "9514",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "10010",
+    "process_name": "nvcontainer.exe",
+    "process_path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::7ea7:2271:d58e:339b",
+    "local_port": "11884",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::13de:85c7:de16:241",
+    "local_port": "11885",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::1",
+    "local_port": "11886",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "fe80::c501:a3f9:f6b9:5dac",
+    "local_port": "11887",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.24.208.1",
+    "local_port": "11888",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "192.168.50.147",
+    "local_port": "11889",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "11890",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "172.27.208.1",
+    "local_port": "11891",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "11892",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "11918",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "11919",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "11920",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "19371",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "20241",
+    "process_name": "wslrelay.exe",
+    "process_path": "C:\\Program Files\\WSL\\wslrelay.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "24147",
+    "process_name": "LogiPluginService.exe",
+    "process_path": "C:\\Program Files\\Logi\\LogiPluginService\\LogiPluginService.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "24227",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "24800",
+    "process_name": "synergy-core.exe",
+    "process_path": "C:\\Program Files\\Synergy\\synergy-core.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "24802",
+    "process_name": "synergy-service.exe",
+    "process_path": "C:\\Program Files\\Synergy\\synergy-service.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "24803",
+    "process_name": "synergy-service.exe",
+    "process_path": "C:\\Program Files\\Synergy\\synergy-service.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "36654",
+    "process_name": "RiotClientServices.exe",
+    "process_path": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "40954",
+    "process_name": "iCloudDrive.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudDrive.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "40955",
+    "process_name": "iCloudDrive.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\iCloudDrive.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::1",
+    "local_port": "42050",
+    "process_name": "OneDrive.Sync.Service.exe",
+    "process_path": "C:\\Program Files\\Microsoft OneDrive\\26.078.0426.0002\\OneDrive.Sync.Service.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "44149",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "44272",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "44369",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "44888",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "46074",
+    "process_name": "APSDaemon.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\APSDaemon.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "46075",
+    "process_name": "APSDaemon.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\APSDaemon.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "51044",
+    "process_name": "AMPLibraryAgent.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.AppleTVWin_1.1540.23558.0_x64__nzyj5cx40ttqa\\AMPLibraryAgent.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "51045",
+    "process_name": "AMPLibraryAgent.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\AppleInc.AppleTVWin_1.1540.23558.0_x64__nzyj5cx40ttqa\\AMPLibraryAgent.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "53000",
+    "process_name": "ADU.exe",
+    "process_path": "C:\\Program Files\\ASUS\\AsusDriverHub\\ADU.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "53005",
+    "process_name": "ADU.exe",
+    "process_path": "C:\\Program Files\\ASUS\\AsusDriverHub\\ADU.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "54323",
+    "process_name": "remoting_host.exe",
+    "process_path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\148.0.7778.23\\remoting_host.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "55051",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "55051",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "56883",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "23",
+    "local_address": "::",
+    "local_port": "56884",
+    "process_name": "svchost.exe",
+    "process_path": "C:\\Windows\\System32\\svchost.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "57621",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "57621",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "57821",
+    "process_name": "Discord.exe",
+    "process_path": "C:\\Users\\joshf\\AppData\\Local\\Discord\\app-1.0.9238\\Discord.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "59869",
+    "process_name": "logioptionsplus_agent.exe",
+    "process_path": "C:\\Program Files\\LogiOptionsPlus\\logioptionsplus_agent.exe",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "59870",
+    "process_name": "logioptionsplus_agent.exe",
+    "process_path": "C:\\Program Files\\LogiOptionsPlus\\logioptionsplus_agent.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "59871",
+    "process_name": "logioptionsplus_agent.exe",
+    "process_path": "C:\\Program Files\\LogiOptionsPlus\\logioptionsplus_agent.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "59925",
+    "process_name": "Discord.exe",
+    "process_path": "C:\\Users\\joshf\\AppData\\Local\\Discord\\app-1.0.9238\\Discord.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "61055",
+    "process_name": "nvcontainer.exe",
+    "process_path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "protocol": "17"
+  },
+  {
+    "family": "2",
+    "local_address": "0.0.0.0",
+    "local_port": "64503",
+    "process_name": "Spotify.exe",
+    "process_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0\\Spotify.exe",
+    "protocol": "17"
+  }
+]

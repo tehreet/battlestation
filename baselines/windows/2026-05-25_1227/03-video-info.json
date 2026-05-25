@@ -1,0 +1,12 @@
+[
+  {
+    "color_depth": "32",
+    "driver": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvmdi.inf_amd64_97fbf7e42e9512b0\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvmdi.inf_amd64_97fbf7e42e9512b0\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvmdi.inf_amd64_97fbf7e42e9512b0\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvmdi.inf_amd64_97fbf7e42e9512b0\\nvldumdx.dll",
+    "driver_date": "1777939200",
+    "driver_version": "32.0.15.9649",
+    "manufacturer": "NVIDIA",
+    "model": "NVIDIA GeForce RTX 4090",
+    "series": "NVIDIA GeForce RTX 4090",
+    "video_mode": "3840 x 2160 x 4294967296 colors"
+  }
+]

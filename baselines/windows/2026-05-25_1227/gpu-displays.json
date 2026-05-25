@@ -1,0 +1,55 @@
+[
+  {
+    "monitors": [
+      {
+        "InstanceName": "DISPLAY\\AUS27F5\\5&33264c5c&0&UID4353_0",
+        "ManufacturerName": "AUS",
+        "ProductCodeID": "27F5",
+        "SerialNumberID": "T9LMAV010408",
+        "UserFriendlyName": "PG27UCDM",
+        "WeekOfManufacture": 37,
+        "YearOfManufacture": 2025
+      },
+      {
+        "InstanceName": "DISPLAY\\AUS27F5\\5&33264c5c&0&UID4355_0",
+        "ManufacturerName": "AUS",
+        "ProductCodeID": "27F5",
+        "SerialNumberID": "T9LMAV010426",
+        "UserFriendlyName": "PG27UCDM",
+        "WeekOfManufacture": 37,
+        "YearOfManufacture": 2025
+      },
+      {
+        "InstanceName": "DISPLAY\\AUS27F5\\5&1ad3dd84&0&UID516_0",
+        "ManufacturerName": "AUS",
+        "ProductCodeID": "27F5",
+        "SerialNumberID": "T9LMAV010422",
+        "UserFriendlyName": "PG27UCDM",
+        "WeekOfManufacture": 37,
+        "YearOfManufacture": 2025
+      }
+    ],
+    "video_controllers": [
+      {
+        "AdapterRAM": 4293918720,
+        "CurrentHorizontalResolution": 3840,
+        "CurrentRefreshRate": 240,
+        "CurrentVerticalResolution": 2160,
+        "DriverDate": "/Date(1777939200000)/",
+        "DriverVersion": "32.0.15.9649",
+        "Name": "NVIDIA GeForce RTX 4090",
+        "VideoProcessor": "NVIDIA GeForce RTX 4090"
+      },
+      {
+        "AdapterRAM": 2147483648,
+        "CurrentHorizontalResolution": 3840,
+        "CurrentRefreshRate": 120,
+        "CurrentVerticalResolution": 2160,
+        "DriverDate": "/Date(1772496000000)/",
+        "DriverVersion": "32.0.21043.5001",
+        "Name": "AMD Radeon(TM) Graphics",
+        "VideoProcessor": "AMD Radeon Graphics Processor (0x13C0)"
+      }
+    ]
+  }
+]

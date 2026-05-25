@@ -1,0 +1,10 @@
+[
+  {
+    "antivirus": "Good",
+    "autoupdate": "Good",
+    "firewall": "Good",
+    "internet_settings": "Good",
+    "user_account_control": "Good",
+    "windows_security_center_service": "Good"
+  }
+]

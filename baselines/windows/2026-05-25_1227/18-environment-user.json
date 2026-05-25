@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NVM_HOME",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\AppData\\Local\\nvm"
+  },
+  {
+    "name": "NVM_SYMLINK",
+    "type": "REG_SZ",
+    "value": "C:\\nvm4w\\nodejs"
+  },
+  {
+    "name": "OneDrive",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\OneDrive"
+  },
+  {
+    "name": "OneDriveConsumer",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\OneDrive"
+  },
+  {
+    "name": "Path",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\.cargo\\bin;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\joshf\\AppData\\Local\\nvm;C:\\nvm4w\\nodejs;C:\\Users\\joshf\\AppData\\Roaming\\npm;C:\\Users\\joshf\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\AgileBits.1Password.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe\\.;C:\\Users\\joshf\\.local\\bin;C:\\Users\\joshf\\AppData\\Local\\Python\\bin;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-N-123074-g4e32fb4c2a-win64-gpl/bin;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ookla.Speedtest.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Maxon.CinebenchR23_Microsoft.Winget.Source_8wekyb3d8bbwe;"
+  },
+  {
+    "name": "TEMP",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\AppData\\Local\\Temp"
+  },
+  {
+    "name": "TMP",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\AppData\\Local\\Temp"
+  }
+]

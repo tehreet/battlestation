@@ -1,0 +1,137 @@
+[
+  {
+    "address": "fe80::7ea7:2271:d58e:339b",
+    "broadcast": "",
+    "friendly_name": "vEthernet (Default Switch)",
+    "interface": "23",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "172.24.208.1",
+    "broadcast": "",
+    "friendly_name": "vEthernet (Default Switch)",
+    "interface": "23",
+    "mask": "255.255.240.0",
+    "point_to_point": "",
+    "type": "manual"
+  },
+  {
+    "address": "fe80::13de:85c7:de16:241",
+    "broadcast": "",
+    "friendly_name": "Ethernet",
+    "interface": "10",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "192.168.50.147",
+    "broadcast": "",
+    "friendly_name": "Ethernet",
+    "interface": "10",
+    "mask": "255.255.255.0",
+    "point_to_point": "",
+    "type": "dhcp"
+  },
+  {
+    "address": "169.254.149.40",
+    "broadcast": "",
+    "friendly_name": "Wi-Fi",
+    "interface": "11",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "fe80::bf87:7614:d238:661f",
+    "broadcast": "",
+    "friendly_name": "Wi-Fi 2",
+    "interface": "7",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "169.254.134.121",
+    "broadcast": "",
+    "friendly_name": "Wi-Fi 2",
+    "interface": "7",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "fe80::d916:32ad:aea8:81c8",
+    "broadcast": "",
+    "friendly_name": "Wi-Fi 3",
+    "interface": "9",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "169.254.33.245",
+    "broadcast": "",
+    "friendly_name": "Wi-Fi 3",
+    "interface": "9",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "fe80::3149:bb99:644:27fe",
+    "broadcast": "",
+    "friendly_name": "Bluetooth Network Connection",
+    "interface": "21",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "169.254.173.105",
+    "broadcast": "",
+    "friendly_name": "Bluetooth Network Connection",
+    "interface": "21",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "::1",
+    "broadcast": "",
+    "friendly_name": "Loopback Pseudo-Interface 1",
+    "interface": "1",
+    "mask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "127.0.0.1",
+    "broadcast": "",
+    "friendly_name": "Loopback Pseudo-Interface 1",
+    "interface": "1",
+    "mask": "255.0.0.0",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "fe80::c501:a3f9:f6b9:5dac",
+    "broadcast": "",
+    "friendly_name": "vEthernet (WSL (Hyper-V firewall))",
+    "interface": "32",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "auto"
+  },
+  {
+    "address": "172.27.208.1",
+    "broadcast": "",
+    "friendly_name": "vEthernet (WSL (Hyper-V firewall))",
+    "interface": "32",
+    "mask": "255.255.240.0",
+    "point_to_point": "",
+    "type": "manual"
+  }
+]

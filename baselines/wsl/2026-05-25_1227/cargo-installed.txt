@@ -1,0 +1,6 @@
+create-tauri-app v4.6.2:
+    cargo-create-tauri-app
+lolrofl v0.2.0:
+    lolrofl
+tauri-cli v2.7.1:
+    cargo-tauri

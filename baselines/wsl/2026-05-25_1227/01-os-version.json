@@ -1,0 +1,14 @@
+[
+  {
+    "arch": "x86_64",
+    "build": "",
+    "codename": "noble",
+    "major": "24",
+    "minor": "4",
+    "name": "Ubuntu",
+    "patch": "0",
+    "platform": "ubuntu",
+    "platform_like": "debian",
+    "version": "24.04.2 LTS (Noble Numbat)"
+  }
+]

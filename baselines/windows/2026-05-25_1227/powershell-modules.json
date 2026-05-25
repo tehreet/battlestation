@@ -1,0 +1,1298 @@
+[
+  {
+    "Name": "AppBackgroundTask",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\AppBackgroundTask\\AppBackgroundTask.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "AppLocker",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\AppLocker\\AppLocker.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "AppvClient",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\AppvClient\\AppvClient.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Appx",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Appx\\Appx.psd1",
+    "Version": {
+      "Build": 1,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "AssignedAccess",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\AssignedAccess\\AssignedAccess.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "BitLocker",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\BitLocker\\BitLocker.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "BitsTransfer",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "BranchCache",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\BranchCache\\BranchCache.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "CimCmdlets",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\CimCmdlets\\CimCmdlets.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "CimCmdlets",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\CimCmdlets\\CimCmdlets.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "ConfigCI",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ConfigCI\\ConfigCI.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "ConfigDefender",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ConfigDefender\\ConfigDefender.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "ConfigDefenderPerformance",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ConfigDefenderPerformance\\ConfigDefenderPerformance.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Defender",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Defender\\Defender.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "DefenderPerformance",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\DefenderPerformance\\DefenderPerformance.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "DeliveryOptimization",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\DeliveryOptimization\\DeliveryOptimization.psd1",
+    "Version": {
+      "Build": 3,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "DirectAccessClientComponents",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\DirectAccessClientComponents\\DirectAccessClientComponents.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Dism",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Dism\\Dism.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 3,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "DnsClient",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\DnsClient\\DnsClient.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "EventTracingManagement",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\EventTracingManagement\\EventTracingManagement.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Get-NetView",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Get-NetView\\Get-NetView.psd1",
+    "Version": {
+      "Build": 7,
+      "Major": 2023,
+      "MajorRevision": 0,
+      "Minor": 2,
+      "MinorRevision": 226,
+      "Revision": 226
+    }
+  },
+  {
+    "Name": "HgsClient",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\HgsClient\\HgsClient.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "HgsDiagnostics",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\HgsDiagnostics\\HgsDiagnostics.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "HostComputeService",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\HostComputeService\\1.0.0.0\\HostComputeService.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "HostNetworkingService",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\HostNetworkingService\\HostNetworkingService.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 1,
+      "Revision": 1
+    }
+  },
+  {
+    "Name": "Hyper-V",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Hyper-V\\2.0.0.0\\Hyper-V.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "International",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\International\\International.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 1,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "iSCSI",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\iSCSI\\iSCSI.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "ISE",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ISE\\ISE.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Kds",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Kds\\Kds.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "LanguagePackManagement",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\LanguagePackManagement\\LanguagePackManagement.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "LAPS",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\LAPS\\LAPS.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Archive",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psd1",
+    "Version": {
+      "Build": 1,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Archive",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psd1",
+    "Version": {
+      "Build": 5,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 2,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Diagnostics",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Diagnostics\\Microsoft.PowerShell.Diagnostics.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Diagnostics",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Diagnostics\\Microsoft.PowerShell.Diagnostics.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Host",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Host\\Microsoft.PowerShell.Host.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Host",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Host\\Microsoft.PowerShell.Host.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.LocalAccounts",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.LocalAccounts\\1.0.0.0\\Microsoft.PowerShell.LocalAccounts.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Management",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 1,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Management",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.ODataUtils",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.ODataUtils\\Microsoft.PowerShell.ODataUtils.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Operation.Validation",
+    "Path": "C:\\Program Files\\WindowsPowerShell\\Modules\\Microsoft.PowerShell.Operation.Validation\\1.0.1\\Microsoft.PowerShell.Operation.Validation.psd1",
+    "Version": {
+      "Build": 1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.PSResourceGet",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.PSResourceGet\\Microsoft.PowerShell.PSResourceGet.psd1",
+    "Version": {
+      "Build": 1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 1,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Security",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Security\\Microsoft.PowerShell.Security.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Security",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Security\\Microsoft.PowerShell.Security.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Utility",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 1,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.PowerShell.Utility",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.ReFsDedup.Commands",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.ReFsDedup.Commands\\Microsoft.ReFsDedup.Commands.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.Windows.Bcd.Cmdlets",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.Windows.Bcd.Cmdlets\\Microsoft.Windows.Bcd.Cmdlets.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Microsoft.WSMan.Management",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.WSMan.Management\\Microsoft.WSMan.Management.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Microsoft.WSMan.Management",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\Microsoft.WSMan.Management\\Microsoft.WSMan.Management.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "MMAgent",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\MMAgent\\MMAgent.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "MsDtc",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\MsDtc\\MsDtc.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetAdapter",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetAdapter\\NetAdapter.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetConnection",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetConnection\\NetConnection.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetEventPacketCapture",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetEventPacketCapture\\NetEventPacketCapture.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetLbfo",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetLbfo\\NetLbfo.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetNat",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetNat\\NetNat.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetQos",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetQos\\NetQos.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetSecurity",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetSecurity\\NetSecurity.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetSwitchTeam",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetSwitchTeam\\NetSwitchTeam.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetTCPIP",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetTCPIP\\NetTCPIP.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetworkConnectivityStatus",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetworkConnectivityStatus\\NetworkConnectivityStatus.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetworkSwitchManager",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetworkSwitchManager\\NetworkSwitchManager.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "NetworkTransition",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetworkTransition\\NetworkTransition.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "OsConfiguration",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\OsConfiguration\\OsConfiguration.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 2,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PackageManagement",
+    "Path": "C:\\Program Files\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 1,
+      "Revision": 1
+    }
+  },
+  {
+    "Name": "PackageManagement",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\PackageManagement\\PackageManagement.psd1",
+    "Version": {
+      "Build": 8,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 4,
+      "MinorRevision": 1,
+      "Revision": 1
+    }
+  },
+  {
+    "Name": "PcsvDevice",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PcsvDevice\\PcsvDevice.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PersistentMemory",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PersistentMemory\\PersistentMemory.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Pester",
+    "Path": "C:\\Program Files\\WindowsPowerShell\\Modules\\Pester\\3.4.0\\Pester.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 3,
+      "MajorRevision": -1,
+      "Minor": 4,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PKI",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PKI\\PKI.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PnpDevice",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PnpDevice\\PnpDevice.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PowerShellGet",
+    "Path": "C:\\Program Files\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 1,
+      "Revision": 1
+    }
+  },
+  {
+    "Name": "PowerShellGet",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\PowerShellGet\\PowerShellGet.psd1",
+    "Version": {
+      "Build": 5,
+      "Major": 2,
+      "MajorRevision": -1,
+      "Minor": 2,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PrintManagement",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PrintManagement\\PrintManagement.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 1,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "ProcessMitigations",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ProcessMitigations\\ProcessMitigations.psd1",
+    "Version": {
+      "Build": 12,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "Provisioning",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Provisioning\\Provisioning.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 3,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PSDesiredStateConfiguration",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PSDesiredStateConfiguration\\PSDesiredStateConfiguration.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 1,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PSDiagnostics",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PSDiagnostics",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 7,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PSReadLine",
+    "Path": "C:\\Program Files\\WindowsPowerShell\\Modules\\PSReadLine\\2.0.0\\PSReadLine.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PSReadLine",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\PSReadLine\\PSReadLine.psd1",
+    "Version": {
+      "Build": 6,
+      "Major": 2,
+      "MajorRevision": -1,
+      "Minor": 3,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "PSScheduledJob",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PSScheduledJob\\PSScheduledJob.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 1,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PSWorkflow",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PSWorkflow\\PSWorkflow.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "PSWorkflowUtility",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\PSWorkflowUtility\\PSWorkflowUtility.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "ScheduledTasks",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\ScheduledTasks\\ScheduledTasks.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "SecureBoot",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\SecureBoot\\SecureBoot.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "SmbShare",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\SmbShare\\SmbShare.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "SmbWitness",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\SmbWitness\\SmbWitness.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "StartLayout",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\StartLayout\\StartLayout.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 1,
+      "Revision": 1
+    }
+  },
+  {
+    "Name": "Storage",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Storage\\Storage.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "StorageBusCache",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\StorageBusCache\\StorageBusCache.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "ThreadJob",
+    "Path": "C:\\program files\\powershell\\7\\Modules\\ThreadJob\\ThreadJob.psd1",
+    "Version": {
+      "Build": 3,
+      "Major": 2,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "TLS",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\TLS\\TLS.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "TroubleshootingPack",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "TrustedPlatformModule",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\TrustedPlatformModule\\TrustedPlatformModule.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "UEV",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\UEV\\UEV.psd1",
+    "Version": {
+      "Build": 639,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 1,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "VMDirectStorage",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\VMDirectStorage\\VMDirectStorage.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "VpnClient",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\VpnClient\\VpnClient.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Wdac",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Wdac\\Wdac.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "Whea",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\Whea\\Whea.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 2,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "WindowsDeveloperLicense",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\WindowsDeveloperLicense\\WindowsDeveloperLicense.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "WindowsErrorReporting",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\WindowsErrorReporting\\WindowsErrorReporting.psd1",
+    "Version": {
+      "Build": -1,
+      "Major": 1,
+      "MajorRevision": -1,
+      "Minor": 0,
+      "MinorRevision": -1,
+      "Revision": -1
+    }
+  },
+  {
+    "Name": "WindowsSearch",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\WindowsSearch\\WindowsSearch.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "WindowsUpdate",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\WindowsUpdate\\WindowsUpdate.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  },
+  {
+    "Name": "WinHttpProxy",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\WinHttpProxy\\WinHttpProxy.psd1",
+    "Version": {
+      "Build": 0,
+      "Major": 1,
+      "MajorRevision": 0,
+      "Minor": 0,
+      "MinorRevision": 0,
+      "Revision": 0
+    }
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "gid": "0",
+    "gid_signed": "0",
+    "groupname": "root"
+  },
+  {
+    "gid": "1",
+    "gid_signed": "1",
+    "groupname": "daemon"
+  },
+  {
+    "gid": "2",
+    "gid_signed": "2",
+    "groupname": "bin"
+  },
+  {
+    "gid": "3",
+    "gid_signed": "3",
+    "groupname": "sys"
+  },
+  {
+    "gid": "4",
+    "gid_signed": "4",
+    "groupname": "adm"
+  },
+  {
+    "gid": "5",
+    "gid_signed": "5",
+    "groupname": "tty"
+  },
+  {
+    "gid": "6",
+    "gid_signed": "6",
+    "groupname": "disk"
+  },
+  {
+    "gid": "7",
+    "gid_signed": "7",
+    "groupname": "lp"
+  },
+  {
+    "gid": "8",
+    "gid_signed": "8",
+    "groupname": "mail"
+  },
+  {
+    "gid": "9",
+    "gid_signed": "9",
+    "groupname": "news"
+  },
+  {
+    "gid": "10",
+    "gid_signed": "10",
+    "groupname": "uucp"
+  },
+  {
+    "gid": "12",
+    "gid_signed": "12",
+    "groupname": "man"
+  },
+  {
+    "gid": "13",
+    "gid_signed": "13",
+    "groupname": "proxy"
+  },
+  {
+    "gid": "15",
+    "gid_signed": "15",
+    "groupname": "kmem"
+  },
+  {
+    "gid": "20",
+    "gid_signed": "20",
+    "groupname": "dialout"
+  },
+  {
+    "gid": "21",
+    "gid_signed": "21",
+    "groupname": "fax"
+  },
+  {
+    "gid": "22",
+    "gid_signed": "22",
+    "groupname": "voice"
+  },
+  {
+    "gid": "24",
+    "gid_signed": "24",
+    "groupname": "cdrom"
+  },
+  {
+    "gid": "25",
+    "gid_signed": "25",
+    "groupname": "floppy"
+  },
+  {
+    "gid": "26",
+    "gid_signed": "26",
+    "groupname": "tape"
+  },
+  {
+    "gid": "27",
+    "gid_signed": "27",
+    "groupname": "sudo"
+  },
+  {
+    "gid": "29",
+    "gid_signed": "29",
+    "groupname": "audio"
+  },
+  {
+    "gid": "30",
+    "gid_signed": "30",
+    "groupname": "dip"
+  },
+  {
+    "gid": "33",
+    "gid_signed": "33",
+    "groupname": "www-data"
+  },
+  {
+    "gid": "34",
+    "gid_signed": "34",
+    "groupname": "backup"
+  },
+  {
+    "gid": "37",
+    "gid_signed": "37",
+    "groupname": "operator"
+  },
+  {
+    "gid": "38",
+    "gid_signed": "38",
+    "groupname": "list"
+  },
+  {
+    "gid": "39",
+    "gid_signed": "39",
+    "groupname": "irc"
+  },
+  {
+    "gid": "40",
+    "gid_signed": "40",
+    "groupname": "src"
+  },
+  {
+    "gid": "42",
+    "gid_signed": "42",
+    "groupname": "shadow"
+  },
+  {
+    "gid": "43",
+    "gid_signed": "43",
+    "groupname": "utmp"
+  },
+  {
+    "gid": "44",
+    "gid_signed": "44",
+    "groupname": "video"
+  },
+  {
+    "gid": "45",
+    "gid_signed": "45",
+    "groupname": "sasl"
+  },
+  {
+    "gid": "46",
+    "gid_signed": "46",
+    "groupname": "plugdev"
+  },
+  {
+    "gid": "50",
+    "gid_signed": "50",
+    "groupname": "staff"
+  },
+  {
+    "gid": "60",
+    "gid_signed": "60",
+    "groupname": "games"
+  },
+  {
+    "gid": "100",
+    "gid_signed": "100",
+    "groupname": "users"
+  },
+  {
+    "gid": "101",
+    "gid_signed": "101",
+    "groupname": "messagebus"
+  },
+  {
+    "gid": "102",
+    "gid_signed": "102",
+    "groupname": "syslog"
+  },
+  {
+    "gid": "103",
+    "gid_signed": "103",
+    "groupname": "uuidd"
+  },
+  {
+    "gid": "104",
+    "gid_signed": "104",
+    "groupname": "_ssh"
+  },
+  {
+    "gid": "105",
+    "gid_signed": "105",
+    "groupname": "landscape"
+  },
+  {
+    "gid": "106",
+    "gid_signed": "106",
+    "groupname": "admin"
+  },
+  {
+    "gid": "107",
+    "gid_signed": "107",
+    "groupname": "netdev"
+  },
+  {
+    "gid": "990",
+    "gid_signed": "990",
+    "groupname": "polkitd"
+  },
+  {
+    "gid": "991",
+    "gid_signed": "991",
+    "groupname": "systemd-resolve"
+  },
+  {
+    "gid": "992",
+    "gid_signed": "992",
+    "groupname": "render"
+  },
+  {
+    "gid": "993",
+    "gid_signed": "993",
+    "groupname": "kvm"
+  },
+  {
+    "gid": "994",
+    "gid_signed": "994",
+    "groupname": "sgx"
+  },
+  {
+    "gid": "995",
+    "gid_signed": "995",
+    "groupname": "input"
+  },
+  {
+    "gid": "996",
+    "gid_signed": "996",
+    "groupname": "systemd-timesync"
+  },
+  {
+    "gid": "997",
+    "gid_signed": "997",
+    "groupname": "crontab"
+  },
+  {
+    "gid": "998",
+    "gid_signed": "998",
+    "groupname": "systemd-network"
+  },
+  {
+    "gid": "999",
+    "gid_signed": "999",
+    "groupname": "systemd-journal"
+  },
+  {
+    "gid": "1000",
+    "gid_signed": "1000",
+    "groupname": "joshf"
+  },
+  {
+    "gid": "1001",
+    "gid_signed": "1001",
+    "groupname": "docker"
+  },
+  {
+    "gid": "1002",
+    "gid_signed": "1002",
+    "groupname": "onepassword-cli"
+  },
+  {
+    "gid": "65534",
+    "gid_signed": "65534",
+    "groupname": "nogroup"
+  }
+]

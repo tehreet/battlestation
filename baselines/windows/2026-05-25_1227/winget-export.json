@@ -1,0 +1,335 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2026-05-25T12:27:52.280-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "CoreyButler.NVMforWindows",
+          "Version": "1.2.2"
+        },
+        {
+          "PackageIdentifier": "AutoHotkey.AutoHotkey",
+          "Version": "2.0.26"
+        },
+        {
+          "PackageIdentifier": "CPUID.CPU-Z.ROG",
+          "Version": "2.10"
+        },
+        {
+          "PackageIdentifier": "FocusriteAudioEngineeringLtd.FocusriteControl2",
+          "Version": "1.980.0.0"
+        },
+        {
+          "PackageIdentifier": "Mozilla.Thunderbird",
+          "Version": "151.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.OneDrive",
+          "Version": "26.078.0426.0002"
+        },
+        {
+          "PackageIdentifier": "SteelSeries.GG",
+          "Version": "107.0.0"
+        },
+        {
+          "PackageIdentifier": "vim.vim",
+          "Version": "9.2.0212"
+        },
+        {
+          "PackageIdentifier": "RARLab.WinRAR",
+          "Version": "7.20.0"
+        },
+        {
+          "PackageIdentifier": "Warp.Warp",
+          "Version": "v0.2026.05.18.05.32.stable_02"
+        },
+        {
+          "PackageIdentifier": "Microsoft.GameInput",
+          "Version": "3.3.221.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x64",
+          "Version": "10.0.40219"
+        },
+        {
+          "PackageIdentifier": "Symless.Synergy",
+          "Version": "3.6.1.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x64",
+          "Version": "9.0.30729.6161"
+        },
+        {
+          "PackageIdentifier": "Logitech.OptionsPlus",
+          "Version": "2.3.879545"
+        },
+        {
+          "PackageIdentifier": "OpenJS.NodeJS.22",
+          "Version": "22.17.1"
+        },
+        {
+          "PackageIdentifier": "Nvidia.PhysX",
+          "Version": "9.23.1019"
+        },
+        {
+          "PackageIdentifier": "osquery.osquery",
+          "Version": "5.23.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.BuildTools",
+          "Version": "17.14.9"
+        },
+        {
+          "PackageIdentifier": "FinalWire.AIDA64.Extreme",
+          "Version": "7.50"
+        },
+        {
+          "PackageIdentifier": "Google.Chrome.EXE",
+          "Version": "148.0.7778.179"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge",
+          "Version": "148.0.3967.83"
+        },
+        {
+          "PackageIdentifier": "Pingman.PingPlotter",
+          "Version": "5.25.20.9089"
+        },
+        {
+          "PackageIdentifier": "Guru3D.RTSS",
+          "Version": "7.3.7"
+        },
+        {
+          "PackageIdentifier": "Valve.Steam",
+          "Version": "2.10.91.91"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.Community",
+          "Version": "17.14.9"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x64",
+          "Version": "12.0.30501.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2015+.x86",
+          "Version": "14.44.35211.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.8",
+          "Version": "8.0.27"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x86",
+          "Version": "11.0.61030.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2005.x86",
+          "Version": "8.0.61001"
+        },
+        {
+          "PackageIdentifier": "Google.ChromeRemoteDesktopHost",
+          "Version": "148.0.7778.23"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2008.x86",
+          "Version": "9.0.30729.6161"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2010.x86",
+          "Version": "10.0.40219"
+        },
+        {
+          "PackageIdentifier": "Asus.DisplayWidgetCenter",
+          "Version": "1.4.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsADK",
+          "Version": "10.1.26100.2454"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2012.x64",
+          "Version": "11.0.61030.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell",
+          "Version": "7.6.2.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsSDK.10.0.22000",
+          "Version": "10.0.22000.832"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2015+.x64",
+          "Version": "14.44.35211.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCRedist.2013.x86",
+          "Version": "12.0.30501.0"
+        },
+        {
+          "PackageIdentifier": "CXWorld.CapFrameX",
+          "Version": "1.8.4.6"
+        },
+        {
+          "PackageIdentifier": "Blitz.Blitz",
+          "Version": "2.1.525"
+        },
+        {
+          "PackageIdentifier": "OpenWhisperSystems.Signal",
+          "Version": "8.11.0"
+        },
+        {
+          "PackageIdentifier": "AgileBits.1Password.CLI",
+          "Version": "2.32.1"
+        },
+        {
+          "PackageIdentifier": "DenoLand.Deno",
+          "Version": "2.7.5"
+        },
+        {
+          "PackageIdentifier": "Maxon.CinebenchR23",
+          "Version": "23.200"
+        },
+        {
+          "PackageIdentifier": "Ookla.Speedtest.CLI",
+          "Version": "1.2.0.84"
+        },
+        {
+          "PackageIdentifier": "RiotGames.LeagueOfLegends.PBE",
+          "Version": "Unknown"
+        },
+        {
+          "PackageIdentifier": "Rustlang.Rustup",
+          "Version": "1.28.2"
+        },
+        {
+          "PackageIdentifier": "Zoom.Zoom.EXE",
+          "Version": "6.7.8 (32670)"
+        },
+        {
+          "PackageIdentifier": "yt-dlp.FFmpeg",
+          "Version": "N-123074-g4e32fb4c2a-20260228"
+        },
+        {
+          "PackageIdentifier": "yt-dlp.yt-dlp",
+          "Version": "2026.03.13"
+        },
+        {
+          "PackageIdentifier": "Canonical.Ubuntu.2404",
+          "Version": "2404.1.31.0"
+        },
+        {
+          "PackageIdentifier": "Anthropic.Claude",
+          "Version": "1.6608.2.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Teams",
+          "Version": "26106.1911.4707.3286"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AppInstaller",
+          "Version": "1.28.240.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.DirectX",
+          "Version": "9.29.1974.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.DotNet.Native.Runtime",
+          "Version": "2.2.28604.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.UI.Xaml.2.7",
+          "Version": "7.2409.9001.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.UI.Xaml.2.8",
+          "Version": "8.2511.26001.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCLibs.Desktop.14",
+          "Version": "14.0.33728.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VCLibs.14",
+          "Version": "14.0.33519.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WinDbg",
+          "Version": "1.2603.20001.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.2",
+          "Version": "> 1.2.2"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.4",
+          "Version": "> 1.4.5"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.5",
+          "Version": "> 1.5.8"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.6",
+          "Version": "1.6.9"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.7",
+          "Version": "1.7.9"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsAppRuntime.1.8",
+          "Version": "8000.859.21.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal",
+          "Version": "1.24.11321.0"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WSL",
+          "Version": "2.5.9.0"
+        },
+        {
+          "PackageIdentifier": "Python.PythonInstallManager",
+          "Version": "26.2.240.0"
+        },
+        {
+          "PackageIdentifier": "SlackTechnologies.Slack",
+          "Version": "4.49.89.0"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "XP8CBJ40XLBWKX",
+          "Version": "4.61.0"
+        },
+        {
+          "PackageIdentifier": "XP9KHM4BK9FZ7Q",
+          "Version": "1.117.0"
+        },
+        {
+          "PackageIdentifier": "9N7F2SM5D1LR",
+          "Version": "1.0.152.0"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
+      }
+    }
+  ],
+  "WinGetVersion": "1.28.240"
+}

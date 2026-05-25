@@ -1,0 +1,17 @@
+[
+  {
+    "address_width": "64",
+    "availability": "3",
+    "cpu_status": "1",
+    "current_clock_speed": "4700",
+    "device_id": "CPU0",
+    "load_percentage": "42",
+    "logical_processors": "16",
+    "manufacturer": "AuthenticAMD",
+    "max_clock_speed": "4700",
+    "model": "AMD Ryzen 7 9800X3D 8-Core Processor           ",
+    "number_of_cores": "8",
+    "processor_type": "3",
+    "socket_designation": "AM5"
+  }
+]

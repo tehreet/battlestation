@@ -1,0 +1,72 @@
+[
+  {
+    "caption": "https://support.microsoft.com/help/5050575",
+    "csname": "BATTLESTATION",
+    "description": "Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5050575",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "7/20/2025"
+  },
+  {
+    "caption": "https://support.microsoft.com/help/5054156",
+    "csname": "BATTLESTATION",
+    "description": "Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5054156",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "10/12/2025"
+  },
+  {
+    "caption": "https://support.microsoft.com/help/5054273",
+    "csname": "BATTLESTATION",
+    "description": "Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5054273",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "7/20/2025"
+  },
+  {
+    "caption": "https://support.microsoft.com/help/5059093",
+    "csname": "BATTLESTATION",
+    "description": "Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5059093",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "7/20/2025"
+  },
+  {
+    "caption": "http://support.microsoft.com/?kbid=5087051",
+    "csname": "BATTLESTATION",
+    "description": "Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5087051",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "5/13/2026"
+  },
+  {
+    "caption": "https://support.microsoft.com/help/5089549",
+    "csname": "BATTLESTATION",
+    "description": "Security Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5089549",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "5/13/2026"
+  },
+  {
+    "caption": "",
+    "csname": "BATTLESTATION",
+    "description": "Security Update",
+    "fix_comments": "",
+    "hotfix_id": "KB5092762",
+    "install_date": "",
+    "installed_by": "NT AUTHORITY\\SYSTEM",
+    "installed_on": "5/13/2026"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "host": "",
+    "pid": "327",
+    "time": "1779718931",
+    "tty": "tty1",
+    "type": "login",
+    "user": "LOGIN"
+  },
+  {
+    "host": "",
+    "pid": "310",
+    "time": "1779718931",
+    "tty": "console",
+    "type": "login",
+    "user": "LOGIN"
+  },
+  {
+    "host": "",
+    "pid": "331",
+    "time": "1779718930",
+    "tty": "pts/0",
+    "type": "dead",
+    "user": "joshf"
+  },
+  {
+    "host": "",
+    "pid": "741",
+    "time": "1779718932",
+    "tty": "pts/1",
+    "type": "user",
+    "user": "joshf"
+  },
+  {
+    "host": "6.6.87.2-microsoft-standard-WSL2",
+    "pid": "0",
+    "time": "1779718929",
+    "tty": "~",
+    "type": "boot_time",
+    "user": "reboot"
+  },
+  {
+    "host": "",
+    "pid": "1094",
+    "time": "1779718932",
+    "tty": "pts/3",
+    "type": "user",
+    "user": "root"
+  },
+  {
+    "host": "6.6.87.2-microsoft-standard-WSL2",
+    "pid": "53",
+    "time": "1779718931",
+    "tty": "~",
+    "type": "runlevel",
+    "user": "runlevel"
+  }
+]

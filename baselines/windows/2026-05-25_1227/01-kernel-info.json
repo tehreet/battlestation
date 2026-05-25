@@ -1,0 +1,8 @@
+[
+  {
+    "arguments": " NOEXECUTE=OPTIN  HYPERVISORLAUNCHTYPE=AUTO  FVEBOOT=2125824  NOVGA",
+    "device": "\\\\?\\Volume{0540f355-5c38-4cfb-b5a9-dfbb0bd8190c}\\",
+    "path": "C:\\WINDOWS\\System32\\ntoskrnl.exe",
+    "version": "10.0.26100.8457"
+  }
+]

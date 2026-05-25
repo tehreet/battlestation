@@ -1,0 +1,11 @@
+
+# BEGIN CATNIP MANAGED BLOCK
+Host catnip
+  HostName 127.0.0.1
+  Port 2222
+  User joshf
+  IdentityFile ~/.ssh/catnip_remote
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+  SendEnv WORKDIR
+# END CATNIP MANAGED BLOCK

@@ -1,0 +1,14 @@
+[
+  {
+    "active": "658006016",
+    "buffers": "36478976",
+    "cached": "1675587584",
+    "inactive": "2383020032",
+    "memory_available": "30263488512",
+    "memory_free": "28764774400",
+    "memory_total": "32415866880",
+    "swap_cached": "0",
+    "swap_free": "8589934592",
+    "swap_total": "8589934592"
+  }
+]

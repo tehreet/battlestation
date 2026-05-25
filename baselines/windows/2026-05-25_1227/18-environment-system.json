@@ -1,0 +1,102 @@
+[
+  {
+    "name": "3DVPATH",
+    "type": "REG_SZ",
+    "value": "C:\\AMD\\Chipset_Software\\Binaries\\3D_V-Cache_Performance_Optimizer_Driver\\"
+  },
+  {
+    "name": "ComSpec",
+    "type": "REG_SZ",
+    "value": "C:\\WINDOWS\\system32\\cmd.exe"
+  },
+  {
+    "name": "DriverData",
+    "type": "REG_SZ",
+    "value": "C:\\Windows\\System32\\Drivers\\DriverData"
+  },
+  {
+    "name": "NUMBER_OF_PROCESSORS",
+    "type": "REG_SZ",
+    "value": "16"
+  },
+  {
+    "name": "NVM_HOME",
+    "type": "REG_SZ",
+    "value": "C:\\Users\\joshf\\AppData\\Local\\nvm"
+  },
+  {
+    "name": "NVM_SYMLINK",
+    "type": "REG_SZ",
+    "value": "C:\\nvm4w\\nodejs"
+  },
+  {
+    "name": "OS",
+    "type": "REG_SZ",
+    "value": "Windows_NT"
+  },
+  {
+    "name": "Path",
+    "type": "REG_SZ",
+    "value": "C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\joshf\\AppData\\Local\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\nodejs\\;c:\\Users\\joshf\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\Warp\\bin;C:\\Program Files\\Git\\cmd"
+  },
+  {
+    "name": "PATHEXT",
+    "type": "REG_SZ",
+    "value": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+  },
+  {
+    "name": "POWERSHELL_DISTRIBUTION_CHANNEL",
+    "type": "REG_SZ",
+    "value": "MSI:Windows 10 Pro"
+  },
+  {
+    "name": "PROCESSOR_ARCHITECTURE",
+    "type": "REG_SZ",
+    "value": "AMD64"
+  },
+  {
+    "name": "PROCESSOR_IDENTIFIER",
+    "type": "REG_SZ",
+    "value": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD"
+  },
+  {
+    "name": "PROCESSOR_LEVEL",
+    "type": "REG_SZ",
+    "value": "26"
+  },
+  {
+    "name": "PROCESSOR_REVISION",
+    "type": "REG_SZ",
+    "value": "4400"
+  },
+  {
+    "name": "ProgramData",
+    "type": "REG_SZ",
+    "value": "C:\\ProgramData"
+  },
+  {
+    "name": "PSModulePath",
+    "type": "REG_SZ",
+    "value": "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules"
+  },
+  {
+    "name": "TEMP",
+    "type": "REG_SZ",
+    "value": "C:\\WINDOWS\\TEMP"
+  },
+  {
+    "name": "TMP",
+    "type": "REG_SZ",
+    "value": "C:\\WINDOWS\\TEMP"
+  },
+  {
+    "name": "USERNAME",
+    "type": "REG_SZ",
+    "value": "SYSTEM"
+  },
+  {
+    "name": "windir",
+    "type": "REG_SZ",
+    "value": "C:\\WINDOWS"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "bun": "1.2.19",
+  "cargo": "cargo 1.89.0 (c24e10642 2025-06-23)",
+  "code": "1.117.0",
+  "deno": "deno 2.4.2 (stable, release, x86_64-unknown-linux-gnu)",
+  "docker": "Docker version 29.2.1, build a5c7197",
+  "gh": "gh version 2.45.0 (2025-07-18 Ubuntu 2.45.0-1ubuntu0.3)",
+  "git": "git version 2.43.0",
+  "go": "go version go1.24.5 linux/amd64",
+  "node": "v24.6.0",
+  "npm": "11.6.0",
+  "nvim": null,
+  "pip3": "pip 25.2 from /home/linuxbrew/.linuxbrew/Cellar/python@3.13/3.13.6/lib/python3.13/site-packages/pip (python 3.13)",
+  "pipx": null,
+  "python3": "Python 3.13.6",
+  "rustc": "rustc 1.89.0 (29483883e 2025-08-04)"
+}

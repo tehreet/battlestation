@@ -1,0 +1,10 @@
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "remote.SSH.remotePlatform": {
+        "5.78.91.92": "linux"
+    },
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.useTerminal": true
+}

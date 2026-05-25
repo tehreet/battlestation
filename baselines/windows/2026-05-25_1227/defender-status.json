@@ -1,0 +1,1489 @@
+[
+  {
+    "AMEngineVersion": "1.1.26040.8",
+    "AMProductVersion": "4.18.26040.7",
+    "AMRunningMode": "Normal",
+    "AMServiceEnabled": true,
+    "AMServiceVersion": "4.18.26040.7",
+    "AntispywareEnabled": true,
+    "AntispywareSignatureAge": 0,
+    "AntispywareSignatureLastUpdated": "/Date(1779686654000)/",
+    "AntivirusEnabled": true,
+    "AntivirusSignatureAge": 0,
+    "AntivirusSignatureLastUpdated": "/Date(1779686654000)/",
+    "BehaviorMonitorEnabled": true,
+    "CimClass": {
+      "CimClassMethods": [],
+      "CimClassProperties": [
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "AMEngineVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "AMProductVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "AMRunningMode",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "AMServiceEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "AMServiceVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "AntispywareEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "AntispywareSignatureAge",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "AntispywareSignatureLastUpdated",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property",
+          "Name": "AntispywareSignatureVersion",
+          "Qualifiers": [],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "AntivirusEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "AntivirusSignatureAge",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "AntivirusSignatureLastUpdated",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "AntivirusSignatureVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "BehaviorMonitorEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, Key, ReadOnly",
+          "Name": "ComputerID",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "DisableOverride, ToSubclass",
+              "Name": "key",
+              "Value": true
+            },
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "ComputerState",
+          "Qualifiers": [
+            {
+              "CimType": 30,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "BitMap",
+              "Value": [
+                "0",
+                "1",
+                "2",
+                "4",
+                "8",
+                "16"
+              ]
+            },
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 2,
+          "Flags": "Property, ReadOnly",
+          "Name": "ControlledConfigurationState",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "DefenderSignaturesOutOfDate",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "DeviceControlDefaultEnforcement",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "DeviceControlPoliciesLastUpdated",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "DeviceControlState",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "FullScanAge",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "FullScanEndTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "FullScanOverdue",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "FullScanRequired",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "FullScanSignatureVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "FullScanStartTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "InitializationProgress",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "IoavProtectionEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "IsTamperProtected",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "IsVirtualMachine",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 2,
+          "Flags": "Property, ReadOnly",
+          "Name": "LastFullScanSource",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            },
+            {
+              "CimType": 30,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "ValueMap",
+              "Value": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4"
+              ]
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 2,
+          "Flags": "Property, ReadOnly",
+          "Name": "LastQuickScanSource",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            },
+            {
+              "CimType": 30,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "ValueMap",
+              "Value": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4"
+              ]
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "NISEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "NISEngineVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "NISSignatureAge",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "NISSignatureLastUpdated",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property",
+          "Name": "NISSignatureVersion",
+          "Qualifiers": [],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "OnAccessProtectionEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "ProductStatus",
+          "Qualifiers": [
+            {
+              "CimType": 30,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "BitMap",
+              "Value": [
+                "0",
+                "1",
+                "2",
+                "4",
+                "8",
+                "16",
+                "32",
+                "64",
+                "128",
+                "256",
+                "512",
+                "1024",
+                "2048",
+                "4096",
+                "8192",
+                "16384",
+                "32768",
+                "65536",
+                "131072",
+                "262144",
+                "524288",
+                "1048576",
+                "2097152",
+                "4194304",
+                "8388608",
+                "16777216"
+              ]
+            },
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 6,
+          "Flags": "Property, ReadOnly",
+          "Name": "QuickScanAge",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "QuickScanEndTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "QuickScanOverdue",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "QuickScanSignatureVersion",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 13,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "QuickScanStartTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly",
+          "Name": "RealTimeProtectionEnabled",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": false
+        },
+        {
+          "CimType": 2,
+          "Flags": "Property, ReadOnly",
+          "Name": "RealTimeScanDirection",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            },
+            {
+              "CimType": 30,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "ValueMap",
+              "Value": [
+                "0",
+                "1",
+                "2"
+              ]
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": 0
+        },
+        {
+          "CimType": 1,
+          "Flags": "Property, ReadOnly, NullValue",
+          "Name": "RebootRequired",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": null
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "SmartAppControlExpiration",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "SmartAppControlState",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TamperProtectionSource",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingDailyMaxQuota",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingDailyQuotaLeft",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingEndTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingExpirationLeft",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingMode",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingModeSource",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingQuotaResetTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        },
+        {
+          "CimType": 14,
+          "Flags": "Property, ReadOnly",
+          "Name": "TroubleShootingStartTime",
+          "Qualifiers": [
+            {
+              "CimType": 1,
+              "Flags": "EnableOverride, ToSubclass",
+              "Name": "read",
+              "Value": true
+            }
+          ],
+          "ReferenceClassName": null,
+          "Value": ""
+        }
+      ],
+      "CimClassQualifiers": [
+        {
+          "CimType": 1,
+          "Flags": "EnableOverride, ToSubclass",
+          "Name": "dynamic",
+          "Value": true
+        },
+        {
+          "CimType": 7,
+          "Flags": "EnableOverride, Restricted",
+          "Name": "locale",
+          "Value": 1033
+        },
+        {
+          "CimType": 14,
+          "Flags": "EnableOverride, ToSubclass",
+          "Name": "provider",
+          "Value": "ProtectionManagement"
+        }
+      ],
+      "CimSuperClass": {
+        "CimClassMethods": [],
+        "CimClassProperties": [],
+        "CimClassQualifiers": [
+          {
+            "CimType": 7,
+            "Flags": "EnableOverride, Restricted",
+            "Name": "locale",
+            "Value": 1033
+          }
+        ],
+        "CimSuperClass": null,
+        "CimSuperClassName": null,
+        "CimSystemProperties": {
+          "ClassName": "BaseStatus",
+          "Namespace": "ROOT/Microsoft/Windows/Defender",
+          "Path": null,
+          "ServerName": "BATTLESTATION"
+        }
+      },
+      "CimSuperClassName": "BaseStatus",
+      "CimSystemProperties": {
+        "ClassName": "MSFT_MpComputerStatus",
+        "Namespace": "ROOT/Microsoft/Windows/Defender",
+        "Path": null,
+        "ServerName": "BATTLESTATION"
+      }
+    },
+    "CimInstanceProperties": [
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AMEngineVersion",
+        "Value": "1.1.26040.8"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AMProductVersion",
+        "Value": "4.18.26040.7"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AMRunningMode",
+        "Value": "Normal"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AMServiceEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AMServiceVersion",
+        "Value": "4.18.26040.7"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntispywareEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntispywareSignatureAge",
+        "Value": 0
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntispywareSignatureLastUpdated",
+        "Value": "/Date(1779686654000)/"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, NotModified",
+        "IsValueModified": false,
+        "Name": "AntispywareSignatureVersion",
+        "Value": "1.451.93.0"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntivirusEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntivirusSignatureAge",
+        "Value": 0
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntivirusSignatureLastUpdated",
+        "Value": "/Date(1779686654000)/"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "AntivirusSignatureVersion",
+        "Value": "1.451.93.0"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "BehaviorMonitorEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, Key, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "ComputerID",
+        "Value": "674225B2-F45C-4496-BE23-A482DCD658B6"
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "ComputerState",
+        "Value": 0
+      },
+      {
+        "CimType": 2,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "ControlledConfigurationState",
+        "Value": 0
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "DefenderSignaturesOutOfDate",
+        "Value": false
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified, NullValue",
+        "IsValueModified": false,
+        "Name": "DeviceControlDefaultEnforcement",
+        "Value": null
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "DeviceControlPoliciesLastUpdated",
+        "Value": "/Date(-11644473600000)/"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "DeviceControlState",
+        "Value": "Disabled"
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "FullScanAge",
+        "Value": 4294967295
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified, NullValue",
+        "IsValueModified": false,
+        "Name": "FullScanEndTime",
+        "Value": null
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "FullScanOverdue",
+        "Value": false
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "FullScanRequired",
+        "Value": false
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "FullScanSignatureVersion",
+        "Value": ""
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified, NullValue",
+        "IsValueModified": false,
+        "Name": "FullScanStartTime",
+        "Value": null
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "InitializationProgress",
+        "Value": "ServiceStartedSuccessfully"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "IoavProtectionEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "IsTamperProtected",
+        "Value": true
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "IsVirtualMachine",
+        "Value": false
+      },
+      {
+        "CimType": 2,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "LastFullScanSource",
+        "Value": 0
+      },
+      {
+        "CimType": 2,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "LastQuickScanSource",
+        "Value": 2
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "NISEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "NISEngineVersion",
+        "Value": "1.1.26040.8"
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "NISSignatureAge",
+        "Value": 0
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "NISSignatureLastUpdated",
+        "Value": "/Date(1779686654000)/"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, NotModified",
+        "IsValueModified": false,
+        "Name": "NISSignatureVersion",
+        "Value": "1.451.93.0"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "OnAccessProtectionEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "ProductStatus",
+        "Value": 524288
+      },
+      {
+        "CimType": 6,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "QuickScanAge",
+        "Value": 0
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "QuickScanEndTime",
+        "Value": "/Date(1779647806202)/"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "QuickScanOverdue",
+        "Value": false
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "QuickScanSignatureVersion",
+        "Value": "1.451.77.0"
+      },
+      {
+        "CimType": 13,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "QuickScanStartTime",
+        "Value": "/Date(1779647713162)/"
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "RealTimeProtectionEnabled",
+        "Value": true
+      },
+      {
+        "CimType": 2,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "RealTimeScanDirection",
+        "Value": 0
+      },
+      {
+        "CimType": 1,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "RebootRequired",
+        "Value": false
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified, NullValue",
+        "IsValueModified": false,
+        "Name": "SmartAppControlExpiration",
+        "Value": null
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "SmartAppControlState",
+        "Value": "Off"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TamperProtectionSource",
+        "Value": "Signatures"
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingDailyMaxQuota",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingDailyQuotaLeft",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingEndTime",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingExpirationLeft",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingMode",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingModeSource",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingQuotaResetTime",
+        "Value": ""
+      },
+      {
+        "CimType": 14,
+        "Flags": "Property, ReadOnly, NotModified",
+        "IsValueModified": false,
+        "Name": "TroubleShootingStartTime",
+        "Value": ""
+      }
+    ],
+    "CimSystemProperties": {
+      "ClassName": "MSFT_MpComputerStatus",
+      "Namespace": "ROOT/Microsoft/Windows/Defender",
+      "Path": null,
+      "ServerName": "BATTLESTATION"
+    },
+    "ComputerID": "674225B2-F45C-4496-BE23-A482DCD658B6",
+    "ComputerState": 0,
+    "ControlledConfigurationState": 0,
+    "DefenderSignaturesOutOfDate": false,
+    "DeviceControlDefaultEnforcement": null,
+    "DeviceControlPoliciesLastUpdated": "/Date(-11644473600000)/",
+    "DeviceControlState": "Disabled",
+    "FullScanAge": 4294967295,
+    "FullScanEndTime": null,
+    "FullScanOverdue": false,
+    "FullScanRequired": false,
+    "FullScanStartTime": null,
+    "InitializationProgress": "ServiceStartedSuccessfully",
+    "IoavProtectionEnabled": true,
+    "IsTamperProtected": true,
+    "IsVirtualMachine": false,
+    "LastFullScanSource": 0,
+    "LastQuickScanSource": 2,
+    "NISEnabled": true,
+    "NISEngineVersion": "1.1.26040.8",
+    "NISSignatureAge": 0,
+    "NISSignatureLastUpdated": "/Date(1779686654000)/",
+    "OnAccessProtectionEnabled": true,
+    "PSComputerName": null,
+    "ProductStatus": 524288,
+    "QuickScanAge": 0,
+    "QuickScanEndTime": "/Date(1779647806202)/",
+    "QuickScanOverdue": false,
+    "QuickScanStartTime": "/Date(1779647713162)/",
+    "RealTimeProtectionEnabled": true,
+    "RealTimeScanDirection": 0,
+    "RebootRequired": false,
+    "SmartAppControlExpiration": null,
+    "SmartAppControlState": "Off",
+    "TamperProtectionSource": "Signatures",
+    "TroubleShootingDailyMaxQuota": "",
+    "TroubleShootingDailyQuotaLeft": "",
+    "TroubleShootingEndTime": "",
+    "TroubleShootingExpirationLeft": "",
+    "TroubleShootingMode": "",
+    "TroubleShootingModeSource": "",
+    "TroubleShootingQuotaResetTime": "",
+    "TroubleShootingStartTime": ""
+  }
+]

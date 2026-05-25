@@ -1,0 +1,16 @@
+[
+  {
+    "arch": "64-bit",
+    "build": "26200",
+    "codename": "Microsoft Windows 11 Pro",
+    "install_date": "1753043724",
+    "major": "10",
+    "minor": "0",
+    "name": "Microsoft Windows 11 Pro",
+    "patch": "",
+    "platform": "windows",
+    "platform_like": "windows",
+    "revision": "8457",
+    "version": "10.0.26200"
+  }
+]

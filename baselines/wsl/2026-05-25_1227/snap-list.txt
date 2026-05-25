@@ -1,0 +1,8 @@
+Name     Version                  Rev    Tracking       Publisher       Notes
+aws-cli  2.34.53                  2193   v2/stable      aws**           classic
+core22   20260225                 2411   latest/stable  canonical**     base
+core24   20260410                 1643   latest/stable  canonical**     base
+docker   29.3.1                   3505   latest/stable  canonical**     -
+doctl    v1.159.0                 2419   latest/stable  digitalocean**  -
+snapd    2.75.2                   26865  latest/stable  canonical**     snapd
+yt-dlp   2026.03.17-1-gf01e1a1ce  1286   latest/stable  degville        -

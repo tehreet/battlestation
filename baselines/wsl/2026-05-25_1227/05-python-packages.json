@@ -1,0 +1,632 @@
+[
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "attrs",
+    "path": "/usr/lib/python3/dist-packages/attrs-23.2.0.dist-info",
+    "summary": "Classes Without Boilerplate",
+    "uid": "0",
+    "version": "23.2.0"
+  },
+  {
+    "author": "Glyph",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "Automat",
+    "path": "/usr/lib/python3/dist-packages/Automat-22.10.0.egg-info",
+    "summary": "Self-service finite-state machines for the programmer on the go.",
+    "uid": "0",
+    "version": "22.10.0"
+  },
+  {
+    "author": "Armin Ronacher",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD",
+    "name": "Babel",
+    "path": "/usr/lib/python3/dist-packages/Babel-2.10.3.egg-info",
+    "summary": "Internationalization utilities",
+    "uid": "0",
+    "version": "2.10.3"
+  },
+  {
+    "author": "The Python Cryptographic Authority developers",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache License, Version 2.0",
+    "name": "bcrypt",
+    "path": "/usr/lib/python3/dist-packages/bcrypt-3.2.2.egg-info",
+    "summary": "Modern password hashing for your software and your servers",
+    "uid": "0",
+    "version": "3.2.2"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "blinker",
+    "path": "/usr/lib/python3/dist-packages/blinker-1.7.0.dist-info",
+    "summary": "Fast, simple object-to-object and broadcast signaling",
+    "uid": "0",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Kenneth Reitz",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MPL-2.0",
+    "name": "certifi",
+    "path": "/usr/lib/python3/dist-packages/certifi-2023.11.17.egg-info",
+    "summary": "Python package for providing Mozilla's CA Bundle.",
+    "uid": "0",
+    "version": "2023.11.17"
+  },
+  {
+    "author": "Mark Pilgrim",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL",
+    "name": "chardet",
+    "path": "/usr/lib/python3/dist-packages/chardet-5.2.0.dist-info",
+    "summary": "Universal encoding detector for Python 3",
+    "uid": "0",
+    "version": "5.2.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD-3-Clause",
+    "name": "click",
+    "path": "/usr/lib/python3/dist-packages/click-8.1.6.egg-info",
+    "summary": "Composable command line interface toolkit",
+    "uid": "0",
+    "version": "8.1.6"
+  },
+  {
+    "author": "Scott Moser",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Dual-licensed under GPLv3 or Apache 2.0",
+    "name": "cloud-init",
+    "path": "/usr/lib/python3/dist-packages/cloud_init-25.1.4.egg-info",
+    "summary": "Cloud instance initialization magic",
+    "uid": "0",
+    "version": "25.1.4"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "colorama",
+    "path": "/usr/lib/python3/dist-packages/colorama-0.4.6.dist-info",
+    "summary": "Cross-platform colored terminal text.",
+    "uid": "0",
+    "version": "0.4.6"
+  },
+  {
+    "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers)",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD (2 clause)",
+    "name": "configobj",
+    "path": "/usr/lib/python3/dist-packages/configobj-5.0.8.dist-info",
+    "summary": "Config file reading, writing and validation.",
+    "uid": "0",
+    "version": "5.0.8"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "constantly",
+    "path": "/usr/lib/python3/dist-packages/constantly-23.10.4.egg-info",
+    "summary": "Symbolic constants in Python",
+    "uid": "0",
+    "version": "23.10.4"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache-2.0 OR BSD-3-Clause",
+    "name": "cryptography",
+    "path": "/usr/lib/python3/dist-packages/cryptography-41.0.7.dist-info",
+    "summary": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+    "uid": "0",
+    "version": "41.0.7"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache-2.0 OR BSD-3-Clause",
+    "name": "cryptography",
+    "path": "/usr/lib/python3/dist-packages/cryptography.egg-info",
+    "summary": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+    "uid": "0",
+    "version": "41.0.7"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Expat (MIT/X11)",
+    "name": "dbus-python",
+    "path": "/usr/lib/python3/dist-packages/dbus_python-1.3.2.egg-info",
+    "summary": "Python bindings for libdbus",
+    "uid": "0",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Nir Cohen",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache License, Version 2.0",
+    "name": "distro",
+    "path": "/usr/lib/python3/dist-packages/distro-1.9.0.dist-info",
+    "summary": "Distro - an OS platform information API",
+    "uid": "0",
+    "version": "1.9.0"
+  },
+  {
+    "author": "Benjamin Drung",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "distro-info",
+    "path": "/usr/lib/python3/dist-packages/distro_info-1.7+build1.egg-info",
+    "summary": "",
+    "uid": "0",
+    "version": "1.7+build1"
+  },
+  {
+    "author": "Joe Gregorio",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "httplib2",
+    "path": "/usr/lib/python3/dist-packages/httplib2-0.20.4.dist-info",
+    "summary": "A comprehensive HTTP client library.",
+    "uid": "0",
+    "version": "0.20.4"
+  },
+  {
+    "author": "Mahmoud Hashemi and Glyph Lefkowitz",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "hyperlink",
+    "path": "/usr/lib/python3/dist-packages/hyperlink-21.0.0.egg-info",
+    "summary": "A featureful, immutable, and correct URL for Python.",
+    "uid": "0",
+    "version": "21.0.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "idna",
+    "path": "/usr/lib/python3/dist-packages/idna-3.6.dist-info",
+    "summary": "Internationalized Domain Names in Applications (IDNA)",
+    "uid": "0",
+    "version": "3.6"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "incremental",
+    "path": "/usr/lib/python3/dist-packages/incremental-22.10.0.dist-info",
+    "summary": "\"A small library that versions your Python projects.\"",
+    "uid": "0",
+    "version": "22.10.0"
+  },
+  {
+    "author": "Armin Ronacher",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD-3-Clause",
+    "name": "Jinja2",
+    "path": "/usr/lib/python3/dist-packages/Jinja2-3.1.2.egg-info",
+    "summary": "A very fast and expressive template engine.",
+    "uid": "0",
+    "version": "3.1.2"
+  },
+  {
+    "author": "Stefan Kögl",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Modified BSD License",
+    "name": "jsonpatch",
+    "path": "/usr/lib/python3/dist-packages/jsonpatch-1.32.egg-info",
+    "summary": "Apply JSON-Patches (RFC 6902)",
+    "uid": "0",
+    "version": "1.32"
+  },
+  {
+    "author": "Stefan Kögl",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Modified BSD License",
+    "name": "jsonpointer",
+    "path": "/usr/lib/python3/dist-packages/jsonpointer-2.0.egg-info",
+    "summary": "Identify specific nodes in a JSON document (RFC 6901)",
+    "uid": "0",
+    "version": "2.0"
+  },
+  {
+    "author": "Julian Berman",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "jsonschema",
+    "path": "/usr/lib/python3/dist-packages/jsonschema-4.10.3.dist-info",
+    "summary": "An implementation of JSON Schema validation for Python",
+    "uid": "0",
+    "version": "4.10.3"
+  },
+  {
+    "author": "The Launchpad developers",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL v3",
+    "name": "launchpadlib",
+    "path": "/usr/lib/python3/dist-packages/launchpadlib-1.11.0.egg-info",
+    "summary": "Script Launchpad through its web services interfaces.  Officially supported.",
+    "uid": "0",
+    "version": "1.11.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL v3",
+    "name": "lazr.restfulclient",
+    "path": "/usr/lib/python3/dist-packages/lazr.restfulclient-0.14.6.egg-info",
+    "summary": "A programmable client library that takes advantage of the commonalities among",
+    "uid": "0",
+    "version": "0.14.6"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL v3",
+    "name": "lazr.uri",
+    "path": "/usr/lib/python3/dist-packages/lazr.uri-1.0.6.egg-info",
+    "summary": "A self-contained, easily reusable library for parsing, manipulating,",
+    "uid": "0",
+    "version": "1.0.6"
+  },
+  {
+    "author": "Mike Bayer",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "Mako",
+    "path": "/usr/lib/python3/dist-packages/Mako-1.3.2.dev0.egg-info",
+    "summary": "A super-fast templating language that borrows the best ideas from the existing templating languages.",
+    "uid": "0",
+    "version": "1.3.2.dev0"
+  },
+  {
+    "author": "Manfred Stienstra, Yuri Takhteyev",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Copyright 2007, 2008 The Python Markdown Project (v. 1.7 and later)",
+    "name": "Markdown",
+    "path": "/usr/lib/python3/dist-packages/Markdown-3.5.2.dist-info",
+    "summary": "Python implementation of John Gruber's Markdown.",
+    "uid": "0",
+    "version": "3.5.2"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "markdown-it-py",
+    "path": "/usr/lib/python3/dist-packages/markdown_it_py-3.0.0.dist-info",
+    "summary": "Python port of markdown-it. Markdown parsing, done right!",
+    "uid": "0",
+    "version": "3.0.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD-3-Clause",
+    "name": "MarkupSafe",
+    "path": "/usr/lib/python3/dist-packages/MarkupSafe-2.1.5.egg-info",
+    "summary": "Safely add untrusted strings to HTML/XML markup.",
+    "uid": "0",
+    "version": "2.1.5"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "mdurl",
+    "path": "/usr/lib/python3/dist-packages/mdurl-0.1.2.dist-info",
+    "summary": "Markdown URL utilities",
+    "uid": "0",
+    "version": "0.1.2"
+  },
+  {
+    "author": "Alastair Houghton",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT License",
+    "name": "netifaces",
+    "path": "/usr/lib/python3/dist-packages/netifaces-0.11.0.egg-info",
+    "summary": "Portable network interface information.",
+    "uid": "0",
+    "version": "0.11.0"
+  },
+  {
+    "author": "The OAuthlib Community",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD",
+    "name": "oauthlib",
+    "path": "/usr/lib/python3/dist-packages/oauthlib-3.2.2.egg-info",
+    "summary": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic",
+    "uid": "0",
+    "version": "3.2.2"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "packaging",
+    "path": "/usr/lib/python3/dist-packages/packaging-24.0.dist-info",
+    "summary": "Core utilities for Python packages",
+    "uid": "0",
+    "version": "24.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "pip",
+    "path": "/usr/lib/python3/dist-packages/pip-24.0.dist-info",
+    "summary": "The PyPA recommended tool for installing Python packages.",
+    "uid": "0",
+    "version": "24.0"
+  },
+  {
+    "author": "Ilya Etingof",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD",
+    "name": "pyasn1",
+    "path": "/usr/lib/python3/dist-packages/pyasn1-0.4.8.egg-info",
+    "summary": "ASN.1 types and codecs",
+    "uid": "0",
+    "version": "0.4.8"
+  },
+  {
+    "author": "Kjetil Jacobsen, Markus F.X.J. Oberhumer, Oleg Pudeyev",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL/MIT",
+    "name": "pycurl",
+    "path": "/usr/lib/python3/dist-packages/pycurl-7.45.3.egg-info",
+    "summary": "PycURL -- A Python Interface To The cURL library",
+    "uid": "0",
+    "version": "7.45.3"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD-2-Clause",
+    "name": "Pygments",
+    "path": "/usr/lib/python3/dist-packages/pygments-2.17.2.dist-info",
+    "summary": "Pygments is a syntax highlighting package written in Python.",
+    "uid": "0",
+    "version": "2.17.2"
+  },
+  {
+    "author": "Simon Brunning, Jon Reid",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD License",
+    "name": "PyHamcrest",
+    "path": "/usr/lib/python3/dist-packages/pyhamcrest-2.1.0.dist-info",
+    "summary": "Hamcrest framework for matcher objects",
+    "uid": "0",
+    "version": "2.1.0"
+  },
+  {
+    "author": "Jose Padilla",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "PyJWT",
+    "path": "/usr/lib/python3/dist-packages/PyJWT-2.7.0.dist-info",
+    "summary": "JSON Web Token implementation in Python",
+    "uid": "0",
+    "version": "2.7.0"
+  },
+  {
+    "author": "The pyOpenSSL developers",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache License, Version 2.0",
+    "name": "pyOpenSSL",
+    "path": "/usr/lib/python3/dist-packages/pyOpenSSL-23.2.0.egg-info",
+    "summary": "Python wrapper module around the OpenSSL library",
+    "uid": "0",
+    "version": "23.2.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "pyparsing",
+    "path": "/usr/lib/python3/dist-packages/pyparsing-3.1.1.dist-info",
+    "summary": "pyparsing module - Classes and methods to define and execute parsing grammars",
+    "uid": "0",
+    "version": "3.1.1"
+  },
+  {
+    "author": "Tobias Gustafsson",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "pyrsistent",
+    "path": "/usr/lib/python3/dist-packages/pyrsistent-0.20.0.egg-info",
+    "summary": "Persistent/Functional/Immutable data structures",
+    "uid": "0",
+    "version": "0.20.0"
+  },
+  {
+    "author": "Chris Liechti",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "BSD",
+    "name": "pyserial",
+    "path": "/usr/lib/python3/dist-packages/pyserial-3.5.egg-info",
+    "summary": "Python Serial Port Extension",
+    "uid": "0",
+    "version": "3.5"
+  },
+  {
+    "author": "APT Development Team",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "GNU GPL",
+    "name": "python-apt",
+    "path": "/usr/lib/python3/dist-packages/python_apt-2.7.7+ubuntu5.1.egg-info",
+    "summary": "Python bindings for APT",
+    "uid": "0",
+    "version": "2.7.7+ubuntu5.1"
+  },
+  {
+    "author": "Stuart Bishop",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "pytz",
+    "path": "/usr/lib/python3/dist-packages/pytz-2024.1.egg-info",
+    "summary": "World timezone definitions, modern and historical",
+    "uid": "0",
+    "version": "2024.1"
+  },
+  {
+    "author": "Kirill Simonov",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "PyYAML",
+    "path": "/usr/lib/python3/dist-packages/PyYAML-6.0.1.dist-info",
+    "summary": "YAML parser and emitter for Python",
+    "uid": "0",
+    "version": "6.0.1"
+  },
+  {
+    "author": "Kenneth Reitz",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "Apache 2.0",
+    "name": "requests",
+    "path": "/usr/lib/python3/dist-packages/requests-2.31.0.egg-info",
+    "summary": "Python HTTP for Humans.",
+    "uid": "0",
+    "version": "2.31.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "rich",
+    "path": "/usr/lib/python3/dist-packages/rich-13.7.1.dist-info",
+    "summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+    "uid": "0",
+    "version": "13.7.1"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "service-identity",
+    "path": "/usr/lib/python3/dist-packages/service_identity-24.1.0.dist-info",
+    "summary": "Service identity verification for pyOpenSSL & cryptography.",
+    "uid": "0",
+    "version": "24.1.0"
+  },
+  {
+    "author": "Python Packaging Authority",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "setuptools",
+    "path": "/usr/lib/python3/dist-packages/setuptools-68.1.2.egg-info",
+    "summary": "Easily download, build, install, upgrade, and uninstall Python packages",
+    "uid": "0",
+    "version": "68.1.2"
+  },
+  {
+    "author": "Benjamin Peterson",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT",
+    "name": "six",
+    "path": "/usr/lib/python3/dist-packages/six-1.16.0.egg-info",
+    "summary": "Python 2 and 3 compatibility utilities",
+    "uid": "0",
+    "version": "1.16.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPLv2+",
+    "name": "systemd-python",
+    "path": "/usr/lib/python3/dist-packages/systemd_python-235.egg-info",
+    "summary": "Python interface for libsystemd",
+    "uid": "0",
+    "version": "235"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "MIT License",
+    "name": "Twisted",
+    "path": "/usr/lib/python3/dist-packages/twisted-24.3.0.dist-info",
+    "summary": "An asynchronous networking framework written in Python",
+    "uid": "0",
+    "version": "24.3.0"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "typing_extensions",
+    "path": "/usr/lib/python3/dist-packages/typing_extensions-4.10.0.dist-info",
+    "summary": "Backported and Experimental Type Hints for Python 3.8+",
+    "uid": "0",
+    "version": "4.10.0"
+  },
+  {
+    "author": "Ubuntu Server Team",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "GPLv3",
+    "name": "ubuntu-pro-client",
+    "path": "/usr/lib/python3/dist-packages/ubuntu_pro_client-8001.egg-info",
+    "summary": "Manage Ubuntu Pro support entitlements",
+    "uid": "0",
+    "version": "8001"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "unattended-upgrades",
+    "path": "/usr/lib/python3/dist-packages/unattended_upgrades-0.1.egg-info",
+    "summary": "",
+    "uid": "0",
+    "version": "0.1"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "urllib3",
+    "path": "/usr/lib/python3/dist-packages/urllib3-2.0.7.dist-info",
+    "summary": "HTTP library with thread-safe connection pooling, file post, and more.",
+    "uid": "0",
+    "version": "2.0.7"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "LGPL v3",
+    "name": "wadllib",
+    "path": "/usr/lib/python3/dist-packages/wadllib-1.3.6.egg-info",
+    "summary": "Navigate HTTP resources using WADL files as guides.",
+    "uid": "0",
+    "version": "1.3.6"
+  },
+  {
+    "author": "",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "",
+    "name": "wheel",
+    "path": "/usr/lib/python3/dist-packages/wheel-0.42.0.dist-info",
+    "summary": "A built-package format for Python",
+    "uid": "0",
+    "version": "0.42.0"
+  },
+  {
+    "author": "Zope Foundation and Contributors",
+    "directory": "/usr/lib/python3/dist-packages/",
+    "license": "ZPL 2.1",
+    "name": "zope.interface",
+    "path": "/usr/lib/python3/dist-packages/zope.interface-6.1.egg-info",
+    "summary": "Interfaces for Python",
+    "uid": "0",
+    "version": "6.1"
+  }
+]

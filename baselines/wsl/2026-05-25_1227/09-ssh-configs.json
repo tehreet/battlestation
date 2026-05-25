@@ -1,0 +1,68 @@
+[
+  {
+    "block": "",
+    "option": "include /etc/ssh/ssh_config.d/*.conf",
+    "ssh_config_file": "/etc/ssh/ssh_config",
+    "uid": "0"
+  },
+  {
+    "block": "host *",
+    "option": "sendenv lang lc_*",
+    "ssh_config_file": "/etc/ssh/ssh_config",
+    "uid": "0"
+  },
+  {
+    "block": "host *",
+    "option": "hashknownhosts yes",
+    "ssh_config_file": "/etc/ssh/ssh_config",
+    "uid": "0"
+  },
+  {
+    "block": "host *",
+    "option": "gssapiauthentication yes",
+    "ssh_config_file": "/etc/ssh/ssh_config",
+    "uid": "0"
+  },
+  {
+    "block": "host catnip",
+    "option": "hostname 127.0.0.1",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "port 2222",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "user joshf",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "identityfile ~/.ssh/catnip_remote",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "stricthostkeychecking no",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "userknownhostsfile /dev/null",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  },
+  {
+    "block": "host catnip",
+    "option": "sendenv workdir",
+    "ssh_config_file": "/home/joshf/.ssh/config",
+    "uid": "1000"
+  }
+]

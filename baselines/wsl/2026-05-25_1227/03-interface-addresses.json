@@ -1,0 +1,58 @@
+[
+  {
+    "address": "172.18.0.1",
+    "broadcast": "172.18.255.255",
+    "interface": "br-9e8957df8204",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "172.17.0.1",
+    "broadcast": "172.17.255.255",
+    "interface": "docker0",
+    "mask": "255.255.0.0",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "172.27.212.87",
+    "broadcast": "172.27.223.255",
+    "interface": "eth0",
+    "mask": "255.255.240.0",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "fe80::215:5dff:fed1:a681%eth0",
+    "broadcast": "",
+    "interface": "eth0",
+    "mask": "ffff:ffff:ffff:ffff::",
+    "point_to_point": "",
+    "type": "unknown"
+  },
+  {
+    "address": "10.255.255.254",
+    "broadcast": "",
+    "interface": "lo",
+    "mask": "255.255.255.255",
+    "point_to_point": "10.255.255.254",
+    "type": "unknown"
+  },
+  {
+    "address": "127.0.0.1",
+    "broadcast": "",
+    "interface": "lo",
+    "mask": "255.0.0.0",
+    "point_to_point": "127.0.0.1",
+    "type": "unknown"
+  },
+  {
+    "address": "::1",
+    "broadcast": "",
+    "interface": "lo",
+    "mask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+    "point_to_point": "",
+    "type": "unknown"
+  }
+]

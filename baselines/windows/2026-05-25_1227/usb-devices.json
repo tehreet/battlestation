@@ -1,0 +1,482 @@
+[
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Analogue 1 + 2 (2- Focusrite USB Audio)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.1.00000000}.{9567D810-0C3C-4198-B231-65B7DA05044F}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Microphone (iPhone Hands-Free HF Audio)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.1.00000000}.{4E3931A2-8FE6-412F-8413-1B90FF43B8A3}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Microphone (NVIDIA Broadcast)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.1.00000000}.{F86BFDD9-C455-4A89-934C-9DF36CA73C26}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Realtek Digital Output (Realtek USB Audio)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{DC69CE98-DFBE-4AE3-8320-9D8F06623F3C}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Speakers (2- Focusrite USB Audio)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{82FC9D07-9D4B-45DF-A7F4-57E49CD28087}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Speakers (iPhone Hands-Free HF Audio)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{60BB2894-ED5B-4CF2-995F-954B8D809703}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "AudioEndpoint",
+    "FriendlyName": "Speakers (NVIDIA Broadcast)",
+    "InstanceId": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{A7918D01-B5A3-41DC-8940-0FE2AB8A50DB}",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth Device (RFCOMM Protocol TDI)",
+    "InstanceId": "BTH\\MS_RFCOMM\\A&352EEB07&0&0",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{89D3502B-0F36-433A-8EF4-C502AD55F8DC}_635481C1695A\\C&27121DD6&0&002D",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{7905F431-B5CE-4E99-A40F-4B1E122D00D0}_635481C1695A\\C&27121DD6&0&0023",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{0000F200-0000-1000-8000-00805F9B34FB}_DEV_VID&02046D_PID&B35A_REV&0011_EFFED1026B67\\C&465D6AB&0&0048",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180F-0000-1000-8000-00805F9B34FB}_DEV_VID&02046D_PID&B35A_REV&0011_EFFED1026B67\\C&465D6AB&0&0035",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180F-0000-1000-8000-00805F9B34FB}_635481C1695A\\C&27121DD6&0&0019",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{D0611E78-BBB4-4591-A5F8-487910AE4366}_635481C1695A\\C&27121DD6&0&000F",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{00001805-0000-1000-8000-00805F9B34FB}_635481C1695A\\C&27121DD6&0&001D",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{00000001-5F60-4C4F-9C83-A7953298D40D}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0024",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180F-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0012",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Bluetooth LE Generic Attribute Service",
+    "InstanceId": "BTHLEDEVICE\\{9FA480E0-4967-4542-9390-D343DC5D04AE}_635481C1695A\\C&27121DD6&0&0014",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Device Information Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180A-0000-1000-8000-00805F9B34FB}_635481C1695A\\C&27121DD6&0&000A",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Device Information Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180A-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0009",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Device Information Service",
+    "InstanceId": "BTHLEDEVICE\\{0000180A-0000-1000-8000-00805F9B34FB}_DEV_VID&02046D_PID&B35A_REV&0011_EFFED1026B67\\C&465D6AB&0&0039",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Generic Access Profile",
+    "InstanceId": "BTHLEDEVICE\\{00001800-0000-1000-8000-00805F9B34FB}_DEV_VID&02046D_PID&B35A_REV&0011_EFFED1026B67\\C&465D6AB&0&0001",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Generic Access Profile",
+    "InstanceId": "BTHLEDEVICE\\{00001800-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0001",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Generic Access Profile",
+    "InstanceId": "BTHLEDEVICE\\{00001800-0000-1000-8000-00805F9B34FB}_635481C1695A\\C&27121DD6&0&0001",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Generic Attribute Profile",
+    "InstanceId": "BTHLEDEVICE\\{00001801-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0008",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Generic Attribute Profile",
+    "InstanceId": "BTHLEDEVICE\\{00001801-0000-1000-8000-00805F9B34FB}_635481C1695A\\C&27121DD6&0&0006",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "iPhone",
+    "InstanceId": "BTHENUM\\DEV_28D5B1B22672\\B&63B6B4E&0&BLUETOOTHDEVICE_28D5B1B22672",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "iPhone",
+    "InstanceId": "BTHLE\\DEV_635481C1695A\\B&1EAA1551&0&635481C1695A",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "iPhone Avrcp Transport",
+    "InstanceId": "BTHENUM\\{0000110E-0000-1000-8000-00805F9B34FB}_VID&0001004C_PID&0000\\B&63B6B4E&0&28D5B1B22672_C00000000",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "iPhone Avrcp Transport",
+    "InstanceId": "BTHENUM\\{0000110C-0000-1000-8000-00805F9B34FB}_VID&0001004C_PID&0000\\B&63B6B4E&0&28D5B1B22672_C00000000",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "MediaTek Bluetooth Adapter",
+    "InstanceId": "USB\\VID_13D3&PID_3602&MI_00\\9&2434504C&0&0000",
+    "Manufacturer": "Mediatek Inc."
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Microsoft Bluetooth Enumerator",
+    "InstanceId": "BTH\\MS_BTHBRB\\A&352EEB07&0&1",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Microsoft Bluetooth LE Enumerator",
+    "InstanceId": "BTH\\MS_BTHLE\\A&352EEB07&0&3",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Personal Area Network NAP Service",
+    "InstanceId": "BTHENUM\\{00001116-0000-1000-8000-00805F9B34FB}_VID&0001004C_PID&0000\\B&63B6B4E&0&28D5B1B22672_C00000000",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Phonebook Access Pse Service",
+    "InstanceId": "BTHENUM\\{0000112F-0000-1000-8000-00805F9B34FB}_VID&0001004C_PID&0000\\B&63B6B4E&0&28D5B1B22672_C00000000",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "RK-M75RGB",
+    "InstanceId": "BTHLE\\DEV_EFFED1026B67\\B&1EAA1551&0&EFFED1026B67",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Service Discovery Service",
+    "InstanceId": "BTHENUM\\{00001000-0000-1000-8000-00805F9B34FB}_VID&0001004C_PID&0000\\B&63B6B4E&0&28D5B1B22672_C00000000",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "Bluetooth",
+    "FriendlyName": "Xbox Wireless Controller",
+    "InstanceId": "BTHLE\\DEV_408E2C47746D\\B&1EAA1551&0&408E2C47746D",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "Bluetooth LE XINPUT compatible input device",
+    "InstanceId": "BTHLEDEVICE\\{00001812-0000-1000-8000-00805F9B34FB}_DEV_VID&02045E_PID&0B13_REV&0509_408E2C47746D\\C&22CE4D5A&1&0016",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "Bluetooth Low Energy GATT compliant HID device",
+    "InstanceId": "BTHLEDEVICE\\{00001812-0000-1000-8000-00805F9B34FB}_DEV_VID&02046D_PID&B35A_REV&0011_EFFED1026B67\\C&465D6AB&0&0008",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant consumer control device",
+    "InstanceId": "HID\\VID_3434&PID_0B10&MI_00&COL05\\8&B67F3DE&0&0004",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant consumer control device",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_01&COL02\\A&32DCB082&0&0001",
+    "Manufacturer": "Microsoft"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant device",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_01&COL04\\A&32DCB082&0&0003",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant device",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_01&COL05\\A&32DCB082&0&0004",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant game controller",
+    "InstanceId": "HID\\VID_3434&PID_0B10&MI_00&COL03\\8&B67F3DE&0&0002",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant system controller",
+    "InstanceId": "HID\\VID_3434&PID_0B10&MI_00&COL04\\8&B67F3DE&0&0003",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant system controller",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_01&COL03\\A&32DCB082&0&0002",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant touch pad",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_03\\A&C7C7806&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant vendor-defined device",
+    "InstanceId": "HID\\VID_0B05&PID_1BE1&MI_07\\A&2C39336E&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant vendor-defined device",
+    "InstanceId": "HID\\VID_3434&PID_0B10&MI_01\\8&232B8023&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant vendor-defined device",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_02&COL02\\A&1FAC9444&0&0001",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant vendor-defined device",
+    "InstanceId": "HID\\VID_046D&PID_C548&MI_02&COL01\\A&1FAC9444&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "HID-compliant vendor-defined device",
+    "InstanceId": "HID\\VID_0B05&PID_19AF&MI_02\\A&D29D7F0&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "Logitech USB Input Device",
+    "InstanceId": "USB\\VID_046D&PID_C548&MI_00\\9&1D1E775&0&0000",
+    "Manufacturer": "Logitech (x64)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_046D&PID_C548&MI_02\\9&1D1E775&0&0002",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_3434&PID_0B10&MI_00\\7&160FED20&0&0000",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_046D&PID_C548&MI_01\\9&1D1E775&0&0001",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_0B05&PID_1BE1&MI_07\\9&18B5BFC9&0&0007",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_3434&PID_0B10&MI_01\\7&160FED20&0&0001",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_046D&PID_C548&MI_03\\9&1D1E775&0&0003",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "HIDClass",
+    "FriendlyName": "USB Input Device",
+    "InstanceId": "USB\\VID_0B05&PID_19AF&MI_02\\9&DE2EAF5&0&0002",
+    "Manufacturer": "(Standard system devices)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "AMD USB 2.0 eXtensible Host Controller - 1.20 (Microsoft)",
+    "InstanceId": "PCI\\VEN_1022&DEV_15B8&SUBSYS_88771043&REV_00\\4&89701DF&0&0043",
+    "Manufacturer": "Generic USB xHCI Host Controller"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "AMD USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)",
+    "InstanceId": "PCI\\VEN_1022&DEV_15B7&SUBSYS_88771043&REV_00\\4&1EBE6A9C&0&0441",
+    "Manufacturer": "Generic USB xHCI Host Controller"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "AMD USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)",
+    "InstanceId": "PCI\\VEN_1022&DEV_15B6&SUBSYS_88771043&REV_00\\4&1EBE6A9C&0&0341",
+    "Manufacturer": "Generic USB xHCI Host Controller"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "AMD USB 3.20 eXtensible Host Controller - 1.10 (Microsoft)",
+    "InstanceId": "PCI\\VEN_1022&DEV_43FC&SUBSYS_11421B21&REV_01\\6&2AF91C3C&0&00600011",
+    "Manufacturer": "Generic USB xHCI Host Controller"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "Generic SuperSpeed USB Hub",
+    "InstanceId": "USB\\VID_05E3&PID_0626\\8&2D69411B&0&5",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "Generic SuperSpeed USB Hub",
+    "InstanceId": "USB\\VID_05E3&PID_0626\\9&87AB795&0&4",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "Generic USB Hub",
+    "InstanceId": "USB\\VID_05E3&PID_0610\\9&2C07010&0&4",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "Generic USB Hub",
+    "InstanceId": "USB\\VID_05E3&PID_0610\\8&2D69411B&0&10",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "Realtek UcmCx Client Device",
+    "InstanceId": "ACPI\\RTK5452\\1",
+    "Manufacturer": "Realtek Semiconductor Corp."
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_3434&PID_0B10\\6&23491980&0&2",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_046D&PID_C548\\8&2D69411B&0&9",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_13D3&PID_3602\\000000000",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_0B05&PID_1BE1\\8&2D69411B&0&11",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_046D&PID_086B\\54DAF78E",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Composite Device",
+    "InstanceId": "USB\\VID_0B05&PID_19AF\\9876543210",
+    "Manufacturer": "(Standard USB Host Controller)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Root Hub (USB 3.0)",
+    "InstanceId": "USB\\ROOT_HUB30\\5&239A9E6D&0&0",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Root Hub (USB 3.0)",
+    "InstanceId": "USB\\ROOT_HUB30\\5&2E6429FC&0&0",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Root Hub (USB 3.0)",
+    "InstanceId": "USB\\ROOT_HUB30\\7&3898D510&0&0",
+    "Manufacturer": "(Standard USB HUBs)"
+  },
+  {
+    "Class": "USB",
+    "FriendlyName": "USB Root Hub (USB 3.0)",
+    "InstanceId": "USB\\ROOT_HUB30\\5&B222599&0&0",
+    "Manufacturer": "(Standard USB HUBs)"
+  }
+]

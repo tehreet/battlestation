@@ -1,0 +1,11 @@
+[
+  {
+    "boot_partition": "1",
+    "description": "Local Fixed Disk",
+    "device_id": "C:",
+    "file_system": "NTFS",
+    "free_space": "306057633792",
+    "size": "1999439392768",
+    "type": "Unknown"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "description": "",
+    "directory": "C:\\Users\\nx",
+    "gid": "4294967295",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "roaming",
+    "uid": "1003",
+    "username": ""
+  },
+  {
+    "description": "Built-in account for administering the computer/domain",
+    "directory": "",
+    "gid": "544",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "500",
+    "username": "Administrator"
+  },
+  {
+    "description": "A user account managed by the system.",
+    "directory": "",
+    "gid": "581",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "503",
+    "username": "DefaultAccount"
+  },
+  {
+    "description": "Built-in account for guest access to the computer/domain",
+    "directory": "",
+    "gid": "546",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "501",
+    "username": "Guest"
+  },
+  {
+    "description": "",
+    "directory": "C:\\Users\\joshf",
+    "gid": "1002",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "1001",
+    "username": "joshf"
+  },
+  {
+    "description": "",
+    "directory": "%systemroot%\\ServiceProfiles\\LocalService",
+    "gid": "19",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "special",
+    "uid": "19",
+    "username": "LOCAL SERVICE"
+  },
+  {
+    "description": "",
+    "directory": "%systemroot%\\ServiceProfiles\\NetworkService",
+    "gid": "20",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "special",
+    "uid": "20",
+    "username": "NETWORK SERVICE"
+  },
+  {
+    "description": "",
+    "directory": "%systemroot%\\system32\\config\\systemprofile",
+    "gid": "18",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "special",
+    "uid": "18",
+    "username": "SYSTEM"
+  },
+  {
+    "description": "A user account managed and used by the system for Windows Defender Application Guard scenarios.",
+    "directory": "",
+    "gid": "513",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "504",
+    "username": "WDAGUtilityAccount"
+  },
+  {
+    "description": "A user account managed and used by the system for Web Sign-in scenarios.",
+    "directory": "C:\\Users\\WsiAccount",
+    "gid": "545",
+    "shell": "C:\\Windows\\system32\\cmd.exe",
+    "type": "local",
+    "uid": "1004",
+    "username": "WsiAccount"
+  }
+]

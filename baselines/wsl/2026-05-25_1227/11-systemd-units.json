@@ -1,0 +1,3692 @@
+[
+  {
+    "active_state": "active",
+    "description": "Root Mount",
+    "fragment_path": "",
+    "id": "-.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Root Slice",
+    "fragment_path": "",
+    "id": "-.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/Docker/host",
+    "fragment_path": "",
+    "id": "Docker-host.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "NetworkManager.service",
+    "fragment_path": "",
+    "id": "NetworkManager.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load AppArmor profiles",
+    "fragment_path": "/usr/lib/systemd/system/apparmor.service",
+    "id": "apparmor.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Process error reports when automatic reporting is enabled (file watch)",
+    "fragment_path": "/usr/lib/systemd/system/apport-autoreport.path",
+    "id": "apport-autoreport.path",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Process error reports when automatic reporting is enabled",
+    "fragment_path": "/usr/lib/systemd/system/apport-autoreport.service",
+    "id": "apport-autoreport.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Process error reports when automatic reporting is enabled (timer based)",
+    "fragment_path": "/usr/lib/systemd/system/apport-autoreport.timer",
+    "id": "apport-autoreport.timer",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Unix socket for apport crash forwarding",
+    "fragment_path": "/usr/lib/systemd/system/apport-forward.socket",
+    "id": "apport-forward.socket",
+    "load_state": "loaded",
+    "sub_state": "listening",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "automatic crash report generation",
+    "fragment_path": "/usr/lib/systemd/system/apport.service",
+    "id": "apport.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Daily apt upgrade and clean activities",
+    "fragment_path": "/usr/lib/systemd/system/apt-daily-upgrade.service",
+    "id": "apt-daily-upgrade.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily apt upgrade and clean activities",
+    "fragment_path": "/usr/lib/systemd/system/apt-daily-upgrade.timer",
+    "id": "apt-daily-upgrade.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Daily apt download activities",
+    "fragment_path": "/usr/lib/systemd/system/apt-daily.service",
+    "id": "apt-daily.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily apt download activities",
+    "fragment_path": "/usr/lib/systemd/system/apt-daily.timer",
+    "id": "apt-daily.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "auditd.service",
+    "fragment_path": "",
+    "id": "auditd.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Basic System",
+    "fragment_path": "/usr/lib/systemd/system/basic.target",
+    "id": "basic.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Block Device Preparation for /dev/loop0",
+    "fragment_path": "/usr/lib/systemd/system/blockdev@.target",
+    "id": "blockdev@dev-loop0.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Block Device Preparation for /dev/sdd",
+    "fragment_path": "/usr/lib/systemd/system/blockdev@.target",
+    "id": "blockdev@dev-sdd.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Block Device Preparation for /dev/sdf",
+    "fragment_path": "/usr/lib/systemd/system/blockdev@.target",
+    "id": "blockdev@dev-sdf.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "connman.service",
+    "fragment_path": "",
+    "id": "connman.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Console Getty",
+    "fragment_path": "/usr/lib/systemd/system/console-getty.service",
+    "id": "console-getty.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled-runtime"
+  },
+  {
+    "active_state": "inactive",
+    "description": "console-screen.service",
+    "fragment_path": "",
+    "id": "console-screen.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Set console font and keymap",
+    "fragment_path": "/usr/lib/systemd/system/console-setup.service",
+    "id": "console-setup.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Regular background program processing daemon",
+    "fragment_path": "/usr/lib/systemd/system/cron.service",
+    "id": "cron.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Local Encrypted Volumes (Pre)",
+    "fragment_path": "/usr/lib/systemd/system/cryptsetup-pre.target",
+    "id": "cryptsetup-pre.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Local Encrypted Volumes",
+    "fragment_path": "/usr/lib/systemd/system/cryptsetup.target",
+    "id": "cryptsetup.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "D-Bus System Message Bus",
+    "fragment_path": "/usr/lib/systemd/system/dbus.service",
+    "id": "dbus.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "D-Bus System Message Bus Socket",
+    "fragment_path": "/usr/lib/systemd/system/dbus.socket",
+    "id": "dbus.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-25.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-26.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-27.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-28.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-29.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-diskseq/30",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-30.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-diskseq/31",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-31.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2ddiskseq-32.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d36002248026ebf4890d53166b66a69e14.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d36002248057629a171396a557b5f04cff.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d3600224805b5ac507b80a045bc3303ae1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d36002248092185fba9297981d331a0c7d.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d3600224809fda8afe1d4dd95a3b669d3e.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-scsi\\x2d360022480b4a79ab1ad07e9d0c4ed6dff.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x6002248026ebf4890d53166b66a69e14.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x6002248057629a171396a557b5f04cff.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x600224805b5ac507b80a045bc3303ae1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x6002248092185fba9297981d331a0c7d.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x600224809fda8afe1d4dd95a3b669d3e.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2did-wwn\\x2d0x60022480b4a79ab1ad07e9d0c4ed6dff.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-label/ISOIMAGE",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dlabel-ISOIMAGE.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-label/wsl-cli-bundle",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dlabel-wsl\\x2dcli\\x2dbundle.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-loop-inode/8:64-122547",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dloop\\x2dinode-8:64\\x2d122547.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-loop-inode/8:64-158874",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dloop\\x2dinode-8:64\\x2d158874.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-0aa3ab73\\x2d274c\\x2d4d67\\x2daf2b\\x2d6bf08e047ba8.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-uuid/2026-02-05-17-15-44-00",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-2026\\x2d02\\x2d05\\x2d17\\x2d15\\x2d44\\x2d00.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/disk/by-uuid/2026-02-13-23-29-58-00",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-2026\\x2d02\\x2d13\\x2d23\\x2d29\\x2d58\\x2d00.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-2ce8fe66\\x2dd985\\x2d4187\\x2da11b\\x2d8a1f934aca03.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-6b28376a\\x2dfff0\\x2d484c\\x2d82a8\\x2d48ca38f83f86.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-disk-by\\x2duuid-fa49b589\\x2d84da\\x2d415b\\x2db033\\x2d70c549e5314b.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Huge Pages File System",
+    "fragment_path": "/usr/lib/systemd/system/dev-hugepages.mount",
+    "id": "dev-hugepages.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc0",
+    "fragment_path": "",
+    "id": "dev-hvc0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc1",
+    "fragment_path": "",
+    "id": "dev-hvc1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc2",
+    "fragment_path": "",
+    "id": "dev-hvc2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc3",
+    "fragment_path": "",
+    "id": "dev-hvc3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc4",
+    "fragment_path": "",
+    "id": "dev-hvc4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc5",
+    "fragment_path": "",
+    "id": "dev-hvc5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc6",
+    "fragment_path": "",
+    "id": "dev-hvc6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/hvc7",
+    "fragment_path": "",
+    "id": "dev-hvc7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/loop0",
+    "fragment_path": "",
+    "id": "dev-loop0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/loop1",
+    "fragment_path": "",
+    "id": "dev-loop1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "POSIX Message Queue File System",
+    "fragment_path": "/usr/lib/systemd/system/dev-mqueue.mount",
+    "id": "dev-mqueue.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ptp0",
+    "fragment_path": "",
+    "id": "dev-ptp0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ptp_hyperv",
+    "fragment_path": "",
+    "id": "dev-ptp_hyperv.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram0",
+    "fragment_path": "",
+    "id": "dev-ram0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram1",
+    "fragment_path": "",
+    "id": "dev-ram1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram10",
+    "fragment_path": "",
+    "id": "dev-ram10.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram11",
+    "fragment_path": "",
+    "id": "dev-ram11.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram12",
+    "fragment_path": "",
+    "id": "dev-ram12.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram13",
+    "fragment_path": "",
+    "id": "dev-ram13.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram14",
+    "fragment_path": "",
+    "id": "dev-ram14.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram15",
+    "fragment_path": "",
+    "id": "dev-ram15.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram2",
+    "fragment_path": "",
+    "id": "dev-ram2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram3",
+    "fragment_path": "",
+    "id": "dev-ram3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram4",
+    "fragment_path": "",
+    "id": "dev-ram4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram5",
+    "fragment_path": "",
+    "id": "dev-ram5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram6",
+    "fragment_path": "",
+    "id": "dev-ram6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram7",
+    "fragment_path": "",
+    "id": "dev-ram7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram8",
+    "fragment_path": "",
+    "id": "dev-ram8.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ram9",
+    "fragment_path": "",
+    "id": "dev-ram9.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sda.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sdb.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sdc.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sdd.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sde.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "dev-sdf.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS0",
+    "fragment_path": "",
+    "id": "dev-ttyS0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS1",
+    "fragment_path": "",
+    "id": "dev-ttyS1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS2",
+    "fragment_path": "",
+    "id": "dev-ttyS2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS3",
+    "fragment_path": "",
+    "id": "dev-ttyS3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS4",
+    "fragment_path": "",
+    "id": "dev-ttyS4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS5",
+    "fragment_path": "",
+    "id": "dev-ttyS5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS6",
+    "fragment_path": "",
+    "id": "dev-ttyS6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/ttyS7",
+    "fragment_path": "",
+    "id": "dev-ttyS7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/virtio-ports/hvc0",
+    "fragment_path": "",
+    "id": "dev-virtio\\x2dports-hvc0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/virtio-ports/hvc1",
+    "fragment_path": "",
+    "id": "dev-virtio\\x2dports-hvc1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/virtio-ports/hvc2",
+    "fragment_path": "",
+    "id": "dev-virtio\\x2dports-hvc2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/vport0p0",
+    "fragment_path": "",
+    "id": "dev-vport0p0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/vport0p1",
+    "fragment_path": "",
+    "id": "dev-vport0p1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/dev/vport0p2",
+    "fragment_path": "",
+    "id": "dev-vport0p2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "display-manager.service",
+    "fragment_path": "",
+    "id": "display-manager.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Save initial kernel messages after boot",
+    "fragment_path": "/usr/lib/systemd/system/dmesg.service",
+    "id": "dmesg.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Daily dpkg database backup service",
+    "fragment_path": "/usr/lib/systemd/system/dpkg-db-backup.service",
+    "id": "dpkg-db-backup.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily dpkg database backup timer",
+    "fragment_path": "/usr/lib/systemd/system/dpkg-db-backup.timer",
+    "id": "dpkg-db-backup.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Online ext4 Metadata Check for All Filesystems",
+    "fragment_path": "/usr/lib/systemd/system/e2scrub_all.service",
+    "id": "e2scrub_all.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Periodic ext4 Online Metadata Check for All Filesystems",
+    "fragment_path": "/usr/lib/systemd/system/e2scrub_all.timer",
+    "id": "e2scrub_all.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Remove Stale Online ext4 Metadata Check Snapshots",
+    "fragment_path": "/usr/lib/systemd/system/e2scrub_reap.service",
+    "id": "e2scrub_reap.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Emergency Shell",
+    "fragment_path": "/usr/lib/systemd/system/emergency.service",
+    "id": "emergency.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Emergency Mode",
+    "fragment_path": "/usr/lib/systemd/system/emergency.target",
+    "id": "emergency.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Late Shutdown Services",
+    "fragment_path": "/usr/lib/systemd/system/final.target",
+    "id": "final.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "First Boot Complete",
+    "fragment_path": "/usr/lib/systemd/system/first-boot-complete.target",
+    "id": "first-boot-complete.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Discard unused blocks on filesystems from /etc/fstab",
+    "fragment_path": "/usr/lib/systemd/system/fstrim.service",
+    "id": "fstrim.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Discard unused filesystem blocks once a week",
+    "fragment_path": "/usr/lib/systemd/system/fstrim.timer",
+    "id": "fstrim.timer",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Preparation for Logins",
+    "fragment_path": "/usr/lib/systemd/system/getty-pre.target",
+    "id": "getty-pre.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "getty on tty2-tty6 if dbus and logind are not available",
+    "fragment_path": "/usr/lib/systemd/system/getty-static.service",
+    "id": "getty-static.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Login Prompts",
+    "fragment_path": "/usr/lib/systemd/system/getty.target",
+    "id": "getty.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Getty on tty1",
+    "fragment_path": "/usr/lib/systemd/system/getty@.service",
+    "id": "getty@tty1.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Graphical Interface",
+    "fragment_path": "/usr/lib/systemd/system/graphical.target",
+    "id": "graphical.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "home.mount",
+    "fragment_path": "",
+    "id": "home.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/init",
+    "fragment_path": "",
+    "id": "init.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "System and Service Manager",
+    "fragment_path": "",
+    "id": "init.scope",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Cleaning Up and Shutting Down Daemons",
+    "fragment_path": "/usr/lib/systemd/system/initrd-cleanup.service",
+    "id": "initrd-cleanup.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Initrd File Systems",
+    "fragment_path": "/usr/lib/systemd/system/initrd-fs.target",
+    "id": "initrd-fs.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Mountpoints Configured in the Real Root",
+    "fragment_path": "/usr/lib/systemd/system/initrd-parse-etc.service",
+    "id": "initrd-parse-etc.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Initrd Root Device",
+    "fragment_path": "/usr/lib/systemd/system/initrd-root-device.target",
+    "id": "initrd-root-device.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Initrd Root File System",
+    "fragment_path": "/usr/lib/systemd/system/initrd-root-fs.target",
+    "id": "initrd-root-fs.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Switch Root",
+    "fragment_path": "/usr/lib/systemd/system/initrd-switch-root.service",
+    "id": "initrd-switch-root.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Switch Root",
+    "fragment_path": "/usr/lib/systemd/system/initrd-switch-root.target",
+    "id": "initrd-switch-root.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Cleanup udev Database",
+    "fragment_path": "/usr/lib/systemd/system/initrd-udevadm-cleanup-db.service",
+    "id": "initrd-udevadm-cleanup-db.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Initrd /usr File System",
+    "fragment_path": "/usr/lib/systemd/system/initrd-usr-fs.target",
+    "id": "initrd-usr-fs.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Initrd Default Target",
+    "fragment_path": "/usr/lib/systemd/system/initrd.target",
+    "id": "initrd.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Local Integrity Protected Volumes",
+    "fragment_path": "/usr/lib/systemd/system/integritysetup.target",
+    "id": "integritysetup.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "kbd.service",
+    "fragment_path": "",
+    "id": "kbd.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Set the console keyboard layout",
+    "fragment_path": "/usr/lib/systemd/system/keyboard-setup.service",
+    "id": "keyboard-setup.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Create List of Static Device Nodes",
+    "fragment_path": "/usr/lib/systemd/system/kmod-static-nodes.service",
+    "id": "kmod-static-nodes.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Landscape client daemons",
+    "fragment_path": "/usr/lib/systemd/system/landscape-client.service",
+    "id": "landscape-client.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rebuild Dynamic Linker Cache",
+    "fragment_path": "/usr/lib/systemd/system/ldconfig.service",
+    "id": "ldconfig.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Preparation for Local File Systems",
+    "fragment_path": "/usr/lib/systemd/system/local-fs-pre.target",
+    "id": "local-fs-pre.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Local File Systems",
+    "fragment_path": "/usr/lib/systemd/system/local-fs.target",
+    "id": "local-fs.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rotate log files",
+    "fragment_path": "/usr/lib/systemd/system/logrotate.service",
+    "id": "logrotate.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily rotation of log files",
+    "fragment_path": "/usr/lib/systemd/system/logrotate.timer",
+    "id": "logrotate.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Daily man-db regeneration",
+    "fragment_path": "/usr/lib/systemd/system/man-db.service",
+    "id": "man-db.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily man-db regeneration",
+    "fragment_path": "/usr/lib/systemd/system/man-db.timer",
+    "id": "man-db.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/c",
+    "fragment_path": "",
+    "id": "mnt-c.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop/cli-tools",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop-cli\\x2dtools.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop/docker-desktop-user-distro",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop-docker\\x2ddesktop\\x2duser\\x2ddistro.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop/shared-sockets/guest-services",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop-shared\\x2dsockets-guest\\x2dservices.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop/shared-sockets/host-services",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop-shared\\x2dsockets-host\\x2dservices.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/03d89dfd9a94ee342aaa27e2f803e74e52229e6dfe0e62e52fe6303cdfd891d0",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-03d89dfd9a94ee342aaa27e2f803e74e52229e6dfe0e62e52fe6303cdfd891d0.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/0a85a370a7a8414bf6ea49a18f6a07b77c97fde7242f933fbbfd5791fe3a57ee",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-0a85a370a7a8414bf6ea49a18f6a07b77c97fde7242f933fbbfd5791fe3a57ee.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/174a39ed5066f908a66f174d058e0ea3342d8b5684cc2fd56db173bd20f2d043",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-174a39ed5066f908a66f174d058e0ea3342d8b5684cc2fd56db173bd20f2d043.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/23d1af12413e46981a64e03cd2ba44f930113481e4efc874ea66d4ab1564b044",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-23d1af12413e46981a64e03cd2ba44f930113481e4efc874ea66d4ab1564b044.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/573098dcc0bcc218e70c39e6bdabe98a6e4dd059f84e8df702ea0332ad03d51e",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-573098dcc0bcc218e70c39e6bdabe98a6e4dd059f84e8df702ea0332ad03d51e.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/7ebd489354dd65e7352e8244c66f460c84e15efa8637c34b6ef6efeaa331ad36",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-7ebd489354dd65e7352e8244c66f460c84e15efa8637c34b6ef6efeaa331ad36.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/92a40b28ad938a90eed328f070b1fff71586155281c2a6d434ff0abf1532eca9",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-92a40b28ad938a90eed328f070b1fff71586155281c2a6d434ff0abf1532eca9.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl/docker-desktop-bind-mounts/Ubuntu/docker.sock",
+    "fragment_path": "",
+    "id": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-docker.sock.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wsl",
+    "fragment_path": "",
+    "id": "mnt-wsl.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg/distro",
+    "fragment_path": "",
+    "id": "mnt-wslg-distro.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg/doc",
+    "fragment_path": "",
+    "id": "mnt-wslg-doc.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg/run/user/0",
+    "fragment_path": "",
+    "id": "mnt-wslg-run-user-0.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg/run/user/1000",
+    "fragment_path": "",
+    "id": "mnt-wslg-run-user-1000.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg/versions.txt",
+    "fragment_path": "",
+    "id": "mnt-wslg-versions.txt.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/mnt/wslg",
+    "fragment_path": "",
+    "id": "mnt-wslg.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module configfs",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@configfs.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module dm_mod",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@dm_mod.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module drm",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@drm.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module efi_pstore",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@efi_pstore.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module fuse",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@fuse.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load Kernel Module loop",
+    "fragment_path": "/usr/lib/systemd/system/modprobe@.service",
+    "id": "modprobe@loop.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Message of the Day",
+    "fragment_path": "/usr/lib/systemd/system/motd-news.service",
+    "id": "motd-news.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Message of the Day",
+    "fragment_path": "/usr/lib/systemd/system/motd-news.timer",
+    "id": "motd-news.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Multi-User System",
+    "fragment_path": "/usr/lib/systemd/system/multi-user.target",
+    "id": "multi-user.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "OpenVSwitch configuration for cleanup",
+    "fragment_path": "/run/systemd/system/netplan-ovs-cleanup.service",
+    "id": "netplan-ovs-cleanup.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled-runtime"
+  },
+  {
+    "active_state": "active",
+    "description": "Network is Online",
+    "fragment_path": "/usr/lib/systemd/system/network-online.target",
+    "id": "network-online.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Preparation for Network",
+    "fragment_path": "/usr/lib/systemd/system/network-pre.target",
+    "id": "network-pre.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Network",
+    "fragment_path": "/usr/lib/systemd/system/network.target",
+    "id": "network.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Dispatcher daemon for systemd-networkd",
+    "fragment_path": "/usr/lib/systemd/system/networkd-dispatcher.service",
+    "id": "networkd-dispatcher.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Host and Network Name Lookups",
+    "fragment_path": "/usr/lib/systemd/system/nss-lookup.target",
+    "id": "nss-lookup.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "User and Group Name Lookups",
+    "fragment_path": "/usr/lib/systemd/system/nss-user-lookup.target",
+    "id": "nss-user-lookup.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "ovsdb-server.service",
+    "fragment_path": "",
+    "id": "ovsdb-server.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Path Units",
+    "fragment_path": "/usr/lib/systemd/system/paths.target",
+    "id": "paths.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "plymouth-quit-wait.service",
+    "fragment_path": "",
+    "id": "plymouth-quit-wait.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "plymouth-start.service",
+    "fragment_path": "",
+    "id": "plymouth-start.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Authorization Manager",
+    "fragment_path": "/usr/lib/systemd/system/polkit.service",
+    "id": "polkit.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Arbitrary Executable File Formats File System Automount Point",
+    "fragment_path": "/usr/lib/systemd/system/proc-sys-fs-binfmt_misc.automount",
+    "id": "proc-sys-fs-binfmt_misc.automount",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Arbitrary Executable File Formats File System",
+    "fragment_path": "/usr/lib/systemd/system/proc-sys-fs-binfmt_misc.mount",
+    "id": "proc-sys-fs-binfmt_misc.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "/etc/rc.local Compatibility",
+    "fragment_path": "/usr/lib/systemd/system/rc-local.service",
+    "id": "rc-local.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Remote Encrypted Volumes",
+    "fragment_path": "/usr/lib/systemd/system/remote-cryptsetup.target",
+    "id": "remote-cryptsetup.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Preparation for Remote File Systems",
+    "fragment_path": "/usr/lib/systemd/system/remote-fs-pre.target",
+    "id": "remote-fs-pre.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Remote File Systems",
+    "fragment_path": "/usr/lib/systemd/system/remote-fs.target",
+    "id": "remote-fs.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Remote Verity Protected Volumes",
+    "fragment_path": "/usr/lib/systemd/system/remote-veritysetup.target",
+    "id": "remote-veritysetup.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rescue Shell",
+    "fragment_path": "/usr/lib/systemd/system/rescue.service",
+    "id": "rescue.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rescue Mode",
+    "fragment_path": "/usr/lib/systemd/system/rescue.target",
+    "id": "rescue.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "System Logging Service",
+    "fragment_path": "/usr/lib/systemd/system/rsyslog.service",
+    "id": "rsyslog.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dresolved.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dresolved.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dsysctl.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dsysctl.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dsysusers.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dsysusers.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dtmpfiles\\x2dclean.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dtmpfiles\\x2dclean.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev\\x2dearly.service.mount",
+    "fragment_path": "",
+    "id": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev\\x2dearly.service.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/shm",
+    "fragment_path": "",
+    "id": "run-shm.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/snapd/ns/docker.mnt",
+    "fragment_path": "",
+    "id": "run-snapd-ns-docker.mnt.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/snapd/ns",
+    "fragment_path": "",
+    "id": "run-snapd-ns.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/user/0",
+    "fragment_path": "",
+    "id": "run-user-0.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/user/1000",
+    "fragment_path": "",
+    "id": "run-user-1000.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/run/user",
+    "fragment_path": "",
+    "id": "run-user.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Session 5 of User joshf",
+    "fragment_path": "/run/systemd/transient/session-5.scope",
+    "id": "session-5.scope",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "transient"
+  },
+  {
+    "active_state": "active",
+    "description": "Session 6 of User root",
+    "fragment_path": "/run/systemd/transient/session-6.scope",
+    "id": "session-6.scope",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "transient"
+  },
+  {
+    "active_state": "active",
+    "description": "Set console scheme",
+    "fragment_path": "/usr/lib/systemd/system/setvtrgb.service",
+    "id": "setvtrgb.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "System Shutdown",
+    "fragment_path": "/usr/lib/systemd/system/shutdown.target",
+    "id": "shutdown.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Slice Units",
+    "fragment_path": "/usr/lib/systemd/system/slices.target",
+    "id": "slices.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for aws-cli, revision 2188",
+    "fragment_path": "/etc/systemd/system/snap-aws\\x2dcli-2188.mount",
+    "id": "snap-aws\\x2dcli-2188.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for aws-cli, revision 2193",
+    "fragment_path": "/etc/systemd/system/snap-aws\\x2dcli-2193.mount",
+    "id": "snap-aws\\x2dcli-2193.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for core22, revision 2339",
+    "fragment_path": "/etc/systemd/system/snap-core22-2339.mount",
+    "id": "snap-core22-2339.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for core22, revision 2411",
+    "fragment_path": "/etc/systemd/system/snap-core22-2411.mount",
+    "id": "snap-core22-2411.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for core24, revision 1587",
+    "fragment_path": "/etc/systemd/system/snap-core24-1587.mount",
+    "id": "snap-core24-1587.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for core24, revision 1643",
+    "fragment_path": "/etc/systemd/system/snap-core24-1643.mount",
+    "id": "snap-core24-1643.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for docker, revision 3377",
+    "fragment_path": "/etc/systemd/system/snap-docker-3377.mount",
+    "id": "snap-docker-3377.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for docker, revision 3505",
+    "fragment_path": "/etc/systemd/system/snap-docker-3505.mount",
+    "id": "snap-docker-3505.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for doctl, revision 2406",
+    "fragment_path": "/etc/systemd/system/snap-doctl-2406.mount",
+    "id": "snap-doctl-2406.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for doctl, revision 2419",
+    "fragment_path": "/etc/systemd/system/snap-doctl-2419.mount",
+    "id": "snap-doctl-2419.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for snapd, revision 26382",
+    "fragment_path": "/etc/systemd/system/snap-snapd-26382.mount",
+    "id": "snap-snapd-26382.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for snapd, revision 26865",
+    "fragment_path": "/etc/systemd/system/snap-snapd-26865.mount",
+    "id": "snap-snapd-26865.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for yt-dlp, revision 1278",
+    "fragment_path": "/etc/systemd/system/snap-yt\\x2ddlp-1278.mount",
+    "id": "snap-yt\\x2ddlp-1278.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Mount unit for yt-dlp, revision 1286",
+    "fragment_path": "/etc/systemd/system/snap-yt\\x2ddlp-1286.mount",
+    "id": "snap-yt\\x2ddlp-1286.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Service for snap application docker.dockerd",
+    "fragment_path": "/etc/systemd/system/snap.docker.dockerd.service",
+    "id": "snap.docker.dockerd.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Ensure that the snap directory shares mount events.",
+    "fragment_path": "/run/systemd/generator/snap.mount",
+    "id": "snap.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "generated"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load AppArmor profiles managed internally by snapd",
+    "fragment_path": "/usr/lib/systemd/system/snapd.apparmor.service",
+    "id": "snapd.apparmor.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Auto import assertions from block devices",
+    "fragment_path": "/usr/lib/systemd/system/snapd.autoimport.service",
+    "id": "snapd.autoimport.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Automatically repair incorrect owner/permissions on core devices",
+    "fragment_path": "/usr/lib/systemd/system/snapd.core-fixup.service",
+    "id": "snapd.core-fixup.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Failure handling of the snapd snap",
+    "fragment_path": "/usr/lib/systemd/system/snapd.failure.service",
+    "id": "snapd.failure.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Mounting snaps",
+    "fragment_path": "/usr/lib/systemd/system/snapd.mounts-pre.target",
+    "id": "snapd.mounts-pre.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Mounted snaps",
+    "fragment_path": "/usr/lib/systemd/system/snapd.mounts.target",
+    "id": "snapd.mounts.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Wait for the Ubuntu Core chooser trigger",
+    "fragment_path": "/usr/lib/systemd/system/snapd.recovery-chooser-trigger.service",
+    "id": "snapd.recovery-chooser-trigger.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Wait until snapd is fully seeded",
+    "fragment_path": "/usr/lib/systemd/system/snapd.seeded.service",
+    "id": "snapd.seeded.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Snap Daemon",
+    "fragment_path": "/usr/lib/systemd/system/snapd.service",
+    "id": "snapd.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Automatically fetch and run repair assertions",
+    "fragment_path": "/usr/lib/systemd/system/snapd.snap-repair.service",
+    "id": "snapd.snap-repair.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Timer to automatically fetch and run repair assertions",
+    "fragment_path": "/usr/lib/systemd/system/snapd.snap-repair.timer",
+    "id": "snapd.snap-repair.timer",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Socket activation for snappy daemon",
+    "fragment_path": "/usr/lib/systemd/system/snapd.socket",
+    "id": "snapd.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Ubuntu core (all-snaps) system shutdown helper setup service",
+    "fragment_path": "/usr/lib/systemd/system/snapd.system-shutdown.service",
+    "id": "snapd.system-shutdown.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Socket Units",
+    "fragment_path": "/usr/lib/systemd/system/sockets.target",
+    "id": "sockets.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Reboot System Userspace",
+    "fragment_path": "/usr/lib/systemd/system/soft-reboot.target",
+    "id": "soft-reboot.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Swaps",
+    "fragment_path": "/usr/lib/systemd/system/swap.target",
+    "id": "swap.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/522dabb7-87e4-4f14-8b22-140d84313c51/net/eth0",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-522dabb7\\x2d87e4\\x2d4f14\\x2d8b22\\x2d140d84313c51-net-eth0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/c4b741f5-5582-4c98-8f8b-2e082933c396/pci5582:00/5582:00:00.0/virtio0/virtio-ports/vport0p0",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/c4b741f5-5582-4c98-8f8b-2e082933c396/pci5582:00/5582:00:00.0/virtio0/virtio-ports/vport0p1",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/c4b741f5-5582-4c98-8f8b-2e082933c396/pci5582:00/5582:00:00.0/virtio0/virtio-ports/vport0p2",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:0-block-sda.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:1-block-sdb.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:2-block-sdc.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:3-block-sdd.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:4-block-sde.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Virtual_Disk",
+    "fragment_path": "",
+    "id": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:5-block-sdf.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS0",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS1",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS2",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS3",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS4",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS5",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS6",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/platform/serial8250/tty/ttyS7",
+    "fragment_path": "",
+    "id": "sys-devices-platform-serial8250-tty-ttyS7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/loop0",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-loop0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/loop1",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-loop1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram0",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram1",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram10",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram10.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram11",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram11.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram12",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram12.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram13",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram13.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram14",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram14.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram15",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram15.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram2",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram3",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram4",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram5",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram6",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram7",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram8",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram8.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/block/ram9",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-block-ram9.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/net/br-9e8957df8204",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-net-br\\x2d9e8957df8204.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/net/docker0",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-net-docker0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/ptp/ptp0",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-ptp-ptp0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc0",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc1",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc1.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc2",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc2.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc3",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc3.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc4",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc4.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc5",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc5.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc6",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc6.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/devices/virtual/tty/hvc7",
+    "fragment_path": "",
+    "id": "sys-devices-virtual-tty-hvc7.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "FUSE Control File System",
+    "fragment_path": "/usr/lib/systemd/system/sys-fs-fuse-connections.mount",
+    "id": "sys-fs-fuse-connections.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Kernel Configuration File System",
+    "fragment_path": "/usr/lib/systemd/system/sys-kernel-config.mount",
+    "id": "sys-kernel-config.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Kernel Debug File System",
+    "fragment_path": "/usr/lib/systemd/system/sys-kernel-debug.mount",
+    "id": "sys-kernel-debug.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Kernel Trace File System",
+    "fragment_path": "/usr/lib/systemd/system/sys-kernel-tracing.mount",
+    "id": "sys-kernel-tracing.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/module/configfs",
+    "fragment_path": "",
+    "id": "sys-module-configfs.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/module/fuse",
+    "fragment_path": "",
+    "id": "sys-module-fuse.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/subsystem/net/devices/br-9e8957df8204",
+    "fragment_path": "",
+    "id": "sys-subsystem-net-devices-br\\x2d9e8957df8204.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/subsystem/net/devices/docker0",
+    "fragment_path": "",
+    "id": "sys-subsystem-net-devices-docker0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/sys/subsystem/net/devices/eth0",
+    "fragment_path": "",
+    "id": "sys-subsystem-net-devices-eth0.device",
+    "load_state": "loaded",
+    "sub_state": "plugged",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "System Initialization",
+    "fragment_path": "/usr/lib/systemd/system/sysinit.target",
+    "id": "sysinit.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Syslog Socket",
+    "fragment_path": "/usr/lib/systemd/system/syslog.socket",
+    "id": "syslog.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Slice /system/getty",
+    "fragment_path": "",
+    "id": "system-getty.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Slice /system/modprobe",
+    "fragment_path": "",
+    "id": "system-modprobe.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "System Slice",
+    "fragment_path": "",
+    "id": "system.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Dispatch Password Requests to Console Directory Watch",
+    "fragment_path": "/usr/lib/systemd/system/systemd-ask-password-console.path",
+    "id": "systemd-ask-password-console.path",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Dispatch Password Requests to Console",
+    "fragment_path": "/usr/lib/systemd/system/systemd-ask-password-console.service",
+    "id": "systemd-ask-password-console.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Forward Password Requests to Wall Directory Watch",
+    "fragment_path": "/usr/lib/systemd/system/systemd-ask-password-wall.path",
+    "id": "systemd-ask-password-wall.path",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Forward Password Requests to Wall",
+    "fragment_path": "/usr/lib/systemd/system/systemd-ask-password-wall.service",
+    "id": "systemd-ask-password-wall.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Check battery level during early boot",
+    "fragment_path": "/usr/lib/systemd/system/systemd-battery-check.service",
+    "id": "systemd-battery-check.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Set Up Additional Binary Formats",
+    "fragment_path": "/usr/lib/systemd/system/systemd-binfmt.service",
+    "id": "systemd-binfmt.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Displays emergency message in full screen.",
+    "fragment_path": "/usr/lib/systemd/system/systemd-bsod.service",
+    "id": "systemd-bsod.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "First Boot Wizard",
+    "fragment_path": "/usr/lib/systemd/system/systemd-firstboot.service",
+    "id": "systemd-firstboot.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "File System Check on Root Device",
+    "fragment_path": "/usr/lib/systemd/system/systemd-fsck-root.service",
+    "id": "systemd-fsck-root.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "File System Check Daemon to report status",
+    "fragment_path": "/usr/lib/systemd/system/systemd-fsckd.service",
+    "id": "systemd-fsckd.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "fsck to fsckd communication Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-fsckd.socket",
+    "id": "systemd-fsckd.socket",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Resume from hibernation",
+    "fragment_path": "/usr/lib/systemd/system/systemd-hibernate-resume.service",
+    "id": "systemd-hibernate-resume.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rebuild Hardware Database",
+    "fragment_path": "/usr/lib/systemd/system/systemd-hwdb-update.service",
+    "id": "systemd-hwdb-update.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "initctl Compatibility Daemon",
+    "fragment_path": "/usr/lib/systemd/system/systemd-initctl.service",
+    "id": "systemd-initctl.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "initctl Compatibility Named Pipe",
+    "fragment_path": "/usr/lib/systemd/system/systemd-initctl.socket",
+    "id": "systemd-initctl.socket",
+    "load_state": "loaded",
+    "sub_state": "listening",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Rebuild Journal Catalog",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journal-catalog-update.service",
+    "id": "systemd-journal-catalog-update.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Flush Journal to Persistent Storage",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journal-flush.service",
+    "id": "systemd-journal-flush.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Journal Audit Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journald-audit.socket",
+    "id": "systemd-journald-audit.socket",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "active",
+    "description": "Journal Socket (/dev/log)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journald-dev-log.socket",
+    "id": "systemd-journald-dev-log.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Journal Service",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journald.service",
+    "id": "systemd-journald.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Journal Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-journald.socket",
+    "id": "systemd-journald.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "User Login Management",
+    "fragment_path": "/usr/lib/systemd/system/systemd-logind.service",
+    "id": "systemd-logind.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Commit a transient machine-id on disk",
+    "fragment_path": "/usr/lib/systemd/system/systemd-machine-id-commit.service",
+    "id": "systemd-machine-id-commit.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Load Kernel Modules",
+    "fragment_path": "/usr/lib/systemd/system/systemd-modules-load.service",
+    "id": "systemd-modules-load.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Network Configuration",
+    "fragment_path": "/usr/lib/systemd/system/systemd-networkd.service",
+    "id": "systemd-networkd.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Network Service Netlink Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-networkd.socket",
+    "id": "systemd-networkd.socket",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "systemd-oomd.service",
+    "fragment_path": "",
+    "id": "systemd-oomd.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 PCR Extension (Varlink)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pcrextend.socket",
+    "id": "systemd-pcrextend.socket",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 PCR Machine ID Measurement",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pcrmachine.service",
+    "id": "systemd-pcrmachine.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 PCR Barrier (initrd)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pcrphase-initrd.service",
+    "id": "systemd-pcrphase-initrd.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 PCR Barrier (Initialization)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pcrphase-sysinit.service",
+    "id": "systemd-pcrphase-sysinit.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 PCR Barrier (User)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pcrphase.service",
+    "id": "systemd-pcrphase.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Platform Persistent Storage Archival",
+    "fragment_path": "/usr/lib/systemd/system/systemd-pstore.service",
+    "id": "systemd-pstore.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Load/Save OS Random Seed",
+    "fragment_path": "/usr/lib/systemd/system/systemd-random-seed.service",
+    "id": "systemd-random-seed.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Remount Root and Kernel File Systems",
+    "fragment_path": "/usr/lib/systemd/system/systemd-remount-fs.service",
+    "id": "systemd-remount-fs.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "enabled-runtime"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Repartition Root Disk",
+    "fragment_path": "/usr/lib/systemd/system/systemd-repart.service",
+    "id": "systemd-repart.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Network Name Resolution",
+    "fragment_path": "/usr/lib/systemd/system/systemd-resolved.service",
+    "id": "systemd-resolved.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Reboot System Userspace",
+    "fragment_path": "/usr/lib/systemd/system/systemd-soft-reboot.service",
+    "id": "systemd-soft-reboot.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Apply Kernel Variables",
+    "fragment_path": "/usr/lib/systemd/system/systemd-sysctl.service",
+    "id": "systemd-sysctl.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Merge System Extension Images into /usr/ and /opt/",
+    "fragment_path": "/usr/lib/systemd/system/systemd-sysext.service",
+    "id": "systemd-sysext.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "active",
+    "description": "System Extension Image Management (Varlink)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-sysext.socket",
+    "id": "systemd-sysext.socket",
+    "load_state": "loaded",
+    "sub_state": "listening",
+    "unit_file_state": "disabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Create System Users",
+    "fragment_path": "/usr/lib/systemd/system/systemd-sysusers.service",
+    "id": "systemd-sysusers.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Network Time Synchronization",
+    "fragment_path": "/usr/lib/systemd/system/systemd-timesyncd.service",
+    "id": "systemd-timesyncd.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Cleanup of Temporary Directories",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tmpfiles-clean.service",
+    "id": "systemd-tmpfiles-clean.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Daily Cleanup of Temporary Directories",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tmpfiles-clean.timer",
+    "id": "systemd-tmpfiles-clean.timer",
+    "load_state": "loaded",
+    "sub_state": "waiting",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Create Static Device Nodes in /dev gracefully",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tmpfiles-setup-dev-early.service",
+    "id": "systemd-tmpfiles-setup-dev-early.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Create Static Device Nodes in /dev",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tmpfiles-setup-dev.service",
+    "id": "systemd-tmpfiles-setup-dev.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Create Volatile Files and Directories",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tmpfiles-setup.service",
+    "id": "systemd-tmpfiles-setup.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 SRK Setup (Early)",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tpm2-setup-early.service",
+    "id": "systemd-tpm2-setup-early.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "TPM2 SRK Setup",
+    "fragment_path": "/usr/lib/systemd/system/systemd-tpm2-setup.service",
+    "id": "systemd-tpm2-setup.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Wait for udev To Complete Device Initialization",
+    "fragment_path": "/usr/lib/systemd/system/systemd-udev-settle.service",
+    "id": "systemd-udev-settle.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Coldplug All udev Devices",
+    "fragment_path": "/usr/lib/systemd/system/systemd-udev-trigger.service",
+    "id": "systemd-udev-trigger.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "udev Control Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-udevd-control.socket",
+    "id": "systemd-udevd-control.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "udev Kernel Socket",
+    "fragment_path": "/usr/lib/systemd/system/systemd-udevd-kernel.socket",
+    "id": "systemd-udevd-kernel.socket",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Rule-based Manager for Device Events and Files",
+    "fragment_path": "/usr/lib/systemd/system/systemd-udevd.service",
+    "id": "systemd-udevd.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Update is Completed",
+    "fragment_path": "/usr/lib/systemd/system/systemd-update-done.service",
+    "id": "systemd-update-done.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Record Runlevel Change in UTMP",
+    "fragment_path": "/usr/lib/systemd/system/systemd-update-utmp-runlevel.service",
+    "id": "systemd-update-utmp-runlevel.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Record System Boot/Shutdown in UTMP",
+    "fragment_path": "/usr/lib/systemd/system/systemd-update-utmp.service",
+    "id": "systemd-update-utmp.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Permit User Sessions",
+    "fragment_path": "/usr/lib/systemd/system/systemd-user-sessions.service",
+    "id": "systemd-user-sessions.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "systemd-vconsole-setup.service",
+    "fragment_path": "",
+    "id": "systemd-vconsole-setup.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "System Time Set",
+    "fragment_path": "/usr/lib/systemd/system/time-set.target",
+    "id": "time-set.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "System Time Synchronized",
+    "fragment_path": "/usr/lib/systemd/system/time-sync.target",
+    "id": "time-sync.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Timer Units",
+    "fragment_path": "/usr/lib/systemd/system/timers.target",
+    "id": "timers.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/tmp/.X11-unix",
+    "fragment_path": "",
+    "id": "tmp-.X11\\x2dunix.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "tmp.mount",
+    "fragment_path": "",
+    "id": "tmp.mount",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "ua-auto-attach.service",
+    "fragment_path": "",
+    "id": "ua-auto-attach.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Ubuntu Pro reboot cmds",
+    "fragment_path": "/usr/lib/systemd/system/ua-reboot-cmds.service",
+    "id": "ua-reboot-cmds.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Ubuntu Pro Timer for running repeated jobs",
+    "fragment_path": "/usr/lib/systemd/system/ua-timer.service",
+    "id": "ua-timer.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Ubuntu Pro Timer for running repeated jobs",
+    "fragment_path": "/usr/lib/systemd/system/ua-timer.timer",
+    "id": "ua-timer.timer",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "ubuntu-advantage-cloud-id-shim.service",
+    "fragment_path": "",
+    "id": "ubuntu-advantage-cloud-id-shim.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Ubuntu Pro Background Auto Attach",
+    "fragment_path": "/usr/lib/systemd/system/ubuntu-advantage.service",
+    "id": "ubuntu-advantage.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Unmount All Filesystems",
+    "fragment_path": "/usr/lib/systemd/system/umount.target",
+    "id": "umount.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Unattended Upgrades Shutdown",
+    "fragment_path": "/usr/lib/systemd/system/unattended-upgrades.service",
+    "id": "unattended-upgrades.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "active",
+    "description": "User Slice of UID 0",
+    "fragment_path": "",
+    "id": "user-0.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "User Slice of UID 1000",
+    "fragment_path": "",
+    "id": "user-1000.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "User Runtime Directory /run/user/0",
+    "fragment_path": "/usr/lib/systemd/system/user-runtime-dir@.service",
+    "id": "user-runtime-dir@0.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "User Runtime Directory /run/user/1000",
+    "fragment_path": "/usr/lib/systemd/system/user-runtime-dir@.service",
+    "id": "user-runtime-dir@1000.service",
+    "load_state": "loaded",
+    "sub_state": "exited",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "User and Session Slice",
+    "fragment_path": "/usr/lib/systemd/system/user.slice",
+    "id": "user.slice",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "User Manager for UID 0",
+    "fragment_path": "/usr/lib/systemd/system/user@.service",
+    "id": "user@0.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "User Manager for UID 1000",
+    "fragment_path": "/usr/lib/systemd/system/user@.service",
+    "id": "user@1000.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "/usr/lib/modules/6.6.87.2-microsoft-standard-WSL2",
+    "fragment_path": "",
+    "id": "usr-lib-modules-6.6.87.2\\x2dmicrosoft\\x2dstandard\\x2dWSL2.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/usr/lib/wsl/drivers",
+    "fragment_path": "",
+    "id": "usr-lib-wsl-drivers.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "/usr/lib/wsl/lib",
+    "fragment_path": "",
+    "id": "usr-lib-wsl-lib.mount",
+    "load_state": "loaded",
+    "sub_state": "mounted",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "inactive",
+    "description": "Daemon for generating UUIDs",
+    "fragment_path": "/usr/lib/systemd/system/uuidd.service",
+    "id": "uuidd.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "indirect"
+  },
+  {
+    "active_state": "active",
+    "description": "UUID daemon activation socket",
+    "fragment_path": "/usr/lib/systemd/system/uuidd.socket",
+    "id": "uuidd.socket",
+    "load_state": "loaded",
+    "sub_state": "listening",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "Local Verity Protected Volumes (Pre)",
+    "fragment_path": "/usr/lib/systemd/system/veritysetup-pre.target",
+    "id": "veritysetup-pre.target",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "active",
+    "description": "Local Verity Protected Volumes",
+    "fragment_path": "/usr/lib/systemd/system/veritysetup.target",
+    "id": "veritysetup.target",
+    "load_state": "loaded",
+    "sub_state": "active",
+    "unit_file_state": "static"
+  },
+  {
+    "active_state": "inactive",
+    "description": "whoopsie.path",
+    "fragment_path": "",
+    "id": "whoopsie.path",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  },
+  {
+    "active_state": "active",
+    "description": "Bridge to Ubuntu Pro agent on Windows",
+    "fragment_path": "/usr/lib/systemd/system/wsl-pro.service",
+    "id": "wsl-pro.service",
+    "load_state": "loaded",
+    "sub_state": "running",
+    "unit_file_state": "enabled"
+  },
+  {
+    "active_state": "inactive",
+    "description": "WSLg Remount Service",
+    "fragment_path": "/run/systemd/generator/wslg.service",
+    "id": "wslg.service",
+    "load_state": "loaded",
+    "sub_state": "dead",
+    "unit_file_state": "generated"
+  },
+  {
+    "active_state": "inactive",
+    "description": "zfs-mount.service",
+    "fragment_path": "",
+    "id": "zfs-mount.service",
+    "load_state": "not-found",
+    "sub_state": "dead",
+    "unit_file_state": ""
+  }
+]

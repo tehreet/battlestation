@@ -1,0 +1,12 @@
+[
+  {
+    "avg_disk_bytes_per_read": "0",
+    "avg_disk_bytes_per_write": "0",
+    "name": "0 C:"
+  },
+  {
+    "avg_disk_bytes_per_read": "0",
+    "avg_disk_bytes_per_write": "0",
+    "name": "_Total"
+  }
+]

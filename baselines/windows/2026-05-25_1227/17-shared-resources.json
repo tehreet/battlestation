@@ -1,0 +1,35 @@
+[
+  {
+    "allow_maximum": "1",
+    "description": "Remote Admin",
+    "install_date": "",
+    "maximum_allowed": "-1",
+    "name": "ADMIN$",
+    "path": "C:\\WINDOWS",
+    "status": "OK",
+    "type": "2147483648",
+    "type_name": "Disk Drive Admin"
+  },
+  {
+    "allow_maximum": "1",
+    "description": "Default share",
+    "install_date": "",
+    "maximum_allowed": "-1",
+    "name": "C$",
+    "path": "C:\\",
+    "status": "OK",
+    "type": "2147483648",
+    "type_name": "Disk Drive Admin"
+  },
+  {
+    "allow_maximum": "1",
+    "description": "Remote IPC",
+    "install_date": "",
+    "maximum_allowed": "-1",
+    "name": "IPC$",
+    "path": "",
+    "status": "OK",
+    "type": "2147483651",
+    "type_name": "IPC Admin"
+  }
+]

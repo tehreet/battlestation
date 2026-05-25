@@ -1,0 +1,3350 @@
+[
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\System32\\",
+    "install_source": "",
+    "name": "",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Windows\\System32\\mstsc.exe\" /uninstall",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "",
+    "publisher": "",
+    "uninstall_string": "",
+    "version": "1.3.233.3"
+  },
+  {
+    "identifying_number": "{790e2c0f-2e20-4d66-8938-0a738d811b43}",
+    "install_location": "",
+    "install_source": "",
+    "name": "",
+    "publisher": "",
+    "uninstall_string": "",
+    "version": ""
+  },
+  {
+    "identifying_number": "{a5732996-7f31-4e6c-a2f2-2202dbff6175}",
+    "install_location": "",
+    "install_source": "",
+    "name": "",
+    "publisher": "",
+    "uninstall_string": "",
+    "version": ""
+  },
+  {
+    "identifying_number": "{a59be461-b746-4a60-8941-c6ced7de7f9a}",
+    "install_location": "",
+    "install_source": "",
+    "name": "",
+    "publisher": "",
+    "uninstall_string": "",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.FilePicker_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "1527c705-839a-4832-9118-54d4Bd6a0c89",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.19640.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\DC5C6510.2032887045529_8.12.21.0_x64__2v019pwa6amcg",
+    "install_source": "",
+    "name": "1Password",
+    "publisher": "AgileBits Inc.",
+    "uninstall_string": "",
+    "version": "8.12.21.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\AgileBits.1Password.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "1Password CLI",
+    "publisher": "AgileBits",
+    "uninstall_string": "winget uninstall --product-code AgileBits.1Password.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "2.32.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\FinalWire\\AIDA64 Extreme\\",
+    "install_source": "",
+    "name": "AIDA64 Extreme v7.50",
+    "publisher": "FinalWire Ltd.",
+    "uninstall_string": "\"C:\\Program Files (x86)\\FinalWire\\AIDA64 Extreme\\unins000.exe\"",
+    "version": "7.50"
+  },
+  {
+    "identifying_number": "{4537278A-8E70-4021-A866-38CE644D92F8}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\CACHEOPT\\",
+    "name": "AMD 3D V-Cache Performance Optimizer Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{4537278A-8E70-4021-A866-38CE644D92F8}",
+    "version": "1.0.0.11"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\AppData\\Roaming\\AMD\\Chipset_Software\\{E4061563-48CE-4EF3-8DC6-F6DAEDA774F9}\\",
+    "name": "AMD Chipset Software",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "\"C:\\Program Files (x86)\\AMD\\Chipset_Software\\QT_Dependencies\\Setup.exe\" /U {db516d70-ab2f-4561-8045-005a2186ef15}",
+    "version": "7.09.23.2230"
+  },
+  {
+    "identifying_number": "{E9DD399F-21A3-479E-A7DF-D6CF4B2ADBF3}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\GPIO2\\",
+    "name": "AMD GPIO2 Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{E9DD399F-21A3-479E-A7DF-D6CF4B2ADBF3}",
+    "version": "2.2.0.134"
+  },
+  {
+    "identifying_number": "{B31D92D9-2914-46B0-9738-F668A563DE73}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\I2C\\",
+    "name": "AMD I2C Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{B31D92D9-2914-46B0-9738-F668A563DE73}",
+    "version": "1.2.0.126"
+  },
+  {
+    "identifying_number": "{6118E908-9B3B-4258-B7C2-7DEEA5A65A85}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\INTERFACE\\",
+    "name": "AMD Interface Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{6118E908-9B3B-4258-B7C2-7DEEA5A65A85}",
+    "version": "2.0.0.23"
+  },
+  {
+    "identifying_number": "{3665A5DE-D07C-46D7-9207-713E8E9FEF32}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\PPMPF\\",
+    "name": "AMD PPM Provisioning File Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{3665A5DE-D07C-46D7-9207-713E8E9FEF32}",
+    "version": "8.0.0.56"
+  },
+  {
+    "identifying_number": "{988F14B8-79A8-475D-BAC7-83F96AD3D821}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\PSP\\",
+    "name": "AMD PSP Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{988F14B8-79A8-475D-BAC7-83F96AD3D821}",
+    "version": "5.40.0.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\AMD\\CIM\\BIN64",
+    "install_source": "",
+    "name": "AMD Software",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "\"C:\\Program Files\\AMD\\CIM\\BIN64\\AMDSoftwareInstaller.exe\" /EXPRESS_UNINSTALL /IGNORE_UPGRADE /ON_REBOOT_MESSAGE:NO",
+    "version": "25.10.36"
+  },
+  {
+    "identifying_number": "{db516d70-ab2f-4561-8045-005a2186ef15}",
+    "install_location": "C:\\Chipset_Software\\",
+    "install_source": "C:\\Users\\joshf\\AppData\\Roaming\\AMD\\Chipset_Software\\{E4061563-48CE-4EF3-8DC6-F6DAEDA774F9}\\",
+    "name": "AMD_Chipset_Drivers",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{db516d70-ab2f-4561-8045-005a2186ef15}",
+    "version": "7.09.23.2230"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\AppleInc.AppleTVWin_1.1540.23558.0_x64__nzyj5cx40ttqa",
+    "install_source": "",
+    "name": "AppleInc.AppleTVWin",
+    "publisher": "Apple Inc.",
+    "uninstall_string": "",
+    "version": "1.1540.23558.0"
+  },
+  {
+    "identifying_number": "{2CBA883F-51A6-3D7D-DBB9-0527D39433CB}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{2CBA883F-51A6-3D7D-DBB9-0527D39433CB}v10.1.22000.832\\Installers\\",
+    "name": "Application Verifier x64 External Package",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{2CBA883F-51A6-3D7D-DBB9-0527D39433CB}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{A8761B4B-A179-4469-99B7-FDFA94E551F9}",
+    "install_location": "",
+    "install_source": "",
+    "name": "ASUS DriverHub",
+    "publisher": "ASUSTeK COMPUTER INC.",
+    "uninstall_string": "\"C:\\Program Files\\ASUS\\AsusDriverHubInstaller\\ASUS-DriverHub-Installer.exe\" /u",
+    "version": "1.0.7.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\AutoHotkey",
+    "install_source": "",
+    "name": "AutoHotkey",
+    "publisher": "AutoHotkey Foundation LLC",
+    "uninstall_string": "\"C:\\Program Files\\AutoHotkey\\UX\\AutoHotkeyUX.exe\" \"C:\\Program Files\\AutoHotkey\\UX\\ui-uninstall.ahk\"",
+    "version": "2.0.26"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Battle.net",
+    "install_source": "C:\\Program Files (x86)\\Battle.net",
+    "name": "Battle.net",
+    "publisher": "Blizzard Entertainment",
+    "uninstall_string": "\"C:\\ProgramData\\Battle.net\\Agent\\Blizzard Uninstaller.exe\" --lang=enUS --uid=battle.net --displayname=\"Battle.net\"",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Blitz",
+    "publisher": "Blitz, Inc.",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\Programs\\Blitz\\Uninstall Blitz.exe\" /currentuser",
+    "version": "2.1.525"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.FileExplorer_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "c5e2524a-ea46-4f67-841f-6a9465d9d515",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvVirtualCamera.{6A6B7D83-2E35-4026-83C7-BF0C5159B1B6}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvVirtualCamera.{6A6B7D83-2E35-4026-83C7-BF0C5159B1B6}",
+    "name": "Camera (NVIDIA Broadcast)",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "2.1.0"
+  },
+  {
+    "identifying_number": "{fdb37aa6-2f30-45b4-8c5a-e5c364b63501}",
+    "install_location": "",
+    "install_source": "",
+    "name": "CapFrameX Capture and Analysis Tool",
+    "publisher": "DevTechProfile",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{fdb37aa6-2f30-45b4-8c5a-e5c364b63501}\\CapFrameXBootstrapper.exe\"  /uninstall",
+    "version": "1.8.4.6"
+  },
+  {
+    "identifying_number": "{A0B5D3D2-1BE7-4A9C-BD4C-D8788A137775}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A0B5D3D2-1BE7-4A9C-BD4C-D8788A137775}v1.8.4.6\\",
+    "name": "CapFrameX Capture and Analysis Tool 1.8.4.6",
+    "publisher": "DevTechProfile",
+    "uninstall_string": "MsiExec.exe /I{A0B5D3D2-1BE7-4A9C-BD4C-D8788A137775}",
+    "version": "1.8.4.6"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.CapturePicker_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "CapturePicker",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.19580.1000"
+  },
+  {
+    "identifying_number": "{8D8D41FD-63A8-437B-95D3-1F13FDE1898E}",
+    "install_location": "",
+    "install_source": "C:\\WINDOWS\\SystemTemp\\GoogleUpdater_chrome_Unpacker_BeginUnzipping38356_1396899516\\",
+    "name": "Chrome Remote Desktop Host",
+    "publisher": "Google LLC",
+    "uninstall_string": "MsiExec.exe /I{8D8D41FD-63A8-437B-95D3-1F13FDE1898E}",
+    "version": "148.0.7778.23"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Maxon.CinebenchR23_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Cinebench R23",
+    "publisher": "Maxon",
+    "uninstall_string": "winget uninstall --product-code Maxon.CinebenchR23_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "23.200"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Claude",
+    "publisher": "Island\\Island",
+    "uninstall_string": "\"C:\\Program Files\\Island\\Island\\Application\\Island.exe\" --profile-directory=Default --uninstall-app-id=fmpnliohjhemenmnlpbfagaolkdacoja",
+    "version": "1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc",
+    "install_source": "",
+    "name": "Claude",
+    "publisher": "Anthropic, PBC",
+    "uninstall_string": "",
+    "version": "1.6608.2.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Clipchamp.Clipchamp_4.5.10620.0_x64__yxz26nhyzhsrt",
+    "install_source": "",
+    "name": "Clipchamp.Clipchamp",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "4.5.10620.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+    "install_source": "",
+    "name": "Copilot",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\148.0.3967.70\\Installer\\copilot_setup.exe\" --uninstall --mscopilot --channel=stable --system-level --verbose-logging",
+    "version": "148.0.3967.70"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\CPUID\\ROG CPU-Z\\",
+    "install_source": "",
+    "name": "CPUID ROG CPU-Z 2.10",
+    "publisher": "CPUID, Inc.",
+    "uninstall_string": "\"C:\\Program Files\\CPUID\\ROG CPU-Z\\unins000.exe\"",
+    "version": "2.10"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Deno",
+    "publisher": "Deno Land Inc.",
+    "uninstall_string": "winget uninstall --product-code DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "2.7.5"
+  },
+  {
+    "identifying_number": "{7357BDEB-955F-4B54-AB63-7DAB022CA4BA}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36230.1,productarch=neutral,machinearch=x64\\",
+    "name": "DiagnosticsHub_CollectionService",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{7357BDEB-955F-4B54-AB63-7DAB022CA4BA}",
+    "version": "17.14.36230"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.DirectXRuntime_9.29.1974.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "DirectX",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "9.29.1974.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Discord",
+    "install_source": "",
+    "name": "Discord",
+    "publisher": "Discord Inc.",
+    "uninstall_string": "C:\\Users\\joshf\\AppData\\Local\\Discord\\Update.exe --uninstall",
+    "version": "1.0.9238"
+  },
+  {
+    "identifying_number": "{F2932543-66BD-40E3-8776-C76CBC1875E0}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\AppData\\Local\\Temp\\315d7029-6793-4dfb-92cf-479021b09c89_DisplayWidgetCenter (1).zip.c89\\",
+    "name": "DisplayWidget Center",
+    "publisher": "ASUS",
+    "uninstall_string": "MsiExec.exe /I{F2932543-66BD-40E3-8776-C76CBC1875E0}",
+    "version": "1.4.0"
+  },
+  {
+    "identifying_number": "{18A952B8-FA7E-4E56-AF70-9E080E445FD8}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\AppData\\Local\\Temp\\DisplayWidgetCenter\\",
+    "name": "DisplayWidget Center AIEngine",
+    "publisher": "ASUS",
+    "uninstall_string": "MsiExec.exe /I{18A952B8-FA7E-4E56-AF70-9E080E445FD8}",
+    "version": "1.0.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Docker\\Docker",
+    "install_source": "",
+    "name": "Docker Desktop",
+    "publisher": "Docker Inc.",
+    "uninstall_string": "\"C:\\Program Files\\Docker\\Docker\\Docker Desktop Installer.exe\" \"uninstall\"",
+    "version": "4.61.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\DolbyLaboratories.DolbyAccessOEM_3.27.9710.0_x64__rz1tebttyb220",
+    "install_source": "",
+    "name": "Dolby Access OEM",
+    "publisher": "Dolby Laboratories",
+    "uninstall_string": "",
+    "version": "3.27.9710.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\DolbyLaboratories.DolbyDigitalPlusDecoderOEM_1.2.588.0_x64__rz1tebttyb220",
+    "install_source": "",
+    "name": "Dolby Digital Plus decoder for PC OEMs",
+    "publisher": "Dolby Laboratories",
+    "uninstall_string": "",
+    "version": "1.2.588.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "E2A4F912-2574-4A75-9BB0-0D023378592B",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.19640.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Equalizer APO",
+    "publisher": "",
+    "uninstall_string": "\"C:\\Program Files\\EqualizerAPO\\Uninstall.exe\"",
+    "version": "1.4.2"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "FFmpeg for yt-dlp",
+    "publisher": "yt-dlp",
+    "uninstall_string": "winget uninstall --product-code yt-dlp.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "N-123074-g4e32fb4c2a-20260228"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Focusrite\\Drivers\\",
+    "install_source": "",
+    "name": "Focusrite Audio Drivers 4.144.0.362",
+    "publisher": "Focusrite Audio Engineering, Ltd.",
+    "uninstall_string": "\"C:\\Program Files\\Focusrite\\Drivers\\unins001.exe\"",
+    "version": "4.144.0.362"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Focusrite\\Focusrite Control 2\\",
+    "install_source": "",
+    "name": "Focusrite Control 2 1.980.0.0",
+    "publisher": "Focusrite Audio Engineering Ltd.",
+    "uninstall_string": "\"C:\\Program Files\\Focusrite\\Focusrite Control 2\\unins000.exe\"",
+    "version": "1.980.0.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Git\\",
+    "install_source": "",
+    "name": "Git",
+    "publisher": "The Git Development Community",
+    "uninstall_string": "\"C:\\Program Files\\Git\\unins001.exe\"",
+    "version": "2.53.0.3"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Google\\Chrome\\Application",
+    "install_source": "",
+    "name": "Google Chrome",
+    "publisher": "Google LLC",
+    "uninstall_string": "\"C:\\Program Files\\Google\\Chrome\\Application\\148.0.7778.179\\Installer\\setup.exe\" --uninstall --channel=stable --system-level --verbose-logging",
+    "version": "148.0.7778.179"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa",
+    "install_source": "",
+    "name": "iCloud",
+    "publisher": "Apple Inc.",
+    "uninstall_string": "",
+    "version": "15.7.56.0"
+  },
+  {
+    "identifying_number": "{81FA1580-E477-49BD-A127-1D370E0B609C}",
+    "install_location": "C:\\ProgramData\\Apple Inc\\iCloud\\Outlook\\",
+    "install_source": "C:\\Program Files\\WindowsApps\\AppleInc.iCloud_15.7.56.0_x64__nzyj5cx40ttqa\\iCloud\\",
+    "name": "iCloud Outlook",
+    "publisher": "Apple Inc.",
+    "uninstall_string": "MsiExec.exe /I{81FA1580-E477-49BD-A127-1D370E0B609C}",
+    "version": "15.7.0.56"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Ink.Handwriting.en-US.1.0_0.1121.1848.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Ink.Handwriting.en-US.1.0",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "0.1121.1848.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Ink.Handwriting.Main.en-US.1.0.1_0.1121.1848.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Ink.Handwriting.Main.en-US.1.0",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "0.1121.1848.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Island\\Island\\Application",
+    "install_source": "",
+    "name": "Island",
+    "publisher": "Island Technology, Inc.",
+    "uninstall_string": "\"C:\\Program Files\\Island\\Island\\Application\\148.1.91.21\\Installer\\setup.exe\" --uninstall --system-level --verbose-logging",
+    "version": "148.1.91.21"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "\"C:\\Program Files\\Keychron-Assistant\"",
+    "install_source": "",
+    "name": "Keychron-Assistant",
+    "publisher": "keychron",
+    "uninstall_string": "\"C:\\Program Files\\Keychron-Assistant\\uninstall.exe\"",
+    "version": "1.0.2"
+  },
+  {
+    "identifying_number": "{2598EE05-986F-CECE-2CA7-C7EAFA28D7C1}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{2598EE05-986F-CECE-2CA7-C7EAFA28D7C1}v10.1.26100.2454\\Installers\\",
+    "name": "Kits Configuration Installer",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{2598EE05-986F-CECE-2CA7-C7EAFA28D7C1}",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:/Riot Games/League of Legends",
+    "install_source": "",
+    "name": "League of Legends",
+    "publisher": "Riot Games, Inc",
+    "uninstall_string": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --uninstall-product=league_of_legends --uninstall-patchline=live",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:/Riot Games/League of Legends (PBE)",
+    "install_source": "",
+    "name": "League of Legends PBE",
+    "publisher": "Riot Games, Inc",
+    "uninstall_string": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --uninstall-product=league_of_legends --uninstall-patchline=pbe",
+    "version": ""
+  },
+  {
+    "identifying_number": "{850cdc16-85df-4052-b06e-4e3e9e83c5c6}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Logi Options+",
+    "publisher": "Logitech",
+    "uninstall_string": "\"C:\\Program Files\\LogiOptionsPlus\\logioptionsplus_updater.exe\" --uninstall --full --shadow",
+    "version": "2.3.879545"
+  },
+  {
+    "identifying_number": "{411621DB-19F4-4D6E-B15C-FE0A4F7C5FB4}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\LogiOptionsPlus\\depots\\739182\\logi_plugin_service\\",
+    "name": "Logi Plugin Service",
+    "publisher": "Logitech",
+    "uninstall_string": "MsiExec.exe /X{411621DB-19F4-4D6E-B15C-FE0A4F7C5FB4}",
+    "version": "6.3.0.2406"
+  },
+  {
+    "identifying_number": "{FE436680-E3E9-4BDB-A1C9-AA9DCD76752F}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{FE436680-E3E9-4BDB-A1C9-AA9DCD76752F}v64.108.52182\\",
+    "name": "Microsoft .NET Host - 8.0.27 (x64)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{FE436680-E3E9-4BDB-A1C9-AA9DCD76752F}",
+    "version": "64.108.52182"
+  },
+  {
+    "identifying_number": "{6B3BE514-B565-442C-9BA8-28E5B162E038}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{6B3BE514-B565-442C-9BA8-28E5B162E038}v64.108.52182\\",
+    "name": "Microsoft .NET Host FX Resolver - 8.0.27 (x64)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{6B3BE514-B565-442C-9BA8-28E5B162E038}",
+    "version": "64.108.52182"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft .Net Native Framework Package 2.2",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.2.29512.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft .Net Native Runtime Package 2.2",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.2.28604.0"
+  },
+  {
+    "identifying_number": "{F46044EA-04A3-4472-9368-2915A0C34868}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{F46044EA-04A3-4472-9368-2915A0C34868}v64.108.52182\\",
+    "name": "Microsoft .NET Runtime - 8.0.27 (x64)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{F46044EA-04A3-4472-9368-2915A0C34868}",
+    "version": "64.108.52182"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Microsoft Office",
+    "install_source": "",
+    "name": "Microsoft 365 - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_en-us_x-none culture=en-us version.16=16.0",
+    "version": "16.0.19929.20172"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2605.49101.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft 365 Copilot",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "19.2605.49101.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+    "install_source": "",
+    "name": "Microsoft Edge",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\148.0.3967.83\\Installer\\setup.exe\" --uninstall --msedge --channel=stable --system-level --verbose-logging",
+    "version": "148.0.3967.83"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+    "install_source": "",
+    "name": "Microsoft Edge WebView2 Runtime",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\148.0.3967.83\\Installer\\setup.exe\" --uninstall --msedgewebview --system-level --verbose-logging",
+    "version": "148.0.3967.83"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Engagement Framework",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.23012.0"
+  },
+  {
+    "identifying_number": "{14EDF950-06B9-415F-862C-1D5DEC321AE6}",
+    "install_location": "",
+    "install_source": "C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_36.113.14003.0_x64__8wekyb3d8bbwe\\",
+    "name": "Microsoft GameInput",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{14EDF950-06B9-415F-862C-1D5DEC321AE6}",
+    "version": "3.3.221.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft OneDrive",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files\\Microsoft OneDrive\\26.078.0426.0002\\OneDriveSetup.exe\"  /uninstall  /allusers ",
+    "version": "26.078.0426.0002"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_22604.1401.6.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Store",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "22604.1401.6.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MSTeams_26106.1911.4707.3286_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Teams",
+    "publisher": "Microsoft",
+    "uninstall_string": "",
+    "version": "26106.1911.4707.3286"
+  },
+  {
+    "identifying_number": "{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\TeamsMeetingAddinMsis\\1.25.18202\\",
+    "name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+    "version": "1.25.18202"
+  },
+  {
+    "identifying_number": "{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
+    "install_location": "",
+    "install_source": "C:\\WINDOWS\\TEMP\\IXP000.TMP\\",
+    "name": "Microsoft Visual C++ 2005 Redistributable",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
+    "version": "8.0.61001"
+  },
+  {
+    "identifying_number": "{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
+    "install_location": "",
+    "install_source": "c:\\461275a57dd4415f1ab5a139bbdb91\\",
+    "name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
+    "version": "9.0.30729.6161"
+  },
+  {
+    "identifying_number": "{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
+    "install_location": "",
+    "install_source": "c:\\60e2fb6b5299c891e8\\",
+    "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
+    "version": "9.0.30729.6161"
+  },
+  {
+    "identifying_number": "{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+    "install_location": "",
+    "install_source": "c:\\3c36f259435a6e91db307a7940\\",
+    "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+    "version": "10.0.40219"
+  },
+  {
+    "identifying_number": "{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
+    "install_location": "",
+    "install_source": "c:\\10ebbee12ae2c39b5b\\",
+    "name": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
+    "version": "10.0.40219"
+  },
+  {
+    "identifying_number": "{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe\"  /uninstall",
+    "version": "11.0.61030.0"
+  },
+  {
+    "identifying_number": "{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe\"  /uninstall",
+    "version": "11.0.61030.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2012 UWP Desktop Runtime Package",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "11.0.61135.0"
+  },
+  {
+    "identifying_number": "{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{37B8F9C7-03FB-3253-8781-2517C99D7C00}v11.0.61030\\packages\\vcRuntimeAdditional_amd64\\",
+    "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
+    "version": "11.0.61030"
+  },
+  {
+    "identifying_number": "{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}v11.0.61030\\packages\\vcRuntimeMinimum_amd64\\",
+    "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
+    "version": "11.0.61030"
+  },
+  {
+    "identifying_number": "{B175520C-86A2-35A7-8619-86DC379688B9}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030\\packages\\vcRuntimeAdditional_x86\\",
+    "name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}",
+    "version": "11.0.61030"
+  },
+  {
+    "identifying_number": "{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030\\packages\\vcRuntimeMinimum_x86\\",
+    "name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
+    "version": "11.0.61030"
+  },
+  {
+    "identifying_number": "{050d4fc8-5d48-4b8f-8972-47c82c46020f}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\\vcredist_x64.exe\"  /uninstall",
+    "version": "12.0.30501.0"
+  },
+  {
+    "identifying_number": "{f65db027-aff3-4070-886a-0d87064aabb1}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{f65db027-aff3-4070-886a-0d87064aabb1}\\vcredist_x86.exe\"  /uninstall",
+    "version": "12.0.30501.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2013 UWP Desktop Runtime Package",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "12.0.40653.0"
+  },
+  {
+    "identifying_number": "{929FBD26-9020-399B-9A7A-751D61F0B942}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{929FBD26-9020-399B-9A7A-751D61F0B942}v12.0.21005\\packages\\vcRuntimeAdditional_amd64\\",
+    "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}",
+    "version": "12.0.21005"
+  },
+  {
+    "identifying_number": "{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}v12.0.21005\\packages\\vcRuntimeMinimum_amd64\\",
+    "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}",
+    "version": "12.0.21005"
+  },
+  {
+    "identifying_number": "{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\\packages\\vcRuntimeAdditional_x86\\",
+    "name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}",
+    "version": "12.0.21005"
+  },
+  {
+    "identifying_number": "{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\\packages\\vcRuntimeMinimum_x86\\",
+    "name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}",
+    "version": "12.0.21005"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2015 UWP Desktop Runtime Package",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "14.0.33728.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2015 UWP Runtime Package",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "14.0.33519.0"
+  },
+  {
+    "identifying_number": "{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\\VC_redist.x64.exe\"  /uninstall",
+    "version": "14.44.35211.0"
+  },
+  {
+    "identifying_number": "{0b5169e3-39da-4313-808e-1f9c0407f3bf}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\"  /uninstall",
+    "version": "14.44.35211.0"
+  },
+  {
+    "identifying_number": "{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}v14.44.35211\\packages\\vcRuntimeAdditional_amd64\\",
+    "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "{FE85AA49-3522-4663-9F52-9CD9E9837189}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualCpp.RuntimeDebug.14,version=14.44.35211,chip=x64,machinearch=x64\\",
+    "name": "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{FE85AA49-3522-4663-9F52-9CD9E9837189}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "{43B0D101-A022-48F4-9D04-BA404CEB1D53}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{43B0D101-A022-48F4-9D04-BA404CEB1D53}v14.44.35211\\packages\\vcRuntimeMinimum_amd64\\",
+    "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{43B0D101-A022-48F4-9D04-BA404CEB1D53}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}v14.44.35211\\packages\\vcRuntimeAdditional_x86\\",
+    "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "{BC104582-4691-4D4C-8922-C215D941A2EB}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualCpp.RuntimeDebug.14,version=14.44.35211,chip=x86\\",
+    "name": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{BC104582-4691-4D4C-8922-C215D941A2EB}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}v14.44.35211\\packages\\vcRuntimeMinimum_x86\\",
+    "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+    "install_source": "",
+    "name": "Microsoft Visual Studio Code (User)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\"",
+    "version": "1.117.0"
+  },
+  {
+    "identifying_number": "{6F320B93-EE3C-4826-85E0-ADF79F8D4C61}",
+    "install_location": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\"",
+    "install_source": "",
+    "name": "Microsoft Visual Studio Installer",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" /uninstall",
+    "version": "3.14.2082.42463"
+  },
+  {
+    "identifying_number": "{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225\\",
+    "name": "Microsoft Visual Studio Setup Configuration",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+    "version": "3.12.2140.44225"
+  },
+  {
+    "identifying_number": "{49727420-70BA-4495-9405-31F8D711CB5A}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225\\",
+    "name": "Microsoft Visual Studio Setup WMI Provider",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}",
+    "version": "3.12.2140.44225"
+  },
+  {
+    "identifying_number": "{D024132A-E9B9-4C41-BBD4-B12DA02ABE81}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{D024132A-E9B9-4C41-BBD4-B12DA02ABE81}v64.108.52193\\",
+    "name": "Microsoft Windows Desktop Runtime - 8.0.27 (x64)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{D024132A-E9B9-4C41-BBD4-B12DA02ABE81}",
+    "version": "64.108.52193"
+  },
+  {
+    "identifying_number": "{2e63a120-0290-4d41-b713-28bf4b7f0631}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Microsoft Windows Desktop Runtime - 8.0.27 (x64)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{2e63a120-0290-4d41-b713-28bf4b7f0631}\\windowsdesktop-runtime-8.0.27-win-x64.exe\"  /uninstall",
+    "version": "8.0.27.36030"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.AAD.BrokerPlugin",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.19580.1000.2"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.AccountsControl_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.AccountsControl",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.AIFabric.CBS.1.6_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.AIFabric.CBS.1.6",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.6.935.100"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ApplicationCompatibilityEnhancements_1.2511.9.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.ApplicationCompatibilityEnhancements",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2511.9.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.AsyncTextService_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.AsyncTextService",
+    "publisher": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.AV1VideoExtension_2.0.7.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.AV1VideoExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.0.7.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.AVCEncoderVideoExtension_1.1.23.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.AVCEncoderVideoExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.1.23.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.BingNews",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "4.55.62231.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.43.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.BingSearch",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.1.43.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingWeather_4.54.63040.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.BingWeather",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "4.54.63040.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.BioEnrollment_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.BioEnrollment",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.19587.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\microsoft.creddialoghost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.CredDialogHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.19595.1001"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.28.240.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.DesktopAppInstaller",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.28.240.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.ECApp_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.ECApp",
+    "publisher": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.8328"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Edge.GameAssist_1.0.4019.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Edge.GameAssist",
+    "publisher": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1.0.4019.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_36.113.14003.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.GamingServices",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "36.113.14003.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.GetHelp_10.2409.41132.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.GetHelp",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.2409.41132.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.HEIFImageExtension_1.2.30.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.HEIFImageExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2.30.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.HEVCVideoExtension_2.4.43.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.HEVCVideoExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.4.43.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.LockApp",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.8457"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.MicrosoftEdgeDevToolsClient",
+    "publisher": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftStickyNotes_4.0.6104.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.MicrosoftStickyNotes",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "4.0.6104.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MPEG2VideoExtension_1.2.13.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.MPEG2VideoExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2.13.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Paint_11.2601.441.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Paint",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "11.2601.441.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.PowerAutomateDesktop_1.0.2094.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.PowerAutomateDesktop",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.0.2094.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.RawImageExtension_2.5.7.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.RawImageExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.5.7.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2602.47.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.ScreenSketch",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "11.2602.47.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.SecHealthUI_1000.29554.1001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.SecHealthUI",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1000.29554.1001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.302.5.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.StartExperiencesApp",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.302.5.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.StorePurchaseApp_22603.1401.2.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.StorePurchaseApp",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "22603.1401.2.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Todos_0.175.6901.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Todos",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "0.175.6901.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.7_7.2409.9001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.UI.Xaml.2.7",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "7.2409.9001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.UI.Xaml.2.8",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "8.2501.31001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.UI.Xaml.CBS_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.UI.Xaml.CBS",
+    "publisher": "Microsoft Platform Extensions",
+    "uninstall_string": "",
+    "version": "9.2603.18001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VP9VideoExtensions_1.2.13.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.VP9VideoExtensions",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2.13.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WebMediaExtensions_2.1.26.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WebMediaExtensions",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.1.26.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WebpImageExtension_1.2.14.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WebpImageExtension",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2.14.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Win32WebViewHost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Win32WebViewHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.Apprep.ChxApp",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.Apprep.ChxApp",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.AssignedAccessLockApp",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.AugLoop.CBS_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Windows.AugLoop.CBS",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.1126.2131.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.CloudExperienceHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.ContentDeliveryManager",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.0.0.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Windows.DevHome",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "0.0.0.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\microsoft.windows.narratorquickstart_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Windows.NarratorQuickStart",
+    "publisher": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.OOBENetworkCaptivePortal",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26569.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.OOBENetworkConnectionFlow",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26569.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\ParentalControls_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.ParentalControls",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.PeopleExperienceHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2026.11020.20001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.Windows.Photos",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2026.11020.20001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.PrintQueueActionCenter",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.0.2.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.SecureAssessmentBrowser",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.ShellExperienceHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.8115"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.StartMenuExperienceHost",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.26100.4768"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.Windows.XGpuEjectDialog",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAlarms_1.1.85.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsAlarms",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.1.85.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.WindowsAppRuntime.CBS_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsAppRuntime.CBS.1.6",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "6000.792.720.100"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\Microsoft.WindowsAppRuntime.vNext.CBS_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsAppRuntime.CBS.1.8",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "8000.800.1936.100"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_11.2508.4.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsCalculator",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "11.2508.4.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCamera_2025.2510.2.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsCamera",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2025.2510.2.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsFeedbackHub_1.2602.13304.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsFeedbackHub",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2602.13304.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2604.5.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsNotepad",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "11.2604.5.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsSoundRecorder_1.1.86.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsSoundRecorder",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.1.86.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11321.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.WindowsTerminal",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.24.11321.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.XboxGameCallableUI_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Microsoft.XboxGameCallableUI",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "1000.25128.1000.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxIdentityProvider_12.130.16001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.XboxIdentityProvider",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "12.130.16001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxSpeechToTextOverlay_1.97.17002.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.XboxSpeechToTextOverlay",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.97.17002.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26032.102.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.YourPhone",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.26032.102.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_11.2604.9.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Microsoft.ZuneMusic",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "11.2604.9.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.QuickAssist_2.0.29.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "MicrosoftCorporationII.QuickAssist",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "2.0.29.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WindowsSubsystemForLinux_2.5.9.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "MicrosoftCorporationII.WindowsSubsystemForLinux",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "2.5.9.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\SxS\\MicrosoftWindows.60719890.Voiess_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.60719890.Voiess",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.8328.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\SxS\\MicrosoftWindows.60719895.Livtop_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.60719895.Livtop",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.8328.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\SxS\\MicrosoftWindows.60719896.Speion_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.60719896.Speion",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.8328.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\SxS\\MicrosoftWindows.60719898.InpApp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.60719898.InpApp",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.8328.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.CBS",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.304.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.Core",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.88.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.CoreAI",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.8457.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.FileExp",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.6.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.OOBE_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.OOBE",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.40.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.Client.Photon",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1000.26100.10.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26032.83.0_x64__cw5n1h2txyewy",
+    "install_source": "",
+    "name": "MicrosoftWindows.CrossDevice",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "1.26032.83.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Modern CSV\\",
+    "install_source": "",
+    "name": "Modern CSV version 2.3",
+    "publisher": "Gallium Digital",
+    "uninstall_string": "\"C:\\Program Files\\Modern CSV\\unins000.exe\"",
+    "version": "2.3"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Mozilla Maintenance Service",
+    "publisher": "Mozilla",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Mozilla Maintenance Service\\uninstall.exe\"",
+    "version": "150.0.2"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Mozilla Thunderbird",
+    "install_source": "",
+    "name": "Mozilla Thunderbird (x64 en-US)",
+    "publisher": "Mozilla",
+    "uninstall_string": "\"C:\\Program Files\\Mozilla Thunderbird\\uninstall\\helper.exe\"",
+    "version": "151.0"
+  },
+  {
+    "identifying_number": "{95A498A9-5E6E-5779-1523-876224F41F94}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{95A498A9-5E6E-5779-1523-876224F41F94}v10.1.22000.832\\Installers\\",
+    "name": "MSI Development Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{95A498A9-5E6E-5779-1523-876224F41F94}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{9B2DE5DD-E715-4152-97C3-7BE9F620DC2E}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\Downloads\\",
+    "name": "Node.js",
+    "publisher": "Node.js Foundation",
+    "uninstall_string": "MsiExec.exe /I{9B2DE5DD-E715-4152-97C3-7BE9F620DC2E}",
+    "version": "22.17.1"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvCPL.{7984EF4A-173F-40EC-ACEF-7B243A1AAAAA}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvCPL.{7984EF4A-173F-40EC-ACEF-7B243A1AAAAA}",
+    "name": "NvCpl",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.AIUser.{771DD9B7-9741-44A5-AF8F-E7D3FB119DB5}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.AIUser.{771DD9B7-9741-44A5-AF8F-E7D3FB119DB5}",
+    "name": "NVIDIA AIUser Container",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.{8551C0BB-F8EE-4C12-A56D-06DF3F340AAA}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.{8551C0BB-F8EE-4C12-A56D-06DF3F340AAA}",
+    "name": "NVIDIA App 11.0.7.247",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.NvApp",
+    "version": "11.0.7.247"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvBackend.{6F0A98FD-879F-4A1F-BEBD-09DBE77C7A2C}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.NvBackend.{6F0A98FD-879F-4A1F-BEBD-09DBE77C7A2C}",
+    "name": "NVIDIA Backend",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "11.0.7.247"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NVIDIABroadcast.{DD16A108-FA41-4A9F-913C-F88A9CBCE344}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NVIDIABroadcast.{DD16A108-FA41-4A9F-913C-F88A9CBCE344}",
+    "name": "NVIDIA Broadcast 2.1.0",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage NVIDIABroadcast",
+    "version": "2.1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\BroadcastVoice.Driver.{137FBC99-FEA9-4BEE-9A5F-E7E5E694FE62}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\BroadcastVoice.Driver.{137FBC99-FEA9-4BEE-9A5F-E7E5E694FE62}",
+    "name": "NVIDIA Broadcast Voice Driver 1.0.1.42",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.0.1.42"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\NvContainer",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.{7C0FD191-8157-4C3D-984D-B13ACFE04246}",
+    "name": "NVIDIA Container",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj",
+    "install_source": "",
+    "name": "NVIDIA Control Panel",
+    "publisher": "NVIDIA Corp.",
+    "uninstall_string": "",
+    "version": "8.1.969.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\FrameViewSdk.{1A7C3307-BF2A-4743-A63C-3C3D94A30809}",
+    "name": "NVIDIA FrameView SDK 1.7.12227.37421622",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage FrameViewSdk",
+    "version": "1.7.12227.37421622"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{1FBB6943-AEA0-45E3-B346-18B7739D0B24}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{1FBB6943-AEA0-45E3-B346-18B7739D0B24}",
+    "name": "NVIDIA Graphics Driver 596.49",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.Driver",
+    "version": "596.49"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{B08513E8-42EA-4A8E-B8AD-D85B8E9DB983}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{B08513E8-42EA-4A8E-B8AD-D85B8E9DB983}",
+    "name": "NVIDIA HD Audio Driver 1.4.5.7",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage HDAudio.Driver",
+    "version": "1.4.5.7"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore",
+    "install_source": "",
+    "name": "NVIDIA Install Application",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "2.1002.442.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{EEE9616F-9B00-4AAD-8154-3BCE9507CA38}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{EEE9616F-9B00-4AAD-8154-3BCE9507CA38}",
+    "name": "NVIDIA LocalSystem Container",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.MessageBus.{9271AC99-21BF-4889-A0DC-22DBA7A4F04F}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.NvApp.MessageBus.{9271AC99-21BF-4889-A0DC-22DBA7A4F04F}",
+    "name": "NVIDIA MessageBus 3 for NvApp",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "3.21"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvDLISR.{10DAB66F-74B9-469C-949D-197E5528FBA6}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvDLISR.{10DAB66F-74B9-469C-949D-197E5528FBA6}",
+    "name": "NVIDIA NvDLISR",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.PhysX.{CCB5ACF8-DEC9-4C62-9CCA-915F0EEA9F1F}",
+    "name": "NVIDIA PhysX System Software 9.23.1019",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.PhysX",
+    "version": "9.23.1019"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{6144930F-C0D6-4752-BCEF-7DE44272163B}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{6144930F-C0D6-4752-BCEF-7DE44272163B}",
+    "name": "NVIDIA Session Container",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\ShadowPlay.{9DF0C360-1C9A-4B00-BB90-4AB63CB350AF}",
+    "name": "NVIDIA ShadowPlay 11.0.7.0",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "11.0.7.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\NvTelemetry",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvTelemetry.{20F45A31-7AFF-4D50-B284-A6B76215DBF1}",
+    "name": "NVIDIA Telemetry Client",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "19.5.13.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{53CE80CA-104E-49B1-BE66-6EA590155325}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{53CE80CA-104E-49B1-BE66-6EA590155325}",
+    "name": "NVIDIA User Container",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{425725B1-9C64-42E7-9BDE-BA817909E750}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{425725B1-9C64-42E7-9BDE-BA817909E750}",
+    "name": "NVIDIA Virtual Audio 4.65.0.12",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "4.65.0.12"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{78FF24D4-4A20-462C-A140-B56FEE603079}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{78FF24D4-4A20-462C-A140-B56FEE603079}",
+    "name": "NVIDIA Watchdog Plugin for NvContainer",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "1.48"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\nvm\\",
+    "install_source": "",
+    "name": "NVM for Windows 1.2.2",
+    "publisher": "Author Software Inc.",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\nvm\\unins000.exe\"",
+    "version": "1.2.2"
+  },
+  {
+    "identifying_number": "{90160000-008C-0000-1000-0000000FF1CE}",
+    "install_location": "",
+    "install_source": "c:\\program files\\microsoft office\\root\\integration\\",
+    "name": "Office 16 Click-to-Run Extensibility Component",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}",
+    "version": "16.0.19929.20172"
+  },
+  {
+    "identifying_number": "{1b34118a-f059-4817-ba29-b52ebbd476a2}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Okta Verify",
+    "publisher": "Okta, Inc.",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{1b34118a-f059-4817-ba29-b52ebbd476a2}\\OktaVerifySetup.exe\"  /uninstall",
+    "version": "6.9.0.0"
+  },
+  {
+    "identifying_number": "{035F3436-6CEC-440E-B696-ABDD82529281}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{035F3436-6CEC-440E-B696-ABDD82529281}v6.9.0.0\\",
+    "name": "OktaServicesInstaller",
+    "publisher": "Okta, Inc.",
+    "uninstall_string": "MsiExec.exe /I{035F3436-6CEC-440E-B696-ABDD82529281}",
+    "version": "6.9.0.0"
+  },
+  {
+    "identifying_number": "{771CEC2F-5FF5-48A1-ADEF-79473C67DA90}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{771CEC2F-5FF5-48A1-ADEF-79473C67DA90}v6.9.0.0\\",
+    "name": "OktaVerify-x64-6.9.0.0",
+    "publisher": "Okta, Inc.",
+    "uninstall_string": "MsiExec.exe /I{771CEC2F-5FF5-48A1-ADEF-79473C67DA90}",
+    "version": "6.9.0.0"
+  },
+  {
+    "identifying_number": "{B452DD34-AF8A-4D5A-AAF4-05A53F04638A}",
+    "install_location": "C:\\Program Files\\osquery\\",
+    "install_source": "C:\\Users\\joshf\\AppData\\Local\\Temp\\WinGet\\osquery.osquery.5.23.0\\",
+    "name": "osquery",
+    "publisher": "osquery",
+    "uninstall_string": "MsiExec.exe /I{B452DD34-AF8A-4D5A-AAF4-05A53F04638A}",
+    "version": "5.23.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvModels.{28D68B07-A652-4928-A631-37411444A3F8}",
+    "install_source": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvModels.{28D68B07-A652-4928-A631-37411444A3F8}",
+    "name": "OTA Dependencies",
+    "publisher": "NVIDIA Corporation",
+    "uninstall_string": "",
+    "version": "0.9.0.5"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2026.504.100_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Outlook for Windows",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2026.504.100"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Overwatch",
+    "install_source": "C:\\Program Files (x86)\\Overwatch",
+    "name": "Overwatch",
+    "publisher": "Blizzard Entertainment",
+    "uninstall_string": "\"C:\\ProgramData\\Battle.net\\Agent\\Blizzard Uninstaller.exe\" --lang=enUS --uid=prometheus --displayname=\"Overwatch\"",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Overwolf\\",
+    "install_source": "",
+    "name": "Overwolf",
+    "publisher": "Overwolf Ltd.",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Overwolf\\\\OWUninstaller.exe\" /S",
+    "version": "0.300.0.11"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Peace",
+    "publisher": "P.E. Verbeek",
+    "uninstall_string": "\"C:\\Program Files\\EqualizerAPO\\config\\PeaceSetup.exe\" \"2\"",
+    "version": "1.6.9.11"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\PingPlotter 5\\",
+    "install_source": "",
+    "name": "PingPlotter 5",
+    "publisher": "Pingman Tools, LLC",
+    "uninstall_string": "msiexec.exe /x {52022F58-76C1-45C7-9279-5A7748072A9A} AI_UNINSTALLER_CTP=1",
+    "version": "5.25.20.9089"
+  },
+  {
+    "identifying_number": "{52022F58-76C1-45C7-9279-5A7748072A9A}",
+    "install_location": "C:\\Program Files (x86)\\PingPlotter 5\\",
+    "install_source": "C:\\Users\\joshf\\AppData\\Roaming\\Downloaded Installations\\{52022F58-76C1-45C7-9279-5A7748072A9A}\\",
+    "name": "PingPlotter 5",
+    "publisher": "Pingman Tools, LLC",
+    "uninstall_string": "MsiExec.exe /I{52022F58-76C1-45C7-9279-5A7748072A9A}",
+    "version": "5.25.20.9089"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "PinningConfirmationDialog",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1000.25140.1001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.2.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "PowerShell",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "7.6.2.0"
+  },
+  {
+    "identifying_number": "{634F4903-28DC-4BA6-A39F-4B3E394D4E36}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{634F4903-28DC-4BA6-A39F-4B3E394D4E36}v7.5.5.0\\",
+    "name": "PowerShell 7-x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{634F4903-28DC-4BA6-A39F-4B3E394D4E36}",
+    "version": "7.5.5.0"
+  },
+  {
+    "identifying_number": "{cac8e818-d8ea-4633-a39f-8604cb101a19}",
+    "install_location": "",
+    "install_source": "",
+    "name": "PowerShell 7.5.5.0-x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{cac8e818-d8ea-4633-a39f-8604cb101a19}\\PowerShell-7.5.5-win-x64.exe\"  /uninstall",
+    "version": "7.5.5.0"
+  },
+  {
+    "identifying_number": "{B5512BCC-F4CD-4159-86A4-B2AD7D38FFA9}",
+    "install_location": "",
+    "install_source": "C:\\AMD\\Chipset_Software\\Packages\\IODriver\\GPIO_PT\\",
+    "name": "Promontory_GPIO Driver",
+    "publisher": "Advanced Micro Devices, Inc.",
+    "uninstall_string": "MsiExec.exe /X{B5512BCC-F4CD-4159-86A4-B2AD7D38FFA9}",
+    "version": "3.0.3.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Python\\pythoncore-3.12-64",
+    "install_source": "",
+    "name": "Python 3.12.10",
+    "publisher": "Python Software Foundation",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\\pymanager.exe\" uninstall --yes --by-id \"pythoncore-3.12-64\"",
+    "version": "3.12-64"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Python\\pythoncore-3.14-64",
+    "install_source": "",
+    "name": "Python 3.14.3",
+    "publisher": "Python Software Foundation",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\\pymanager.exe\" uninstall --yes --by-id \"pythoncore-3.14-64\"",
+    "version": "3.14-64"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.2.240.0_x64__3847v3x7pw1km",
+    "install_source": "",
+    "name": "Python Install Manager",
+    "publisher": "Python Software Foundation",
+    "uninstall_string": "",
+    "version": "26.2.240.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "qBittorrent",
+    "publisher": "The qBittorrent project",
+    "uninstall_string": "\"C:\\Program Files\\qBittorrent\\uninst.exe\"",
+    "version": "5.2.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Razer Chroma",
+    "publisher": "Razer Inc.",
+    "uninstall_string": "\"C:\\WINDOWS\\Installer\\Razer\\Razer Chroma\\Uninstall.exe\" \"/U:C:\\WINDOWS\\Installer\\Razer\\Razer Chroma\\uninstall.xml\" /S",
+    "version": "4.0.503"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Razer Synapse",
+    "publisher": "Razer Inc.",
+    "uninstall_string": "\"C:\\WINDOWS\\Installer\\Razer\\Razer Synapse\\Uninstall.exe\" \"/U:C:\\WINDOWS\\Installer\\Razer\\Razer Synapse\\uninstall.xml\" /S",
+    "version": "4.0.503"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\RealtekSemiconductorCorp.RealtekAudioControl_1.53.380.0_x64__dt26b99r8h8gj",
+    "install_source": "",
+    "name": "Realtek Audio Control",
+    "publisher": "Realtek Semiconductor Corp",
+    "uninstall_string": "",
+    "version": "1.53.380.0"
+  },
+  {
+    "identifying_number": "{0A46A65D-89AC-464C-8026-3CD44960BD04}",
+    "install_location": "C:\\Program Files (x86)\\Realtek\\Audio",
+    "install_source": "C:\\ProgramData\\ASUS\\AsusDriverHub\\SupportTemp\\Realtek Audio Driver\\",
+    "name": "Realtek USB Audio",
+    "publisher": "Realtek Semiconductor Corp.",
+    "uninstall_string": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{0A46A65D-89AC-464C-8026-3CD44960BD04}\\setup.exe\" -runfromtemp  -removeonly",
+    "version": "6.4.0.2426"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Replays.lol",
+    "publisher": "Overwolf app",
+    "uninstall_string": "C:\\Program Files (x86)\\Overwolf\\OWUninstaller.exe --uninstall-app=lphkillcmbnmngmbppcandgojaplnlficoiboeoe",
+    "version": "3.0.76"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:/Riot Games/Riot Client/",
+    "install_source": "",
+    "name": "Riot Client ",
+    "publisher": "Riot Games, Inc",
+    "uninstall_string": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --uninstall-product=Riot_Client --uninstall-patchline=",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Riot Vanguard",
+    "install_source": "",
+    "name": "Riot Vanguard",
+    "publisher": "Riot Games, Inc.",
+    "uninstall_string": "\"C:\\Program Files\\Riot Vanguard\\installer.exe\"",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "RivaTuner Statistics Server 7.3.7",
+    "publisher": "Unwinder",
+    "uninstall_string": "\"C:\\Program Files (x86)\\RivaTuner Statistics Server\\uninstall.exe\"",
+    "version": "7.3.7"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Rustup: the Rust toolchain installer",
+    "publisher": "",
+    "uninstall_string": "\"C:\\Users\\joshf\\.cargo\\bin\\rustup.exe\" self uninstall",
+    "version": "1.28.2"
+  },
+  {
+    "identifying_number": "{BD786819-AA80-7B18-125D-AA03AAF2759B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{BD786819-AA80-7B18-125D-AA03AAF2759B}v10.1.22000.832\\Installers\\",
+    "name": "SDK ARM Additions",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{BD786819-AA80-7B18-125D-AA03AAF2759B}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{4349F57C-0C9C-C16B-9A40-E7B406C451E2}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{4349F57C-0C9C-C16B-9A40-E7B406C451E2}v10.1.22000.832\\Installers\\",
+    "name": "SDK ARM Redistributables",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{4349F57C-0C9C-C16B-9A40-E7B406C451E2}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Signal 8.11.0",
+    "publisher": "Signal Messenger, LLC",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Local\\Programs\\signal-desktop\\Uninstall Signal.exe\" /currentuser",
+    "version": "8.11.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\com.tinyspeck.slackdesktop_4.49.89.0_x64__8yrtsj140pw4g",
+    "install_source": "",
+    "name": "Slack",
+    "publisher": "Slack Technologies Inc.",
+    "uninstall_string": "",
+    "version": "4.49.89.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftSolitaireCollection_4.25.4290.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Solitaire &amp; Casual Games",
+    "publisher": "Microsoft Studios",
+    "uninstall_string": "",
+    "version": "4.25.4290.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Ookla.Speedtest.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Speedtest CLI",
+    "publisher": "Ookla",
+    "uninstall_string": "winget uninstall --product-code Ookla.Speedtest.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "1.2.0.84"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.290.451.0_x64__zpdnekdrzrea0",
+    "install_source": "",
+    "name": "SpotifyAB.SpotifyMusic",
+    "publisher": "Spotify AB",
+    "uninstall_string": "",
+    "version": "1.290.451.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\StarCraft II",
+    "install_source": "C:\\Program Files (x86)\\StarCraft II",
+    "name": "StarCraft II",
+    "publisher": "Blizzard Entertainment",
+    "uninstall_string": "\"C:\\ProgramData\\Battle.net\\Agent\\Blizzard Uninstaller.exe\" --lang=enUS --uid=s2 --displayname=\"StarCraft II\"",
+    "version": ""
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Steam",
+    "publisher": "Valve Corporation",
+    "uninstall_string": "C:\\Program Files (x86)\\Steam\\uninstall.exe",
+    "version": "2.10.91.91"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "SteelSeries GG 107.0.0",
+    "publisher": "SteelSeries ApS",
+    "uninstall_string": "C:\\Program Files\\SteelSeries\\GG\\uninst.exe",
+    "version": "107.0.0"
+  },
+  {
+    "identifying_number": "{5C3D9F78-78F8-4179-AFBB-A5C724DF8F14}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\Downloads\\",
+    "name": "Synergy (64-bit)",
+    "publisher": "Symless Ltd",
+    "uninstall_string": "MsiExec.exe /X{5C3D9F78-78F8-4179-AFBB-A5C724DF8F14}",
+    "version": "3.6.1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "The Riftbreaker",
+    "publisher": "EXOR Studios",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/780310",
+    "version": ""
+  },
+  {
+    "identifying_number": "{50F24D28-A356-7D82-A7FB-111D0B3434C8}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{50F24D28-A356-7D82-A7FB-111D0B3434C8}v10.1.26100.2454\\Installers\\",
+    "name": "Toolkit Documentation",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{50F24D28-A356-7D82-A7FB-111D0B3434C8}",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu24.04LTS_2404.1.31.0_x64__79rhkp1fndgsc",
+    "install_source": "",
+    "name": "Ubuntu 24.04.1 LTS",
+    "publisher": "Canonical Group Limited",
+    "uninstall_string": "",
+    "version": "2404.1.31.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "UDK Package",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "10.0.26100.1"
+  },
+  {
+    "identifying_number": "{7A117EE9-1DCA-4DF2-816B-6810A95D67C5}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{7A117EE9-1DCA-4DF2-816B-6810A95D67C5}v1.0.22.0\\",
+    "name": "UE Prerequisites (x64)",
+    "publisher": "Epic Games, Inc.",
+    "uninstall_string": "MsiExec.exe /X{7A117EE9-1DCA-4DF2-816B-6810A95D67C5}",
+    "version": "1.0.22.0"
+  },
+  {
+    "identifying_number": "{7675c6c6-b4bd-4206-855e-5e39d89ea708}",
+    "install_location": "",
+    "install_source": "",
+    "name": "UE Prerequisites (x64)",
+    "publisher": "Epic Games, Inc.",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{7675c6c6-b4bd-4206-855e-5e39d89ea708}\\UEPrereqSetup_x64.exe\"  /uninstall",
+    "version": "1.0.22.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "\"C:\\Program Files (x86)\\Uninstalr\"",
+    "install_source": "",
+    "name": "Uninstalr",
+    "publisher": "Great Software Company",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Uninstalr\\uninstall.exe\"",
+    "version": "2.8"
+  },
+  {
+    "identifying_number": "{90AAE845-42CE-EC12-4041-8ADF7BE765E7}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{90AAE845-42CE-EC12-4041-8ADF7BE765E7}v10.1.22000.832\\Installers\\",
+    "name": "Universal CRT Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{90AAE845-42CE-EC12-4041-8ADF7BE765E7}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{98D5C5AA-993C-1371-C7AF-8F8A0E8CAF86}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{98D5C5AA-993C-1371-C7AF-8F8A0E8CAF86}v10.1.22000.832\\Installers\\",
+    "name": "Universal CRT Headers Libraries and Sources",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{98D5C5AA-993C-1371-C7AF-8F8A0E8CAF86}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{8EC1DC78-0A65-B6AC-664D-DFB3AC8E9736}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{8EC1DC78-0A65-B6AC-664D-DFB3AC8E9736}v10.1.22000.832\\Installers\\",
+    "name": "Universal CRT Redistributable",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{8EC1DC78-0A65-B6AC-664D-DFB3AC8E9736}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{82F9F289-6088-8F39-1918-A45315FEF99A}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{82F9F289-6088-8F39-1918-A45315FEF99A}v10.1.22000.832\\Installers\\",
+    "name": "Universal CRT Tools x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{82F9F289-6088-8F39-1918-A45315FEF99A}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{A829BD53-4BE5-23F2-C4A8-026CB5D47ECF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A829BD53-4BE5-23F2-C4A8-026CB5D47ECF}v10.1.22000.832\\Installers\\",
+    "name": "Universal CRT Tools x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{A829BD53-4BE5-23F2-C4A8-026CB5D47ECF}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{D62BC488-4C4A-BF17-A0CE-21B4BF8F9B30}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{D62BC488-4C4A-BF17-A0CE-21B4BF8F9B30}v10.1.22000.832\\Installers\\",
+    "name": "Universal General MIDI DLS Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{D62BC488-4C4A-BF17-A0CE-21B4BF8F9B30}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{C7FC6DE7-5C06-4311-837A-E0D774618D17}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualCpp.CRT.ClickOnce.Msi,version=14.44.35211,language=en-US\\",
+    "name": "vcpp_crt.redist.clickonce",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{C7FC6DE7-5C06-4311-837A-E0D774618D17}",
+    "version": "14.44.35211"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "",
+    "install_source": "",
+    "name": "Vim 9.2 (x64)",
+    "publisher": "The Vim Project",
+    "uninstall_string": "C:\\Program Files\\Vim\\vim92\\uninstall-gui.exe",
+    "version": "9.2.0212"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools",
+    "install_source": "",
+    "name": "Visual Studio Build Tools 2022 (2)",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" uninstall --installPath \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\"",
+    "version": "17.14.9 (July 2025)"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community",
+    "install_source": "",
+    "name": "Visual Studio Community 2022",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\" uninstall --installPath \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\"",
+    "version": "17.14.9 (July 2025)"
+  },
+  {
+    "identifying_number": "{1851460E-0E63-4117-B5BA-25A2F045801B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\CoreEditorFonts,version=17.7.40001.1,productarch=neutral\\",
+    "name": "vs_CoreEditorFonts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{1851460E-0E63-4117-B5BA-25A2F045801B}",
+    "version": "17.7.40001"
+  },
+  {
+    "identifying_number": "{22EE1419-B47E-44B8-A635-868746946079}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.FileHandler.Msi,version=17.14.36024.20,chip=x64\\",
+    "name": "vs_filehandler_amd64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{22EE1419-B47E-44B8-A635-868746946079}",
+    "version": "17.14.36024"
+  },
+  {
+    "identifying_number": "{6C7D0172-7367-4F0C-95DB-6021765B58EA}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.FileHandler.Msi,version=17.14.36024.20,chip=x86\\",
+    "name": "vs_filehandler_x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{6C7D0172-7367-4F0C-95DB-6021765B58EA}",
+    "version": "17.14.36024"
+  },
+  {
+    "identifying_number": "{D331F4E7-BC3B-47BE-BB56-5F33895F9347}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.Build.FileTracker.Msi,version=17.14.36015.10\\",
+    "name": "vs_FileTracker_Singleton",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{D331F4E7-BC3B-47BE-BB56-5F33895F9347}",
+    "version": "17.14.36015"
+  },
+  {
+    "identifying_number": "{29297AFE-9D24-4DFE-ACAF-D90090D905CF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.GitHubProtocolHandler.Msi,version=17.14.36015.10\\",
+    "name": "vs_githubprotocolhandlermsi",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{29297AFE-9D24-4DFE-ACAF-D90090D905CF}",
+    "version": "17.14.36015"
+  },
+  {
+    "identifying_number": "{EC049978-2176-47C6-B99B-2C64AD6F6828}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.MinShell.Msi.Resources,version=17.14.36015.10,language=en-US\\",
+    "name": "vs_minshellmsires",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{EC049978-2176-47C6-B99B-2C64AD6F6828}",
+    "version": "17.14.36015"
+  },
+  {
+    "identifying_number": "{F6E69DD8-7652-4CC6-8A4F-485A16012B5B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.MinShell.Shared.Msi,version=17.14.36024.20\\",
+    "name": "vs_minshellsharedmsi",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{F6E69DD8-7652-4CC6-8A4F-485A16012B5B}",
+    "version": "17.14.36024"
+  },
+  {
+    "identifying_number": "{51FD170D-69D2-4D5E-A9D1-53FD1F394FD7}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.MinShell.Msi,version=17.14.36301.6,productarch=x64\\",
+    "name": "vs_minshellx64msi",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{51FD170D-69D2-4D5E-A9D1-53FD1F394FD7}",
+    "version": "17.14.36301"
+  },
+  {
+    "identifying_number": "{9561B8F2-C389-4FB0-BBED-0BA38B69BAA8}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Microsoft\\VisualStudio\\Packages\\Microsoft.VisualStudio.VsWebProtocolSelector.Msi,version=17.14.36015.10\\",
+    "name": "vs_vswebprotocolselectormsi",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{9561B8F2-C389-4FB0-BBED-0BA38B69BAA8}",
+    "version": "17.14.36015"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\Warp\\",
+    "install_source": "",
+    "name": "Warp",
+    "publisher": "Denver Technologies, Inc.",
+    "uninstall_string": "\"C:\\Program Files\\Warp\\unins000.exe\"",
+    "version": "v0.2026.05.18.05.32.stable_02"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.18.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Widgets Platform Runtime",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.6.18.0"
+  },
+  {
+    "identifying_number": "{8E3AB865-9E38-1E5F-7B49-C8E3A70C6303}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{8E3AB865-9E38-1E5F-7B49-C8E3A70C6303}v10.1.22000.832\\Installers\\",
+    "name": "WinAppDeploy",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{8E3AB865-9E38-1E5F-7B49-C8E3A70C6303}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WinAppRuntime.Main.1.8_8000.836.2153.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WinAppRuntime.Main.1.8",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "8000.836.2153.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WinAppRuntime.Singleton_8002.0.1.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WinAppRuntime.Singleton",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "8002.0.1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WinDbg_1.2603.20001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WinDbg",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.2603.20001.0"
+  },
+  {
+    "identifying_number": "{69331A50-908A-0745-CFCF-8413360C5B96}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{69331A50-908A-0745-CFCF-8413360C5B96}v10.1.22000.832\\Installers\\",
+    "name": "Windows App Certification Kit Native Components",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{69331A50-908A-0745-CFCF-8413360C5B96}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{81D4E442-F6C5-DF4B-DEF8-76E51ACC56F8}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{81D4E442-F6C5-DF4B-DEF8-76E51ACC56F8}v10.1.22000.832\\Installers\\",
+    "name": "Windows App Certification Kit SupportedApiList x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{81D4E442-F6C5-DF4B-DEF8-76E51ACC56F8}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{FD68622A-634F-FB49-6E94-E21A451A3B5A}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{FD68622A-634F-FB49-6E94-E21A451A3B5A}v10.1.22000.832\\Installers\\",
+    "name": "Windows App Certification Kit x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{FD68622A-634F-FB49-6E94-E21A451A3B5A}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{b09b3bef-7c75-4e26-ae6b-f6cdeb0fb071}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Windows Assessment and Deployment Kit",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{b09b3bef-7c75-4e26-ae6b-f6cdeb0fb071}\\adksetup.exe\"  /uninstall",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "{3F737DA8-C5B7-8740-6B07-BA73B5E62CDF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{3F737DA8-C5B7-8740-6B07-BA73B5E62CDF}v10.1.22000.832\\Installers\\",
+    "name": "Windows Desktop Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{3F737DA8-C5B7-8740-6B07-BA73B5E62CDF}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{D54B24F7-43DE-C7BF-3A5C-83F9E8E0700D}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{D54B24F7-43DE-C7BF-3A5C-83F9E8E0700D}v10.1.22000.832\\Installers\\",
+    "name": "Windows Desktop Extension SDK Contracts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{D54B24F7-43DE-C7BF-3A5C-83F9E8E0700D}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WindowsHDRCalibration_1.0.152.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Windows HDR Calibration",
+    "publisher": "Microsoft Corp.",
+    "uninstall_string": "",
+    "version": "1.0.152.0"
+  },
+  {
+    "identifying_number": "{5B64C01B-2798-A2F6-89C3-AC03906F8788}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{5B64C01B-2798-A2F6-89C3-AC03906F8788}v10.1.22000.832\\Installers\\",
+    "name": "Windows IoT Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{5B64C01B-2798-A2F6-89C3-AC03906F8788}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{1FF69612-5A91-3565-7EE3-0539A04E3B8D}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{1FF69612-5A91-3565-7EE3-0539A04E3B8D}v10.1.22000.832\\Installers\\",
+    "name": "Windows IoT Extension SDK Contracts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{1FF69612-5A91-3565-7EE3-0539A04E3B8D}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{DF2A6855-DB81-9047-3033-8D6AC6055AEF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{DF2A6855-DB81-9047-3033-8D6AC6055AEF}v10.1.22000.832\\Installers\\",
+    "name": "Windows Mobile Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{DF2A6855-DB81-9047-3033-8D6AC6055AEF}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{8EDE105B-885A-D173-50F8-F50F39C51CF9}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{8EDE105B-885A-D173-50F8-F50F39C51CF9}v10.1.22000.832\\Installers\\",
+    "name": "Windows Mobile Extension SDK Contracts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{8EDE105B-885A-D173-50F8-F50F39C51CF9}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Winget.Source_2026.525.1754.33_neutral__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Windows Package Manager Source (winget) V2",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2026.525.1754.33"
+  },
+  {
+    "identifying_number": "{2D2EBB11-484D-8F73-FA25-3FFABCE371F0}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{2D2EBB11-484D-8F73-FA25-3FFABCE371F0}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{2D2EBB11-484D-8F73-FA25-3FFABCE371F0}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{15941C7F-810D-41DF-8C5A-8D0490277AFB}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{15941C7F-810D-41DF-8C5A-8D0490277AFB}v10.1.0.0\\Redistributable\\10.1.0.0\\",
+    "name": "Windows SDK AddOn",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{15941C7F-810D-41DF-8C5A-8D0490277AFB}",
+    "version": "10.1.0.0"
+  },
+  {
+    "identifying_number": "{A99B19D4-7F87-03E5-B4A8-80420ECD7F53}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A99B19D4-7F87-03E5-B4A8-80420ECD7F53}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK ARM Desktop Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{A99B19D4-7F87-03E5-B4A8-80420ECD7F53}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{C7C68DA0-8501-16DD-1E6A-6C34AAA28F21}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{C7C68DA0-8501-16DD-1E6A-6C34AAA28F21}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Headers arm",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{C7C68DA0-8501-16DD-1E6A-6C34AAA28F21}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{30092A0E-1D50-8D66-E5EB-01F6AA8C1FFE}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{30092A0E-1D50-8D66-E5EB-01F6AA8C1FFE}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Headers arm64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{30092A0E-1D50-8D66-E5EB-01F6AA8C1FFE}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{C47F0820-6424-AE53-6BAF-2D41E829C855}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{C47F0820-6424-AE53-6BAF-2D41E829C855}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Headers x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{C47F0820-6424-AE53-6BAF-2D41E829C855}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{6F1B1243-7C12-5398-F575-5102906569A6}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{6F1B1243-7C12-5398-F575-5102906569A6}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Headers x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{6F1B1243-7C12-5398-F575-5102906569A6}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{6221E085-FE37-1068-E6D7-9D08ABD32AE2}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{6221E085-FE37-1068-E6D7-9D08ABD32AE2}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Libs arm",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{6221E085-FE37-1068-E6D7-9D08ABD32AE2}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{82931C8D-83CC-CF2E-F4FA-9AF0829BCA22}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{82931C8D-83CC-CF2E-F4FA-9AF0829BCA22}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Libs arm64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{82931C8D-83CC-CF2E-F4FA-9AF0829BCA22}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{1A457607-6262-3949-63D4-E1F85A3D95FD}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{1A457607-6262-3949-63D4-E1F85A3D95FD}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Libs x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{1A457607-6262-3949-63D4-E1F85A3D95FD}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{7CAF3DA2-79F6-C0DB-6C56-2462C8C4914C}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{7CAF3DA2-79F6-C0DB-6C56-2462C8C4914C}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Libs x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{7CAF3DA2-79F6-C0DB-6C56-2462C8C4914C}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{54E5E684-132E-23D3-CBF6-962122E2C568}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{54E5E684-132E-23D3-CBF6-962122E2C568}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Tools arm64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{54E5E684-132E-23D3-CBF6-962122E2C568}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{E5715C32-34B0-6F8E-81B8-13FB19B1B682}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{E5715C32-34B0-6F8E-81B8-13FB19B1B682}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Tools x64",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{E5715C32-34B0-6F8E-81B8-13FB19B1B682}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{02594FB6-9905-CBB9-10E8-EFCFB7122D7C}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{02594FB6-9905-CBB9-10E8-EFCFB7122D7C}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Desktop Tools x86",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{02594FB6-9905-CBB9-10E8-EFCFB7122D7C}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{0B12F7E3-EDAA-AF92-20BB-88540FEF54BA}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{0B12F7E3-EDAA-AF92-20BB-88540FEF54BA}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK DirectX x64 Remote",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{0B12F7E3-EDAA-AF92-20BB-88540FEF54BA}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{B9A2EE66-E1B9-ED85-E75B-041A348EB46D}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{B9A2EE66-E1B9-ED85-E75B-041A348EB46D}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK DirectX x86 Remote",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{B9A2EE66-E1B9-ED85-E75B-041A348EB46D}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{93F9D7FA-F2FD-837D-E53F-D79767071E44}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{93F9D7FA-F2FD-837D-E53F-D79767071E44}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK EULA",
+    "publisher": "Microsoft Corporations",
+    "uninstall_string": "MsiExec.exe /I{93F9D7FA-F2FD-837D-E53F-D79767071E44}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{31B6D021-BC97-82C5-9C42-16AB86C37215}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{31B6D021-BC97-82C5-9C42-16AB86C37215}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Facade Windows WinMD Versioned",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{31B6D021-BC97-82C5-9C42-16AB86C37215}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{CFC51C75-8F08-1968-BC86-70A396D353D9}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{CFC51C75-8F08-1968-BC86-70A396D353D9}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{CFC51C75-8F08-1968-BC86-70A396D353D9}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{AD3B32A0-5F71-DE89-B55A-9E85964186D8}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{AD3B32A0-5F71-DE89-B55A-9E85964186D8}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps Contracts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{AD3B32A0-5F71-DE89-B55A-9E85964186D8}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{31A3EB09-E226-B0E5-FA70-FF4B3CAD2ECF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{31A3EB09-E226-B0E5-FA70-FF4B3CAD2ECF}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{31A3EB09-E226-B0E5-FA70-FF4B3CAD2ECF}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{A1DA436A-2FA4-FDC2-9B0A-FBB40CF0499D}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A1DA436A-2FA4-FDC2-9B0A-FBB40CF0499D}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps Headers",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{A1DA436A-2FA4-FDC2-9B0A-FBB40CF0499D}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{C8977C7D-F685-8282-3C78-6276E03E3B32}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{C8977C7D-F685-8282-3C78-6276E03E3B32}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps Libs",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{C8977C7D-F685-8282-3C78-6276E03E3B32}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{7907F380-3CFD-247C-9DFC-A23CED2012F8}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{7907F380-3CFD-247C-9DFC-A23CED2012F8}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps Metadata",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{7907F380-3CFD-247C-9DFC-A23CED2012F8}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{68F11757-8C35-BEB6-2AED-6F7C6CC5B8C0}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{68F11757-8C35-BEB6-2AED-6F7C6CC5B8C0}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Apps Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{68F11757-8C35-BEB6-2AED-6F7C6CC5B8C0}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{B0CB401F-F1EF-E63C-8191-9A447FC24C58}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{B0CB401F-F1EF-E63C-8191-9A447FC24C58}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK for Windows Store Managed Apps Libs",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{B0CB401F-F1EF-E63C-8191-9A447FC24C58}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{FA582B75-7D9C-2717-5E64-1A8CC5E46ABD}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{FA582B75-7D9C-2717-5E64-1A8CC5E46ABD}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Modern Non-Versioned Developer Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{FA582B75-7D9C-2717-5E64-1A8CC5E46ABD}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{EA338ECA-C63F-4BD6-B66F-274433C75A49}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{EA338ECA-C63F-4BD6-B66F-274433C75A49}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Modern Versioned Developer Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{EA338ECA-C63F-4BD6-B66F-274433C75A49}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{7DBE357D-2AA2-7B68-267E-F8DAEB182D6F}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{7DBE357D-2AA2-7B68-267E-F8DAEB182D6F}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Redistributables",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{7DBE357D-2AA2-7B68-267E-F8DAEB182D6F}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{0F5E7D7D-8969-DC1B-205D-024FB54A0417}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{0F5E7D7D-8969-DC1B-205D-024FB54A0417}v10.1.22000.832\\Installers\\",
+    "name": "Windows SDK Signing Tools",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{0F5E7D7D-8969-DC1B-205D-024FB54A0417}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{d6a76ead-c762-4d93-9c24-1fa3efa1e12d}",
+    "install_location": "",
+    "install_source": "",
+    "name": "Windows Software Development Kit - Windows 10.0.22000.832",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "\"C:\\ProgramData\\Package Cache\\{d6a76ead-c762-4d93-9c24-1fa3efa1e12d}\\winsdksetup.exe\"  /uninstall",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{FE9F6D2C-A292-4552-A748-A2DFD5984F6C}",
+    "install_location": "",
+    "install_source": "C:\\Users\\joshf\\AppData\\Local\\Temp\\",
+    "name": "Windows Subsystem for Linux",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /X{FE9F6D2C-A292-4552-A748-A2DFD5984F6C}",
+    "version": "2.5.9.0"
+  },
+  {
+    "identifying_number": "{14705B25-5AC2-82AC-DB79-A35219016ABB}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{14705B25-5AC2-82AC-DB79-A35219016ABB}v10.1.22000.832\\Installers\\",
+    "name": "Windows Team Extension SDK",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{14705B25-5AC2-82AC-DB79-A35219016ABB}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{5F1D4DE5-BFF3-503B-D05F-40ED6927DE17}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{5F1D4DE5-BFF3-503B-D05F-40ED6927DE17}v10.1.22000.832\\Installers\\",
+    "name": "Windows Team Extension SDK Contracts",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{5F1D4DE5-BFF3-503B-D05F-40ED6927DE17}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Windows Web Experience Pack",
+    "publisher": "Microsoft Windows",
+    "uninstall_string": "",
+    "version": "526.1202.40.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Windows.CBSPreview_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Windows.CBSPreview",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.19580.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\ImmersiveControlPanel",
+    "install_source": "",
+    "name": "windows.immersivecontrolpanel",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "10.0.8.1000"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Windows\\SystemApps\\Windows.PrintDialog_cw5n1h2txyewy",
+    "install_source": "",
+    "name": "Windows.PrintDialog",
+    "publisher": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "uninstall_string": "",
+    "version": "6.2.3.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.2_2000.802.31.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.2",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2000.802.31.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.4_4000.1309.2056.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.4",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "4000.1309.2056.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.5_5001.373.1736.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.5",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "5001.373.1736.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.519.329.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.6",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "6000.519.329.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.7_7000.676.1651.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.7",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "7000.676.1651.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.8_8000.675.1142.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.1.8",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "8000.675.1142.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.2_2.0.1.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "WindowsAppRuntime.2",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2.0.1.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WinRAR",
+    "install_source": "",
+    "name": "WinRAR 7.20 (64-bit)",
+    "publisher": "win.rar GmbH",
+    "uninstall_string": "C:\\Program Files\\WinRAR\\uninstall.exe",
+    "version": "7.20.0"
+  },
+  {
+    "identifying_number": "{FBF034E1-563E-1F9D-DC45-491BB88E9B9E}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{FBF034E1-563E-1F9D-DC45-491BB88E9B9E}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense Desktop - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{FBF034E1-563E-1F9D-DC45-491BB88E9B9E}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{837DD890-14CE-9EB3-E8E1-F96A7EE5CFE5}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{837DD890-14CE-9EB3-E8E1-F96A7EE5CFE5}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense Desktop - Other Languages",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{837DD890-14CE-9EB3-E8E1-F96A7EE5CFE5}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{823E92A6-7572-174D-0671-95A55785F991}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{823E92A6-7572-174D-0671-95A55785F991}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense IoT - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{823E92A6-7572-174D-0671-95A55785F991}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{3A8F388C-D0F7-0A66-0EDE-D477B1B1B2F4}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{3A8F388C-D0F7-0A66-0EDE-D477B1B1B2F4}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense IoT - Other Languages",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{3A8F388C-D0F7-0A66-0EDE-D477B1B1B2F4}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{0F2D2736-F436-3F10-FB30-9D279F58305B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{0F2D2736-F436-3F10-FB30-9D279F58305B}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense Mobile - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{0F2D2736-F436-3F10-FB30-9D279F58305B}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{FEAF2203-A2AC-080C-9D55-9F09623F38C3}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{FEAF2203-A2AC-080C-9D55-9F09623F38C3}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense PPI - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{FEAF2203-A2AC-080C-9D55-9F09623F38C3}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{A06212FE-3C20-31C7-F88A-46673EF72E83}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{A06212FE-3C20-31C7-F88A-46673EF72E83}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense PPI - Other Languages",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{A06212FE-3C20-31C7-F88A-46673EF72E83}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{4308116D-A763-144D-DC81-6243BE6B2ADF}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{4308116D-A763-144D-DC81-6243BE6B2ADF}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense UAP - en-us",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{4308116D-A763-144D-DC81-6243BE6B2ADF}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{D307C8A5-7335-056E-6E64-E28544674EFD}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{D307C8A5-7335-056E-6E64-E28544674EFD}v10.1.22000.832\\Installers\\",
+    "name": "WinRT Intellisense UAP - Other Languages",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "MsiExec.exe /I{D307C8A5-7335-056E-6E64-E28544674EFD}",
+    "version": "10.1.22000.832"
+  },
+  {
+    "identifying_number": "{2A61402A-9B53-D48D-D424-FCA6DE8587DA}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{2A61402A-9B53-D48D-D424-FCA6DE8587DA}v10.1.26100.2454\\Installers\\",
+    "name": "WPT Redistributables",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{2A61402A-9B53-D48D-D424-FCA6DE8587DA}",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "{52C0D51D-BE7C-93C2-5C1E-B42C7FF6A452}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{52C0D51D-BE7C-93C2-5C1E-B42C7FF6A452}v10.1.26100.2454\\Installers\\",
+    "name": "WPTx64 (DesktopEditions)",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{52C0D51D-BE7C-93C2-5C1E-B42C7FF6A452}",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "{C92D0595-AF01-F41E-AE1F-D0EC812D6E3B}",
+    "install_location": "",
+    "install_source": "C:\\ProgramData\\Package Cache\\{C92D0595-AF01-F41E-AE1F-D0EC812D6E3B}v10.1.26100.2454\\Installers\\",
+    "name": "WPTx64 (OnecoreUAP)",
+    "publisher": "Microsoft",
+    "uninstall_string": "MsiExec.exe /I{C92D0595-AF01-F41E-AE1F-D0EC812D6E3B}",
+    "version": "10.1.26100.2454"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2605.1001.13.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Xbox",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "2605.1001.13.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "Xbox TCUI",
+    "publisher": "Microsoft Corporation",
+    "uninstall_string": "",
+    "version": "1.24.10001.0"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Local\\Microsoft\\WinGet\\Packages\\yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "install_source": "",
+    "name": "yt-dlp",
+    "publisher": "yt-dlp",
+    "uninstall_string": "winget uninstall --product-code yt-dlp.yt-dlp_Microsoft.Winget.Source_8wekyb3d8bbwe",
+    "version": "2026.03.13"
+  },
+  {
+    "identifying_number": "",
+    "install_location": "C:\\Users\\joshf\\AppData\\Roaming\\Zoom\\bin",
+    "install_source": "",
+    "name": "Zoom Workplace",
+    "publisher": "Zoom Communications, Inc.",
+    "uninstall_string": "\"C:\\Users\\joshf\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\" /uninstall",
+    "version": "6.7.8 (32670)"
+  }
+]

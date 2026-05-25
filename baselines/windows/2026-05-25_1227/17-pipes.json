@@ -1,0 +1,2137 @@
+[
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "1Password-1-1Password-BrowserSupport",
+    "pid": "36280"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "1password-sdk-integrations",
+    "pid": "36280"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "2f093fe9-a235-5d1c-9a62-3fae2cdf7eb1",
+    "pid": "12356"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "3FB6A1B2-40E0-43C3-AD6D-39A499FBCFB0_1",
+    "pid": "8544"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "7c3338c5-8eec-50ae-bc4a-1f6969419936",
+    "pid": "12356"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "9241ac0e-b118-4bbd-8f98-af3197d47a0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "AppContracts_x5FE56F35-1B4B-4FA5-97C1-E39E72B87716y",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "AppContracts_x813EAF69-A2CB-43DA-A1B6-EFBA267D5248y",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "AppContracts_x92D33124-45F3-4960-BDDF-4C9A092504B3y",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "ASUSDriverHub",
+    "pid": "12364"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "ASUSDriverHubUI",
+    "pid": "12332"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "atsvc",
+    "pid": "2548"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "chrome.nativeMessaging.in.15144c7ff574af11",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "chrome.nativeMessaging.in.9f8d9e32d1f95cc4",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "chrome.nativeMessaging.out.15144c7ff574af11",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "chrome.nativeMessaging.out.9f8d9e32d1f95cc4",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "claude-mcp-browser-bridge-joshf",
+    "pid": "21828"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "cowork-vm-service",
+    "pid": "9176"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_19460_TMCIFUJPJOBESXWP",
+    "pid": "19460"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_23848_FTNAGDSTGHBHGYJT",
+    "pid": "23848"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_24464_CKBGPSVIXCJETWXP",
+    "pid": "24464"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_28584_KPITRPAKJNGQFCPT",
+    "pid": "28584"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_32568_UKQXNGVZYQSTUGIZ",
+    "pid": "32568"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "crashpad_37012_YAGKNHWHFGMAYBYH",
+    "pid": "37012"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "discord-ipc-0",
+    "pid": "25280"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "discord-system-helper-keybinds-receiver-25280-1",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "discord-system-helper-keybinds-sender-25280-1",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "discord-system-helper-tools-receiver-25280-1",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "discord-system-helper-tools-sender-25280-1",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "5",
+    "max_instances": "255",
+    "name": "DiscordHook_Log_0",
+    "pid": "25280"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "docker_cli",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "docker_engine",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "6",
+    "max_instances": "255",
+    "name": "docker_engine_linux",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "docker_sandboxes_sandboxd",
+    "pid": "21412"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerAPIProxyControl",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "26",
+    "max_instances": "255",
+    "name": "dockerBackendApiServer",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerContainerFilesystem",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerControlInit",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerDebugSocketforwarder",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerDesktopBuildServer",
+    "pid": "27608"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "11",
+    "max_instances": "255",
+    "name": "dockerDesktopEngine",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "5",
+    "max_instances": "255",
+    "name": "dockerDesktopLinuxEngine",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerDesktopWindowsEngine",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerDiagnosticd",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerDnsForwarder",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerEthernet",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerEthernetQemu",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerEthernetVpnkit",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "10",
+    "max_instances": "255",
+    "name": "dockerExtensionManagerAPI",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerFilesystemEvent",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerHTTPProxy",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerModulesManagerAPI",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "dockerMutagenConduit",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerPerfSocketforwarder",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerStats",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerTools",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerVolume",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerVolumeContents",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerWindowsAPIProxyControl",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "dockerWsl2BootstrapExposePorts",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dockerWSLCrossDistroService",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dotnet-diagnostic-13676",
+    "pid": "13676"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dotnet-diagnostic-19176",
+    "pid": "19176"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dotnet-diagnostic-20244",
+    "pid": "20244"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "dotnet-diagnostic-23756",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "dotnet-diagnostic-30064",
+    "pid": "30064"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "epmapper",
+    "pid": "1432"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "eventlog",
+    "pid": "3772"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "30",
+    "name": "ExtEventPipe_Service",
+    "pid": "3764"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "GameInputServiceSession-002fb13b5fd5faa0-00000001",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "gecko-crash-helper-child-pipe.18027552425299919904",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "gecko-crash-helper-child-pipe.383847834327840831",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "gecko-crash-helper-pipe.32792",
+    "pid": "32792"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "gecko-crash-server-pipe.32792",
+    "pid": "3432"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "gecko.32792.36084.17960131810235564588",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "gecko.32792.36084.3383528708070638995",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "gecko.32792.36084.6729940476841540994",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "imageInspector",
+    "pid": "31040"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "InitShutdown",
+    "pid": "1644"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "LOCAL\\crashpad_10648_OUCNTXUGJEQRKYOD",
+    "pid": "10648"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.14356.32044.795883771764295697",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.14588.14592.15073904664350298779",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.16496.36184.696035220023345270",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.1088322803933435477",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.10928363831305788026",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.11037027568429903112",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.11222292609859802609",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.11384793203073490238",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.11502229034399652854",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.11630924078920592933",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.12424387361785713810",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.12872494325104233968",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.13143891145764962512",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.13182289503053488150",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.13695912579149595126",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.13975110493280154132",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.14178164658717615829",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.14426459572497475398",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.15243496388626649140",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.1527846038731868515",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.15579846569515230018",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.15626249905826452622",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.16028774208353273068",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.16230698061897693853",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.17863496810208093592",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.17985717255158300439",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.18061220834529580964",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.1855641027434178524",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.1934846851560856099",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.2223363488287607426",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.2435017318944432419",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.2710318656188225908",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.3146850372731497558",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.3542198920432263504",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.3733651455753091071",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.4220070147020830652",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.4727930902865061511",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.525213055301811307",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.5321315853647632376",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.5549475304099643466",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.5983959015378336308",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.613300012791083586",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.6241421076491252405",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.6370339539063585951",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.6517787135148146429",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.7618818305554025887",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.8178901123321777515",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.8454366055942030390",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.8550055155048194682",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.8896395924523600648",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.8910048537002437595",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.9039796296463934698",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.9504632115677810924",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.9710329393895285124",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.19896.9879258868560058091",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.1032515535859494788",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.11918874516959534324",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.12631313021503326200",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.12935676675898411059",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.13157820940223330451",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.13234476867498241285",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.14347616552098283450",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.15301109762390959679",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.17650411043161181445",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.2120029494468158592",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.235903149063482476",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.2447230612966194451",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.3620692640854897965",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.4030184117963808242",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.4516729596928949544",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.4820371139933990991",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.5120227503517213242",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.5958633612827855840",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.6556502761186410811",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.19460.20240.9315759407555496676",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.20844.20832.12259254907366382078",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.21332.21344.6989836417447493507",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.21376.21324.16566904131045966227",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.22160.21392.1638733930067682302",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.22784.38048.14598823557309421005",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23568.23680.15977843782227868601",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.10072561161473745779",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.12436372794026121506",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.12460784034322433818",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.2270334224200725885",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.7327084826447266294",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25080.863213080156716900",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25176.2243491679733487341",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25176.2364754589570274741",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25176.4526220080418925769",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25176.6474257658638082376",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.23848.25176.8686155775878999017",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28136.28140.3205594972466918936",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.27972.10783984877196390897",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.27972.15003752531440360839",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.27972.7568156142523430034",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.27972.8433329475446985015",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.28044.10778448581912151760",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.28044.17116666076222603135",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.28044.2366755640062005586",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.28044.4159380693383229739",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28652.28044.4847230850690517514",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.28736.28740.6334662319238614183",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.29684.6976.11894891228731550334",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.10536.10919055306909897556",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.10536.11050988220859897221",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.10536.13554570522680983256",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.10536.17401460211303202335",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.10536.9326587043637804355",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.26668.12948624074326683891",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.30736.26668.3620702825950891536",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.31884.12836.547963449827967209",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32092.12336.14986417407537640550",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.20500.2770997949147222846",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.20500.2906079826594695202",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.20500.2983967170316582097",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.20500.4397383189082870940",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.13071163255303660578",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.14483674255837919203",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.4019726696507727897",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.527403513461070562",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.814192721546309807",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32568.32144.9684737813566385713",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.32748.32140.1346203801571320212",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.34896.24624.1805111422159829812",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.33848.16677735333571525197",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.33848.16830503398645797012",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.33848.2859167570870251339",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.33848.4729139421911549881",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.36256.15875407072964850502",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.36280.36256.9322743237433711808",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.11087831336715364396",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.11336704151039654558",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.3502530289250372251",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.5946372723106368534",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.6590557175330593628",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.16580.9331946902226104153",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.11220345120456900404",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.1374111601932891388",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.14438487539944488932",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.18268968867498649671",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.3166404714666556515",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.4827063635342561556",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.6228528241692792510",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37012.20108.6714225894647610768",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.37808.2768.2356841906071451077",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.5488.7576.4755382049321241210",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.8916.8920.10613637446967586572",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "LOCAL\\mojo.9292.30608.4946656252367807469",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "LOCAL\\mojo.external_task_manager_v2_37012",
+    "pid": "37012"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "LOCAL\\mojo.plugin_browser_pipe_Default_",
+    "pid": "37012"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "LogiPluginService",
+    "pid": "19176"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "logitech_kiros_agent-c029f23cd829e48da8058f92993ecf14",
+    "pid": "12356"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "2",
+    "max_instances": "255",
+    "name": "logitech_kiros_updater",
+    "pid": "5952"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "5",
+    "max_instances": "255",
+    "name": "lsass",
+    "pid": "1804"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "LSM_API_service",
+    "pid": "816"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.24520.1865169314609927600",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.24520.6400947871412158866",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.24520.6452829957575826093",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.3828.3529248180933414475",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.3828.4795840307728271148",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.3828.7247946705140001541",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.24464.3828.9928357734633943145",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.29260.29608.2054229432142641656",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "mojo.29260.29608.3104172238625040904",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "mojo.chromoting.host_services_mojo_ipc",
+    "pid": "5488"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "7",
+    "max_instances": "255",
+    "name": "MsFteWds",
+    "pid": "15036"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "ntsvcs",
+    "pid": "1728"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "12",
+    "max_instances": "255",
+    "name": "NvMessageBusBroadcast",
+    "pid": "5800"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "5",
+    "max_instances": "255",
+    "name": "NvMessageBusBroadcastNVIDIA.Display.Driver",
+    "pid": "3652"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "NvWksServiceDdisplayPipe",
+    "pid": "5640"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "Okta.Coordinator.pipe",
+    "pid": "5764"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "openssh-ssh-agent",
+    "pid": "36280"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "osquery.em",
+    "pid": "30752"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "10",
+    "name": "osquerypipe",
+    "pid": "5212"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "PIPE_EVENTROOT\\CIMV2SCM EVENT PROVIDER",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "ProtectedPrefix\\LocalService\\FTHPIPE",
+    "pid": "26372"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "PSHost.134241997788351025.30064.DefaultAppDomain.pwsh",
+    "pid": "30064"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "PSHost.134241997790424317.20244.DefaultAppDomain.pwsh",
+    "pid": "20244"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "PSHost.134242036510008134.36236.DefaultAppDomain.powershell",
+    "pid": "36236"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "RemotingCrashService\\S-1-5-18",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "ROUTER",
+    "pid": "18808"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "2",
+    "max_instances": "2",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\crashpad_7212_XUUMLOSFKZCELSIQ",
+    "pid": "7212"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.14184.7204.18371486659686708790",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.4152.4368.14909892822677218012",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.14953026575172615733",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.16533784746605993972",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.17524336746602744972",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.17933518612648968649",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.4572960544377977417",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16164.975433006703946520",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16372.16863991184295375875",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16372.18049986055466538366",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16372.5255080356762609585",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651\\mojo.7212.16372.5330316510289753202",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-924012159-129201922\\mojo.34620.13640.8366844664573482210",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-924012159-129201922\\mojo.37652.8024.8098513384096948951",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Sessions\\1\\AppContainerNamedObjects\\S-1-15-2-3251537155-1984446955-2931258699-841473695-1938553385-924012159-129201922\\mojo.37768.23232.720865930391372973",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "SmartAllocSrv_1",
+    "pid": "4020"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "srvsvc",
+    "pid": "6316"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "16",
+    "name": "StreamSvcPipe",
+    "pid": "8784"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "51",
+    "max_instances": "255",
+    "name": "synergy-daemon",
+    "pid": "6044"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "4",
+    "max_instances": "255",
+    "name": "synergy-service-sock",
+    "pid": "17576"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "trkwks",
+    "pid": "6056"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "uv\\0-17576",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "uv\\1-17576",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "uv\\18446744073709551615-17576",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "W32PosixPipe.0000174c.00000000",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "WarpStable_URI_CHANNEL",
+    "pid": "7016"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "WidgetsCommandPipe",
+    "pid": "14356"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "1",
+    "max_instances": "255",
+    "name": "WiFiNetworkManagerTask",
+    "pid": "4620"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-1388-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-330-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-598-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-66c-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-6c0-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-70c-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-9f4-0",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "Winsock2\\CatalogChangeListener-ebc-0",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "5",
+    "max_instances": "255",
+    "name": "wkssvc",
+    "pid": "5292"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_BYTE",
+    "instances": "1",
+    "max_instances": "1",
+    "name": "wsl_debugshell_S-1-5-21-3955821020-1641407556-3806016771-1001",
+    "pid": "8876"
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "{609ac362-bfb7-4cc0-9675-75d00ac28244}",
+    "pid": ""
+  },
+  {
+    "flags": "",
+    "instances": "",
+    "max_instances": "",
+    "name": "{8edad1c4-e6ca-45a6-8f79-6d37a1c0d9e3}",
+    "pid": ""
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "{F685F498-BFDE-49D3-8132-D708F76B990E}",
+    "pid": "5800"
+  },
+  {
+    "flags": "PIPE_CLIENT_END,PIPE_TYPE_MESSAGE",
+    "instances": "3",
+    "max_instances": "255",
+    "name": "{F685F498-BFDE-49D3-8132-D708F76B990E}_maxine_S-1-5-21-3955821020-1641407556-3806016771-1001",
+    "pid": "30736"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "description": "root",
+    "directory": "/root",
+    "gid": "0",
+    "shell": "/bin/bash",
+    "uid": "0",
+    "username": "root"
+  },
+  {
+    "description": "daemon",
+    "directory": "/usr/sbin",
+    "gid": "1",
+    "shell": "/usr/sbin/nologin",
+    "uid": "1",
+    "username": "daemon"
+  },
+  {
+    "description": "bin",
+    "directory": "/bin",
+    "gid": "2",
+    "shell": "/usr/sbin/nologin",
+    "uid": "2",
+    "username": "bin"
+  },
+  {
+    "description": "sys",
+    "directory": "/dev",
+    "gid": "3",
+    "shell": "/usr/sbin/nologin",
+    "uid": "3",
+    "username": "sys"
+  },
+  {
+    "description": "sync",
+    "directory": "/bin",
+    "gid": "65534",
+    "shell": "/bin/sync",
+    "uid": "4",
+    "username": "sync"
+  },
+  {
+    "description": "games",
+    "directory": "/usr/games",
+    "gid": "60",
+    "shell": "/usr/sbin/nologin",
+    "uid": "5",
+    "username": "games"
+  },
+  {
+    "description": "man",
+    "directory": "/var/cache/man",
+    "gid": "12",
+    "shell": "/usr/sbin/nologin",
+    "uid": "6",
+    "username": "man"
+  },
+  {
+    "description": "lp",
+    "directory": "/var/spool/lpd",
+    "gid": "7",
+    "shell": "/usr/sbin/nologin",
+    "uid": "7",
+    "username": "lp"
+  },
+  {
+    "description": "mail",
+    "directory": "/var/mail",
+    "gid": "8",
+    "shell": "/usr/sbin/nologin",
+    "uid": "8",
+    "username": "mail"
+  },
+  {
+    "description": "news",
+    "directory": "/var/spool/news",
+    "gid": "9",
+    "shell": "/usr/sbin/nologin",
+    "uid": "9",
+    "username": "news"
+  },
+  {
+    "description": "uucp",
+    "directory": "/var/spool/uucp",
+    "gid": "10",
+    "shell": "/usr/sbin/nologin",
+    "uid": "10",
+    "username": "uucp"
+  },
+  {
+    "description": "proxy",
+    "directory": "/bin",
+    "gid": "13",
+    "shell": "/usr/sbin/nologin",
+    "uid": "13",
+    "username": "proxy"
+  },
+  {
+    "description": "www-data",
+    "directory": "/var/www",
+    "gid": "33",
+    "shell": "/usr/sbin/nologin",
+    "uid": "33",
+    "username": "www-data"
+  },
+  {
+    "description": "backup",
+    "directory": "/var/backups",
+    "gid": "34",
+    "shell": "/usr/sbin/nologin",
+    "uid": "34",
+    "username": "backup"
+  },
+  {
+    "description": "Mailing List Manager",
+    "directory": "/var/list",
+    "gid": "38",
+    "shell": "/usr/sbin/nologin",
+    "uid": "38",
+    "username": "list"
+  },
+  {
+    "description": "ircd",
+    "directory": "/run/ircd",
+    "gid": "39",
+    "shell": "/usr/sbin/nologin",
+    "uid": "39",
+    "username": "irc"
+  },
+  {
+    "description": "",
+    "directory": "/nonexistent",
+    "gid": "65534",
+    "shell": "/usr/sbin/nologin",
+    "uid": "42",
+    "username": "_apt"
+  },
+  {
+    "description": "DHCP Client Daemon,,,",
+    "directory": "/usr/lib/dhcpcd",
+    "gid": "65534",
+    "shell": "/bin/false",
+    "uid": "100",
+    "username": "dhcpcd"
+  },
+  {
+    "description": "",
+    "directory": "/nonexistent",
+    "gid": "101",
+    "shell": "/usr/sbin/nologin",
+    "uid": "101",
+    "username": "messagebus"
+  },
+  {
+    "description": "",
+    "directory": "/nonexistent",
+    "gid": "102",
+    "shell": "/usr/sbin/nologin",
+    "uid": "102",
+    "username": "syslog"
+  },
+  {
+    "description": "",
+    "directory": "/run/uuidd",
+    "gid": "103",
+    "shell": "/usr/sbin/nologin",
+    "uid": "103",
+    "username": "uuidd"
+  },
+  {
+    "description": "",
+    "directory": "/var/lib/landscape",
+    "gid": "105",
+    "shell": "/usr/sbin/nologin",
+    "uid": "104",
+    "username": "landscape"
+  },
+  {
+    "description": "User for polkitd",
+    "directory": "/",
+    "gid": "990",
+    "shell": "/usr/sbin/nologin",
+    "uid": "990",
+    "username": "polkitd"
+  },
+  {
+    "description": "systemd Resolver",
+    "directory": "/",
+    "gid": "991",
+    "shell": "/usr/sbin/nologin",
+    "uid": "991",
+    "username": "systemd-resolve"
+  },
+  {
+    "description": "systemd Time Synchronization",
+    "directory": "/",
+    "gid": "996",
+    "shell": "/usr/sbin/nologin",
+    "uid": "996",
+    "username": "systemd-timesync"
+  },
+  {
+    "description": "systemd Network Management",
+    "directory": "/",
+    "gid": "998",
+    "shell": "/usr/sbin/nologin",
+    "uid": "998",
+    "username": "systemd-network"
+  },
+  {
+    "description": ",,,",
+    "directory": "/home/joshf",
+    "gid": "1000",
+    "shell": "/bin/bash",
+    "uid": "1000",
+    "username": "joshf"
+  },
+  {
+    "description": "nobody",
+    "directory": "/nonexistent",
+    "gid": "65534",
+    "shell": "/usr/sbin/nologin",
+    "uid": "65534",
+    "username": "nobody"
+  }
+]

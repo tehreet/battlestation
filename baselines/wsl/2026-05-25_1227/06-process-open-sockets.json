@@ -1,0 +1,50 @@
+[
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "3456",
+    "process_name": "MainThread",
+    "process_path": "/home/linuxbrew/.linuxbrew/Cellar/node/24.6.0/bin/node",
+    "protocol": "6"
+  },
+  {
+    "family": "2",
+    "local_address": "127.0.0.1",
+    "local_port": "20241",
+    "process_name": "cloudflared",
+    "process_path": "/home/joshf/cloudflared",
+    "protocol": "6"
+  },
+  {
+    "family": "10",
+    "local_address": "::",
+    "local_port": "38923",
+    "process_name": "cloudflared",
+    "process_path": "/home/joshf/cloudflared",
+    "protocol": "17"
+  },
+  {
+    "family": "10",
+    "local_address": "::",
+    "local_port": "54856",
+    "process_name": "cloudflared",
+    "process_path": "/home/joshf/cloudflared",
+    "protocol": "17"
+  },
+  {
+    "family": "10",
+    "local_address": "::",
+    "local_port": "55971",
+    "process_name": "cloudflared",
+    "process_path": "/home/joshf/cloudflared",
+    "protocol": "17"
+  },
+  {
+    "family": "10",
+    "local_address": "::",
+    "local_port": "56469",
+    "process_name": "cloudflared",
+    "process_path": "/home/joshf/cloudflared",
+    "protocol": "17"
+  }
+]

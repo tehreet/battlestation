@@ -1,0 +1,126 @@
+[
+  {
+    "name": "BuildNumber",
+    "value": ""
+  },
+  {
+    "name": "Caption",
+    "value": "1654"
+  },
+  {
+    "name": "CodeSet",
+    "value": ""
+  },
+  {
+    "name": "CurrentLanguage",
+    "value": "en|US|iso8859-1"
+  },
+  {
+    "name": "Description",
+    "value": "1654"
+  },
+  {
+    "name": "IdentificationCode",
+    "value": ""
+  },
+  {
+    "name": "LanguageEdition",
+    "value": ""
+  },
+  {
+    "name": "Manufacturer",
+    "value": "American Megatrends Inc."
+  },
+  {
+    "name": "Name",
+    "value": "1654"
+  },
+  {
+    "name": "OtherTargetOS",
+    "value": ""
+  },
+  {
+    "name": "SerialNumber",
+    "value": "System Serial Number"
+  },
+  {
+    "name": "SMBIOSBIOSVersion",
+    "value": "1654"
+  },
+  {
+    "name": "SoftwareElementID",
+    "value": "1654"
+  },
+  {
+    "name": "Status",
+    "value": "OK"
+  },
+  {
+    "name": "Version",
+    "value": "ALASKA - 1072009"
+  },
+  {
+    "name": "BIOSVersion",
+    "value": "{ALASKA - 1072009, 1654, American Megatrends - 5001A}"
+  },
+  {
+    "name": "ListOfLanguages",
+    "value": "{en|US|iso8859-1, fr|FR|iso8859-1, zh|TW|unicode, zh|CN|unicode, ja|JP|unicode, de|DE|iso8859-1, es|ES|iso8859-1, ru|RU|iso8859-5, ko|KR|unicode}"
+  },
+  {
+    "name": "InstallableLanguages",
+    "value": "9"
+  },
+  {
+    "name": "SMBIOSMajorVersion",
+    "value": "3"
+  },
+  {
+    "name": "SMBIOSMinorVersion",
+    "value": "6"
+  },
+  {
+    "name": "SoftwareElementState",
+    "value": "3"
+  },
+  {
+    "name": "TargetOperatingSystem",
+    "value": "0"
+  },
+  {
+    "name": "BiosCharacteristics",
+    "value": "{7, 11, 12, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 32, 33, 40, 42, 43}"
+  },
+  {
+    "name": "SystemBiosMajorVersion",
+    "value": "16"
+  },
+  {
+    "name": "SystemBiosMinorVersion",
+    "value": "54"
+  },
+  {
+    "name": "EmbeddedControllerMajorVersion",
+    "value": "255"
+  },
+  {
+    "name": "EmbeddedControllerMinorVersion",
+    "value": "255"
+  },
+  {
+    "name": "PrimaryBIOS",
+    "value": "true"
+  },
+  {
+    "name": "SMBIOSPresent",
+    "value": "true"
+  },
+  {
+    "name": "InstallDate",
+    "value": "0"
+  },
+  {
+    "name": "ReleaseDate",
+    "value": "1775088000"
+  }
+]

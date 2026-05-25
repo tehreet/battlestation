@@ -1,0 +1,3836 @@
+[
+  {
+    "args": "",
+    "name": "-.mount",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "-.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apparmor",
+    "path": "/etc/init.d/apparmor",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apparmor.service",
+    "path": "/usr/lib/systemd/system/apparmor.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport",
+    "path": "/etc/init.d/apport",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport-autoreport.path",
+    "path": "/usr/lib/systemd/system/apport-autoreport.path",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport-autoreport.service",
+    "path": "/usr/lib/systemd/system/apport-autoreport.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport-autoreport.timer",
+    "path": "/usr/lib/systemd/system/apport-autoreport.timer",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport-forward.socket",
+    "path": "/usr/lib/systemd/system/apport-forward.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apport.service",
+    "path": "/usr/lib/systemd/system/apport.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apt-daily-upgrade.service",
+    "path": "/usr/lib/systemd/system/apt-daily-upgrade.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apt-daily-upgrade.timer",
+    "path": "/usr/lib/systemd/system/apt-daily-upgrade.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apt-daily.service",
+    "path": "/usr/lib/systemd/system/apt-daily.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "apt-daily.timer",
+    "path": "/usr/lib/systemd/system/apt-daily.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "AT-SPI D-Bus Bus",
+    "path": "/usr/libexec/at-spi-bus-launcher --launch-immediately",
+    "source": "/etc/xdg/autostart/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "auditd.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "basic.target",
+    "path": "/usr/lib/systemd/system/basic.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "blockdev@dev-loop0.target",
+    "path": "/usr/lib/systemd/system/blockdev@.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "blockdev@dev-sdd.target",
+    "path": "/usr/lib/systemd/system/blockdev@.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "blockdev@dev-sdf.target",
+    "path": "/usr/lib/systemd/system/blockdev@.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "connman.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "console-getty.service",
+    "path": "/usr/lib/systemd/system/console-getty.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "console-screen.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "console-setup.service",
+    "path": "/usr/lib/systemd/system/console-setup.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "console-setup.sh",
+    "path": "/etc/init.d/console-setup.sh",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "cron",
+    "path": "/etc/init.d/cron",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "cron.service",
+    "path": "/usr/lib/systemd/system/cron.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "cryptsetup-pre.target",
+    "path": "/usr/lib/systemd/system/cryptsetup-pre.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "cryptsetup.target",
+    "path": "/usr/lib/systemd/system/cryptsetup.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dbus",
+    "path": "/etc/init.d/dbus",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dbus.service",
+    "path": "/usr/lib/systemd/system/dbus.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dbus.socket",
+    "path": "/usr/lib/systemd/system/dbus.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-25.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-26.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-27.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-28.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-29.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-30.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-31.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2ddiskseq-32.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d36002248026ebf4890d53166b66a69e14.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d36002248057629a171396a557b5f04cff.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d3600224805b5ac507b80a045bc3303ae1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d36002248092185fba9297981d331a0c7d.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d3600224809fda8afe1d4dd95a3b669d3e.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-scsi\\x2d360022480b4a79ab1ad07e9d0c4ed6dff.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x6002248026ebf4890d53166b66a69e14.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x6002248057629a171396a557b5f04cff.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x600224805b5ac507b80a045bc3303ae1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x6002248092185fba9297981d331a0c7d.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x600224809fda8afe1d4dd95a3b669d3e.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2did-wwn\\x2d0x60022480b4a79ab1ad07e9d0c4ed6dff.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dlabel-ISOIMAGE.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dlabel-wsl\\x2dcli\\x2dbundle.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dloop\\x2dinode-8:64\\x2d122547.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dloop\\x2dinode-8:64\\x2d158874.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2dpath-acpi\\x2dMSFT1000:00\\x2dscsi\\x2d0:0:0:5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-0aa3ab73\\x2d274c\\x2d4d67\\x2daf2b\\x2d6bf08e047ba8.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-2026\\x2d02\\x2d05\\x2d17\\x2d15\\x2d44\\x2d00.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-2026\\x2d02\\x2d13\\x2d23\\x2d29\\x2d58\\x2d00.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-2ce8fe66\\x2dd985\\x2d4187\\x2da11b\\x2d8a1f934aca03.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-6b28376a\\x2dfff0\\x2d484c\\x2d82a8\\x2d48ca38f83f86.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-disk-by\\x2duuid-fa49b589\\x2d84da\\x2d415b\\x2db033\\x2d70c549e5314b.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hugepages.mount",
+    "path": "/usr/lib/systemd/system/dev-hugepages.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-hvc7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-loop0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-loop1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-mqueue.mount",
+    "path": "/usr/lib/systemd/system/dev-mqueue.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ptp0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ptp_hyperv.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram10.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram11.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram12.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram13.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram14.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram15.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram8.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ram9.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sda.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sdb.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sdc.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sdd.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sde.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-sdf.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-ttyS7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-virtio\\x2dports-hvc0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-virtio\\x2dports-hvc1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-virtio\\x2dports-hvc2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-vport0p0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-vport0p1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dev-vport0p2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "display-manager.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dmesg.service",
+    "path": "/usr/lib/systemd/system/dmesg.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "Docker-host.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dpkg-db-backup.service",
+    "path": "/usr/lib/systemd/system/dpkg-db-backup.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "dpkg-db-backup.timer",
+    "path": "/usr/lib/systemd/system/dpkg-db-backup.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "e2scrub_all.service",
+    "path": "/usr/lib/systemd/system/e2scrub_all.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "e2scrub_all.timer",
+    "path": "/usr/lib/systemd/system/e2scrub_all.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "e2scrub_reap.service",
+    "path": "/usr/lib/systemd/system/e2scrub_reap.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": "root"
+  },
+  {
+    "args": "",
+    "name": "emergency.service",
+    "path": "/usr/lib/systemd/system/emergency.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "emergency.target",
+    "path": "/usr/lib/systemd/system/emergency.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "final.target",
+    "path": "/usr/lib/systemd/system/final.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "first-boot-complete.target",
+    "path": "/usr/lib/systemd/system/first-boot-complete.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "fstrim.service",
+    "path": "/usr/lib/systemd/system/fstrim.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "fstrim.timer",
+    "path": "/usr/lib/systemd/system/fstrim.timer",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "getty-pre.target",
+    "path": "/usr/lib/systemd/system/getty-pre.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "getty-static.service",
+    "path": "/usr/lib/systemd/system/getty-static.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "getty.target",
+    "path": "/usr/lib/systemd/system/getty.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "getty@tty1.service",
+    "path": "/usr/lib/systemd/system/getty@.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "graphical.target",
+    "path": "/usr/lib/systemd/system/graphical.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "home.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "init.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "init.scope",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-cleanup.service",
+    "path": "/usr/lib/systemd/system/initrd-cleanup.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-fs.target",
+    "path": "/usr/lib/systemd/system/initrd-fs.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-parse-etc.service",
+    "path": "/usr/lib/systemd/system/initrd-parse-etc.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-root-device.target",
+    "path": "/usr/lib/systemd/system/initrd-root-device.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-root-fs.target",
+    "path": "/usr/lib/systemd/system/initrd-root-fs.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-switch-root.service",
+    "path": "/usr/lib/systemd/system/initrd-switch-root.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-switch-root.target",
+    "path": "/usr/lib/systemd/system/initrd-switch-root.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-udevadm-cleanup-db.service",
+    "path": "/usr/lib/systemd/system/initrd-udevadm-cleanup-db.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd-usr-fs.target",
+    "path": "/usr/lib/systemd/system/initrd-usr-fs.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "initrd.target",
+    "path": "/usr/lib/systemd/system/initrd.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "integritysetup.target",
+    "path": "/usr/lib/systemd/system/integritysetup.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "kbd.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "keyboard-setup.service",
+    "path": "/usr/lib/systemd/system/keyboard-setup.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "keyboard-setup.sh",
+    "path": "/etc/init.d/keyboard-setup.sh",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "kmod",
+    "path": "/etc/init.d/kmod",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "kmod-static-nodes.service",
+    "path": "/usr/lib/systemd/system/kmod-static-nodes.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "landscape-client.service",
+    "path": "/usr/lib/systemd/system/landscape-client.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ldconfig.service",
+    "path": "/usr/lib/systemd/system/ldconfig.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "local-fs-pre.target",
+    "path": "/usr/lib/systemd/system/local-fs-pre.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "local-fs.target",
+    "path": "/usr/lib/systemd/system/local-fs.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "logrotate.service",
+    "path": "/usr/lib/systemd/system/logrotate.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "logrotate.timer",
+    "path": "/usr/lib/systemd/system/logrotate.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "man-db.service",
+    "path": "/usr/lib/systemd/system/man-db.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": "man"
+  },
+  {
+    "args": "",
+    "name": "man-db.timer",
+    "path": "/usr/lib/systemd/system/man-db.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-c.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop-cli\\x2dtools.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop-docker\\x2ddesktop\\x2duser\\x2ddistro.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop-shared\\x2dsockets-guest\\x2dservices.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop-shared\\x2dsockets-host\\x2dservices.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-03d89dfd9a94ee342aaa27e2f803e74e52229e6dfe0e62e52fe6303cdfd891d0.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-0a85a370a7a8414bf6ea49a18f6a07b77c97fde7242f933fbbfd5791fe3a57ee.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-174a39ed5066f908a66f174d058e0ea3342d8b5684cc2fd56db173bd20f2d043.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-23d1af12413e46981a64e03cd2ba44f930113481e4efc874ea66d4ab1564b044.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-573098dcc0bcc218e70c39e6bdabe98a6e4dd059f84e8df702ea0332ad03d51e.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-7ebd489354dd65e7352e8244c66f460c84e15efa8637c34b6ef6efeaa331ad36.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-92a40b28ad938a90eed328f070b1fff71586155281c2a6d434ff0abf1532eca9.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl-docker\\x2ddesktop\\x2dbind\\x2dmounts-Ubuntu-docker.sock.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wsl.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg-distro.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg-doc.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg-run-user-0.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg-run-user-1000.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg-versions.txt.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "mnt-wslg.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@configfs.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@dm_mod.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@drm.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@efi_pstore.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@fuse.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "modprobe@loop.service",
+    "path": "/usr/lib/systemd/system/modprobe@.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "motd-news.service",
+    "path": "/usr/lib/systemd/system/motd-news.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "motd-news.timer",
+    "path": "/usr/lib/systemd/system/motd-news.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "multi-user.target",
+    "path": "/usr/lib/systemd/system/multi-user.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "netplan-ovs-cleanup.service",
+    "path": "/run/systemd/system/netplan-ovs-cleanup.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "network-online.target",
+    "path": "/usr/lib/systemd/system/network-online.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "network-pre.target",
+    "path": "/usr/lib/systemd/system/network-pre.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "network.target",
+    "path": "/usr/lib/systemd/system/network.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "networkd-dispatcher.service",
+    "path": "/usr/lib/systemd/system/networkd-dispatcher.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "NetworkManager.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "nss-lookup.target",
+    "path": "/usr/lib/systemd/system/nss-lookup.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "nss-user-lookup.target",
+    "path": "/usr/lib/systemd/system/nss-user-lookup.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "osqueryd",
+    "path": "/etc/init.d/osqueryd",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ovsdb-server.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "paths.target",
+    "path": "/usr/lib/systemd/system/paths.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "plymouth-quit-wait.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "plymouth-start.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "polkit.service",
+    "path": "/usr/lib/systemd/system/polkit.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": "polkitd"
+  },
+  {
+    "args": "",
+    "name": "proc-sys-fs-binfmt_misc.automount",
+    "path": "/usr/lib/systemd/system/proc-sys-fs-binfmt_misc.automount",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "proc-sys-fs-binfmt_misc.mount",
+    "path": "/usr/lib/systemd/system/proc-sys-fs-binfmt_misc.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "procps",
+    "path": "/etc/init.d/procps",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "rc-local.service",
+    "path": "/usr/lib/systemd/system/rc-local.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "remote-cryptsetup.target",
+    "path": "/usr/lib/systemd/system/remote-cryptsetup.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "remote-fs-pre.target",
+    "path": "/usr/lib/systemd/system/remote-fs-pre.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "remote-fs.target",
+    "path": "/usr/lib/systemd/system/remote-fs.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "remote-veritysetup.target",
+    "path": "/usr/lib/systemd/system/remote-veritysetup.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "rescue.service",
+    "path": "/usr/lib/systemd/system/rescue.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "rescue.target",
+    "path": "/usr/lib/systemd/system/rescue.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "rsync",
+    "path": "/etc/init.d/rsync",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "rsyslog.service",
+    "path": "/usr/lib/systemd/system/rsyslog.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dresolved.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dsysctl.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dsysusers.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dtmpfiles\\x2dclean.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-credentials-systemd\\x2dtmpfiles\\x2dsetup\\x2ddev\\x2dearly.service.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-shm.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-snapd-ns-docker.mnt.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-snapd-ns.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-user-0.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-user-1000.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "run-user.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "session-5.scope",
+    "path": "/run/systemd/transient/session-5.scope",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "session-6.scope",
+    "path": "/run/systemd/transient/session-6.scope",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "setvtrgb.service",
+    "path": "/usr/lib/systemd/system/setvtrgb.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "shutdown.target",
+    "path": "/usr/lib/systemd/system/shutdown.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "slices.target",
+    "path": "/usr/lib/systemd/system/slices.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "Snap user application autostart helper",
+    "path": "/usr/bin/snap userd --autostart",
+    "source": "/etc/xdg/autostart/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-aws\\x2dcli-2188.mount",
+    "path": "/etc/systemd/system/snap-aws\\x2dcli-2188.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-aws\\x2dcli-2193.mount",
+    "path": "/etc/systemd/system/snap-aws\\x2dcli-2193.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-core22-2339.mount",
+    "path": "/etc/systemd/system/snap-core22-2339.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-core22-2411.mount",
+    "path": "/etc/systemd/system/snap-core22-2411.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-core24-1587.mount",
+    "path": "/etc/systemd/system/snap-core24-1587.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-core24-1643.mount",
+    "path": "/etc/systemd/system/snap-core24-1643.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-docker-3377.mount",
+    "path": "/etc/systemd/system/snap-docker-3377.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-docker-3505.mount",
+    "path": "/etc/systemd/system/snap-docker-3505.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-doctl-2406.mount",
+    "path": "/etc/systemd/system/snap-doctl-2406.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-doctl-2419.mount",
+    "path": "/etc/systemd/system/snap-doctl-2419.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-snapd-26382.mount",
+    "path": "/etc/systemd/system/snap-snapd-26382.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-snapd-26865.mount",
+    "path": "/etc/systemd/system/snap-snapd-26865.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-yt\\x2ddlp-1278.mount",
+    "path": "/etc/systemd/system/snap-yt\\x2ddlp-1278.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap-yt\\x2ddlp-1286.mount",
+    "path": "/etc/systemd/system/snap-yt\\x2ddlp-1286.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap.docker.dockerd.service",
+    "path": "/etc/systemd/system/snap.docker.dockerd.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snap.mount",
+    "path": "/run/systemd/generator/snap.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.apparmor.service",
+    "path": "/usr/lib/systemd/system/snapd.apparmor.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.autoimport.service",
+    "path": "/usr/lib/systemd/system/snapd.autoimport.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.core-fixup.service",
+    "path": "/usr/lib/systemd/system/snapd.core-fixup.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.failure.service",
+    "path": "/usr/lib/systemd/system/snapd.failure.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.mounts-pre.target",
+    "path": "/usr/lib/systemd/system/snapd.mounts-pre.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.mounts.target",
+    "path": "/usr/lib/systemd/system/snapd.mounts.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.recovery-chooser-trigger.service",
+    "path": "/usr/lib/systemd/system/snapd.recovery-chooser-trigger.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.seeded.service",
+    "path": "/usr/lib/systemd/system/snapd.seeded.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.service",
+    "path": "/usr/lib/systemd/system/snapd.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.snap-repair.service",
+    "path": "/usr/lib/systemd/system/snapd.snap-repair.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.snap-repair.timer",
+    "path": "/usr/lib/systemd/system/snapd.snap-repair.timer",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.socket",
+    "path": "/usr/lib/systemd/system/snapd.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "snapd.system-shutdown.service",
+    "path": "/usr/lib/systemd/system/snapd.system-shutdown.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sockets.target",
+    "path": "/usr/lib/systemd/system/sockets.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "soft-reboot.target",
+    "path": "/usr/lib/systemd/system/soft-reboot.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "swap.target",
+    "path": "/usr/lib/systemd/system/swap.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-522dabb7\\x2d87e4\\x2d4f14\\x2d8b22\\x2d140d84313c51-net-eth0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-c4b741f5\\x2d5582\\x2d4c98\\x2d8f8b\\x2d2e082933c396-pci5582:00-5582:00:00.0-virtio0-virtio\\x2dports-vport0p2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:0-block-sda.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:1-block-sdb.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:2-block-sdc.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:3-block-sdd.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:4-block-sde.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-MSFT1000:00-fd1d2cbd\\x2dce7c\\x2d535c\\x2d966b\\x2deb5f811c95f0-host0-target0:0:0-0:0:0:5-block-sdf.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-platform-serial8250-tty-ttyS7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-loop0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-loop1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram10.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram11.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram12.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram13.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram14.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram15.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram8.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-block-ram9.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-net-br\\x2d9e8957df8204.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-net-docker0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-ptp-ptp0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc1.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc2.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc3.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc4.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc5.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc6.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-devices-virtual-tty-hvc7.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-fs-fuse-connections.mount",
+    "path": "/usr/lib/systemd/system/sys-fs-fuse-connections.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-kernel-config.mount",
+    "path": "/usr/lib/systemd/system/sys-kernel-config.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-kernel-debug.mount",
+    "path": "/usr/lib/systemd/system/sys-kernel-debug.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-kernel-tracing.mount",
+    "path": "/usr/lib/systemd/system/sys-kernel-tracing.mount",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-module-configfs.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-module-fuse.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-subsystem-net-devices-br\\x2d9e8957df8204.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-subsystem-net-devices-docker0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sys-subsystem-net-devices-eth0.device",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "sysinit.target",
+    "path": "/usr/lib/systemd/system/sysinit.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "syslog.socket",
+    "path": "/usr/lib/systemd/system/syslog.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "system-getty.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "system-modprobe.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "system.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-ask-password-console.path",
+    "path": "/usr/lib/systemd/system/systemd-ask-password-console.path",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-ask-password-console.service",
+    "path": "/usr/lib/systemd/system/systemd-ask-password-console.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-ask-password-wall.path",
+    "path": "/usr/lib/systemd/system/systemd-ask-password-wall.path",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-ask-password-wall.service",
+    "path": "/usr/lib/systemd/system/systemd-ask-password-wall.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-battery-check.service",
+    "path": "/usr/lib/systemd/system/systemd-battery-check.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-binfmt.service",
+    "path": "/usr/lib/systemd/system/systemd-binfmt.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-bsod.service",
+    "path": "/usr/lib/systemd/system/systemd-bsod.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-firstboot.service",
+    "path": "/usr/lib/systemd/system/systemd-firstboot.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-fsck-root.service",
+    "path": "/usr/lib/systemd/system/systemd-fsck-root.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-fsckd.service",
+    "path": "/usr/lib/systemd/system/systemd-fsckd.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-fsckd.socket",
+    "path": "/usr/lib/systemd/system/systemd-fsckd.socket",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-hibernate-resume.service",
+    "path": "/usr/lib/systemd/system/systemd-hibernate-resume.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-hwdb-update.service",
+    "path": "/usr/lib/systemd/system/systemd-hwdb-update.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-initctl.service",
+    "path": "/usr/lib/systemd/system/systemd-initctl.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-initctl.socket",
+    "path": "/usr/lib/systemd/system/systemd-initctl.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journal-catalog-update.service",
+    "path": "/usr/lib/systemd/system/systemd-journal-catalog-update.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journal-flush.service",
+    "path": "/usr/lib/systemd/system/systemd-journal-flush.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journald-audit.socket",
+    "path": "/usr/lib/systemd/system/systemd-journald-audit.socket",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journald-dev-log.socket",
+    "path": "/usr/lib/systemd/system/systemd-journald-dev-log.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journald.service",
+    "path": "/usr/lib/systemd/system/systemd-journald.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-journald.socket",
+    "path": "/usr/lib/systemd/system/systemd-journald.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-logind.service",
+    "path": "/usr/lib/systemd/system/systemd-logind.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-machine-id-commit.service",
+    "path": "/usr/lib/systemd/system/systemd-machine-id-commit.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-modules-load.service",
+    "path": "/usr/lib/systemd/system/systemd-modules-load.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-networkd.service",
+    "path": "/usr/lib/systemd/system/systemd-networkd.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": "systemd-network"
+  },
+  {
+    "args": "",
+    "name": "systemd-networkd.socket",
+    "path": "/usr/lib/systemd/system/systemd-networkd.socket",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-oomd.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pcrextend.socket",
+    "path": "/usr/lib/systemd/system/systemd-pcrextend.socket",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pcrmachine.service",
+    "path": "/usr/lib/systemd/system/systemd-pcrmachine.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pcrphase-initrd.service",
+    "path": "/usr/lib/systemd/system/systemd-pcrphase-initrd.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pcrphase-sysinit.service",
+    "path": "/usr/lib/systemd/system/systemd-pcrphase-sysinit.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pcrphase.service",
+    "path": "/usr/lib/systemd/system/systemd-pcrphase.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-pstore.service",
+    "path": "/usr/lib/systemd/system/systemd-pstore.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-random-seed.service",
+    "path": "/usr/lib/systemd/system/systemd-random-seed.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-remount-fs.service",
+    "path": "/usr/lib/systemd/system/systemd-remount-fs.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-repart.service",
+    "path": "/usr/lib/systemd/system/systemd-repart.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-resolved.service",
+    "path": "/usr/lib/systemd/system/systemd-resolved.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": "systemd-resolve"
+  },
+  {
+    "args": "",
+    "name": "systemd-soft-reboot.service",
+    "path": "/usr/lib/systemd/system/systemd-soft-reboot.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-sysctl.service",
+    "path": "/usr/lib/systemd/system/systemd-sysctl.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-sysext.service",
+    "path": "/usr/lib/systemd/system/systemd-sysext.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-sysext.socket",
+    "path": "/usr/lib/systemd/system/systemd-sysext.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-sysusers.service",
+    "path": "/usr/lib/systemd/system/systemd-sysusers.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-timesyncd.service",
+    "path": "/usr/lib/systemd/system/systemd-timesyncd.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": "systemd-timesync"
+  },
+  {
+    "args": "",
+    "name": "systemd-tmpfiles-clean.service",
+    "path": "/usr/lib/systemd/system/systemd-tmpfiles-clean.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tmpfiles-clean.timer",
+    "path": "/usr/lib/systemd/system/systemd-tmpfiles-clean.timer",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tmpfiles-setup-dev-early.service",
+    "path": "/usr/lib/systemd/system/systemd-tmpfiles-setup-dev-early.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tmpfiles-setup-dev.service",
+    "path": "/usr/lib/systemd/system/systemd-tmpfiles-setup-dev.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tmpfiles-setup.service",
+    "path": "/usr/lib/systemd/system/systemd-tmpfiles-setup.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tpm2-setup-early.service",
+    "path": "/usr/lib/systemd/system/systemd-tpm2-setup-early.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-tpm2-setup.service",
+    "path": "/usr/lib/systemd/system/systemd-tpm2-setup.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-udev-settle.service",
+    "path": "/usr/lib/systemd/system/systemd-udev-settle.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-udev-trigger.service",
+    "path": "/usr/lib/systemd/system/systemd-udev-trigger.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-udevd-control.socket",
+    "path": "/usr/lib/systemd/system/systemd-udevd-control.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-udevd-kernel.socket",
+    "path": "/usr/lib/systemd/system/systemd-udevd-kernel.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-udevd.service",
+    "path": "/usr/lib/systemd/system/systemd-udevd.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-update-done.service",
+    "path": "/usr/lib/systemd/system/systemd-update-done.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-update-utmp-runlevel.service",
+    "path": "/usr/lib/systemd/system/systemd-update-utmp-runlevel.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-update-utmp.service",
+    "path": "/usr/lib/systemd/system/systemd-update-utmp.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-user-sessions.service",
+    "path": "/usr/lib/systemd/system/systemd-user-sessions.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "systemd-vconsole-setup.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "time-set.target",
+    "path": "/usr/lib/systemd/system/time-set.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "time-sync.target",
+    "path": "/usr/lib/systemd/system/time-sync.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "timers.target",
+    "path": "/usr/lib/systemd/system/timers.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "tmp-.X11\\x2dunix.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "tmp.mount",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ua-auto-attach.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ua-reboot-cmds.service",
+    "path": "/usr/lib/systemd/system/ua-reboot-cmds.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ua-timer.service",
+    "path": "/usr/lib/systemd/system/ua-timer.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ua-timer.timer",
+    "path": "/usr/lib/systemd/system/ua-timer.timer",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ubuntu-advantage-cloud-id-shim.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "ubuntu-advantage.service",
+    "path": "/usr/lib/systemd/system/ubuntu-advantage.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "umount.target",
+    "path": "/usr/lib/systemd/system/umount.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "unattended-upgrades",
+    "path": "/etc/init.d/unattended-upgrades",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "unattended-upgrades.service",
+    "path": "/usr/lib/systemd/system/unattended-upgrades.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "User folders update",
+    "path": "xdg-user-dirs-update",
+    "source": "/etc/xdg/autostart/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user-0.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user-1000.slice",
+    "path": "",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user-runtime-dir@0.service",
+    "path": "/usr/lib/systemd/system/user-runtime-dir@.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user-runtime-dir@1000.service",
+    "path": "/usr/lib/systemd/system/user-runtime-dir@.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user.slice",
+    "path": "/usr/lib/systemd/system/user.slice",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "user@0.service",
+    "path": "/usr/lib/systemd/system/user@.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": "0"
+  },
+  {
+    "args": "",
+    "name": "user@1000.service",
+    "path": "/usr/lib/systemd/system/user@.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": "1000"
+  },
+  {
+    "args": "",
+    "name": "usr-lib-modules-6.6.87.2\\x2dmicrosoft\\x2dstandard\\x2dWSL2.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "usr-lib-wsl-drivers.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "usr-lib-wsl-lib.mount",
+    "path": "",
+    "source": "/proc/self/mountinfo",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "uuidd",
+    "path": "/etc/init.d/uuidd",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "uuidd.service",
+    "path": "/usr/lib/systemd/system/uuidd.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": "uuidd"
+  },
+  {
+    "args": "",
+    "name": "uuidd.socket",
+    "path": "/usr/lib/systemd/system/uuidd.socket",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "veritysetup-pre.target",
+    "path": "/usr/lib/systemd/system/veritysetup-pre.target",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "veritysetup.target",
+    "path": "/usr/lib/systemd/system/veritysetup.target",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "whoopsie.path",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "wsl-pro.service",
+    "path": "/usr/lib/systemd/system/wsl-pro.service",
+    "source": "",
+    "status": "active",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "wslg.service",
+    "path": "/run/systemd/generator/wslg.service",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "x11-common",
+    "path": "/etc/init.d/x11-common",
+    "source": "/etc/init.d/",
+    "status": "enabled",
+    "type": "Startup Item",
+    "username": ""
+  },
+  {
+    "args": "",
+    "name": "zfs-mount.service",
+    "path": "",
+    "source": "",
+    "status": "inactive",
+    "type": "systemd unit",
+    "username": ""
+  }
+]

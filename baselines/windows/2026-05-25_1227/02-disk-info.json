@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Disk drive",
+    "disk_index": "0",
+    "disk_size": "2000396321280",
+    "hardware_model": "SHPP41-2000GM",
+    "id": "\\\\.\\PHYSICALDRIVE0",
+    "manufacturer": "(Standard disk drives)",
+    "name": "\\\\.\\PHYSICALDRIVE0",
+    "partitions": "3",
+    "pnp_device_id": "SCSI\\DISK&VEN_NVME&PROD_SHPP41-2000GM\\5&2D230738&0&000000",
+    "serial": "ACE4_2E00_35D1_F17B_2EE4_AC00_0000_0001.",
+    "type": "SCSI"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "board_model": "",
+    "board_serial": "",
+    "board_vendor": "",
+    "board_version": "",
+    "computer_name": "battlestation",
+    "cpu_brand": "AMD Ryzen 7 9800X3D 8-Core Processor           ",
+    "cpu_logical_cores": "16",
+    "cpu_microcode": "0xffffffff",
+    "cpu_physical_cores": "8",
+    "cpu_sockets": "1",
+    "cpu_subtype": "68",
+    "cpu_type": "x86_64",
+    "hardware_model": "",
+    "hardware_serial": "",
+    "hardware_vendor": "",
+    "hardware_version": "",
+    "hostname": "battlestation.localdomain",
+    "local_hostname": "battlestation.localdomain",
+    "physical_memory": "32415866880",
+    "uuid": "55f837d4-ddb8-4a40-ba7a-28f68b515406"
+  }
+]

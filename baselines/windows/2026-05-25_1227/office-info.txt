@@ -1,0 +1,37 @@
+
+
+AudienceId                      : 492350f6-3a01-4f97-b9c0-c7c6ddf67d60
+ClientFolder                    : C:\Program Files\Common Files\Microsoft Shared\ClickToRun
+ClientVersionToReport           : 16.0.19929.20172
+WatcherInterval                 : 3600000
+PipelineServerName              : ClickToRun_Pipeline16
+PackageLockerPath               : C:\ProgramData\Microsoft\Office
+VersionToReport                 : 16.0.19929.20172
+ScenarioCulture                 : 
+InstallID                       : BDBA700A-67BA-405D-B606-218FBE85EA22
+Platform                        : x64
+InstallationPath                : C:\Program Files\Microsoft Office
+ClientCulture                   : en-us
+CDNBaseUrl                      : http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60
+AudienceData                    : Production::CC
+O365HomePremRetail.MediaType    : CDN
+O365HomePremRetail.ExcludedApps : groove
+RSODReset                       : False
+ProductReleaseIds               : O365HomePremRetail
+O365HomePremRetail.OSPPReady    : 1
+UpdateChannel                   : http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60
+UpdateChannelChanged            : False
+OneDriveClientAddon             : INSTALLED
+VCRedistAddon                   : NOT_INSTALLED
+ClientXnoneHash                 : 
+ClientXnoneVersion              : 16.0.19929.20172
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Clic
+                                  kToRun\Configuration
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Clic
+                                  kToRun
+PSChildName                     : Configuration
+PSDrive                         : HKLM
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+
+
